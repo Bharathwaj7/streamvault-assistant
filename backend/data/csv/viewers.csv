@@ -1,0 +1,2001 @@
+viewer_id,age_group,gender,city,country,subscription_type,joined_date,preferred_genre,preferred_platform,is_active
+1,18-24,Female,Delhi,India,Free,2023-01-03,Comedy,TabletApp,1
+2,45-54,Non-binary,Mumbai,India,Free,2023-01-23,Sci-Fi,TabletApp,1
+3,55+,Female,Paris,Various,Basic,2023-12-23,Sci-Fi,StreamMax,1
+4,35-44,Male,Singapore,Various,Basic,2022-04-14,Thriller,SmartTV,1
+5,35-44,Male,Toronto,Various,Premium,2022-12-30,Drama,SmartTV,1
+6,18-24,Non-binary,Paris,Various,Basic,2023-07-01,Romance,MobileApp,1
+7,35-44,Non-binary,Los Angeles,Various,Basic,2023-12-03,Comedy,StreamMax,1
+8,35-44,Female,Mumbai,India,Premium,2022-03-09,Drama,TabletApp,0
+9,25-34,Non-binary,New York,Various,Family,2023-02-10,Romance,WebBrowser,1
+10,25-34,Non-binary,Bangalore,India,Premium,2024-02-04,Action,WebBrowser,0
+11,35-44,Male,Los Angeles,Various,Basic,2023-06-06,Thriller,StreamMax,1
+12,18-24,Male,Toronto,Various,Basic,2024-03-22,Romance,WebBrowser,1
+13,45-54,Non-binary,Los Angeles,Various,Family,2023-06-26,Comedy,TabletApp,0
+14,18-24,Non-binary,Mumbai,India,Premium,2024-02-27,Romance,SmartTV,1
+15,25-34,Female,Los Angeles,Various,Free,2024-01-10,Romance,SmartTV,0
+16,25-34,Non-binary,Singapore,Various,Free,2023-10-03,Comedy,TabletApp,1
+17,35-44,Male,Bangalore,India,Free,2023-09-06,Comedy,WebBrowser,1
+18,35-44,Female,Berlin,Various,Basic,2022-03-01,Drama,TabletApp,0
+19,45-54,Male,Delhi,India,Basic,2022-05-12,Romance,WebBrowser,0
+20,35-44,Non-binary,Bangalore,India,Family,2022-08-05,Action,MobileApp,1
+21,35-44,Female,Los Angeles,Various,Family,2022-05-04,Drama,MobileApp,1
+22,55+,Non-binary,Mumbai,India,Basic,2023-08-26,Drama,StreamMax,1
+23,18-24,Male,Paris,Various,Free,2022-02-02,Comedy,StreamMax,1
+24,45-54,Male,Chennai,India,Basic,2024-01-11,Action,TabletApp,1
+25,45-54,Female,Singapore,Various,Basic,2022-04-07,Sci-Fi,WebBrowser,1
+26,45-54,Non-binary,Los Angeles,Various,Free,2023-11-21,Romance,StreamMax,1
+27,35-44,Male,Dubai,Various,Basic,2022-07-16,Drama,TabletApp,1
+28,25-34,Female,Los Angeles,Various,Family,2022-09-13,Sci-Fi,WebBrowser,1
+29,55+,Male,Toronto,Various,Free,2023-10-30,Action,StreamMax,0
+30,25-34,Male,Berlin,Various,Family,2023-05-13,Thriller,MobileApp,0
+31,18-24,Male,Berlin,Various,Family,2022-01-03,Thriller,SmartTV,0
+32,45-54,Female,Singapore,Various,Family,2023-12-15,Romance,TabletApp,1
+33,25-34,Male,London,Various,Premium,2022-08-11,Sci-Fi,TabletApp,1
+34,35-44,Male,Mumbai,India,Free,2023-08-22,Thriller,TabletApp,0
+35,25-34,Male,Tokyo,Various,Free,2024-05-21,Drama,StreamMax,1
+36,25-34,Female,Paris,Various,Free,2023-08-07,Drama,TabletApp,1
+37,18-24,Female,Sydney,Various,Premium,2022-09-25,Drama,SmartTV,1
+38,25-34,Non-binary,Los Angeles,Various,Premium,2023-04-14,Comedy,StreamMax,1
+39,55+,Male,Sydney,Various,Free,2023-07-05,Drama,TabletApp,1
+40,35-44,Male,Berlin,Various,Basic,2023-01-14,Comedy,MobileApp,1
+41,35-44,Non-binary,Tokyo,Various,Free,2023-11-15,Action,SmartTV,0
+42,25-34,Female,Delhi,India,Free,2022-04-20,Romance,TabletApp,1
+43,55+,Male,Chennai,India,Premium,2022-07-28,Romance,SmartTV,1
+44,18-24,Male,Chennai,India,Family,2024-04-29,Comedy,StreamMax,1
+45,25-34,Non-binary,Singapore,Various,Premium,2022-06-15,Romance,WebBrowser,1
+46,55+,Male,Los Angeles,Various,Free,2022-03-19,Romance,MobileApp,1
+47,35-44,Non-binary,Toronto,Various,Basic,2023-03-17,Drama,StreamMax,1
+48,18-24,Female,Berlin,Various,Basic,2023-11-30,Drama,StreamMax,1
+49,45-54,Non-binary,Tokyo,Various,Basic,2022-08-31,Drama,MobileApp,0
+50,25-34,Non-binary,Mumbai,India,Premium,2024-03-12,Thriller,MobileApp,1
+51,18-24,Female,Singapore,Various,Free,2024-05-29,Thriller,MobileApp,1
+52,45-54,Female,Berlin,Various,Premium,2024-04-20,Drama,MobileApp,1
+53,45-54,Female,Hyderabad,India,Premium,2022-03-13,Comedy,SmartTV,1
+54,55+,Female,Los Angeles,Various,Free,2022-04-29,Comedy,MobileApp,1
+55,18-24,Male,Chennai,India,Family,2022-12-20,Romance,SmartTV,1
+56,18-24,Female,Tokyo,Various,Basic,2022-09-18,Sci-Fi,WebBrowser,1
+57,55+,Non-binary,Berlin,Various,Basic,2023-01-08,Thriller,StreamMax,0
+58,35-44,Non-binary,Berlin,Various,Premium,2023-11-11,Sci-Fi,SmartTV,1
+59,45-54,Female,Paris,Various,Family,2023-12-15,Comedy,TabletApp,1
+60,45-54,Non-binary,Los Angeles,Various,Basic,2023-09-23,Action,SmartTV,1
+61,18-24,Female,Toronto,Various,Premium,2022-08-04,Thriller,TabletApp,1
+62,45-54,Female,New York,Various,Family,2023-11-23,Drama,TabletApp,1
+63,25-34,Non-binary,Berlin,Various,Free,2022-10-18,Action,TabletApp,1
+64,25-34,Non-binary,Toronto,Various,Premium,2022-08-19,Drama,MobileApp,1
+65,45-54,Non-binary,Hyderabad,India,Free,2023-04-12,Thriller,TabletApp,1
+66,45-54,Female,Dubai,Various,Family,2022-09-07,Drama,StreamMax,0
+67,18-24,Female,Toronto,Various,Basic,2022-06-30,Romance,TabletApp,1
+68,25-34,Male,Tokyo,Various,Family,2022-05-17,Thriller,TabletApp,0
+69,35-44,Female,Sydney,Various,Family,2024-04-30,Action,WebBrowser,0
+70,45-54,Female,Dubai,Various,Premium,2024-02-09,Drama,SmartTV,1
+71,45-54,Non-binary,Tokyo,Various,Basic,2022-10-09,Thriller,StreamMax,1
+72,35-44,Female,Hyderabad,India,Premium,2023-07-08,Sci-Fi,MobileApp,1
+73,25-34,Non-binary,Los Angeles,Various,Basic,2022-03-07,Thriller,WebBrowser,1
+74,45-54,Male,London,Various,Basic,2024-05-02,Thriller,WebBrowser,0
+75,18-24,Non-binary,Sydney,Various,Family,2023-05-04,Sci-Fi,SmartTV,1
+76,45-54,Non-binary,Los Angeles,Various,Basic,2023-05-15,Drama,SmartTV,1
+77,45-54,Female,Mumbai,India,Family,2024-01-12,Drama,WebBrowser,0
+78,55+,Male,Sydney,Various,Family,2023-08-30,Action,StreamMax,1
+79,25-34,Female,Los Angeles,Various,Basic,2022-02-21,Comedy,WebBrowser,1
+80,35-44,Female,London,Various,Family,2022-10-12,Thriller,SmartTV,1
+81,18-24,Non-binary,London,Various,Free,2022-12-25,Drama,StreamMax,1
+82,18-24,Male,Paris,Various,Basic,2022-07-24,Sci-Fi,TabletApp,1
+83,45-54,Non-binary,Bangalore,India,Free,2023-08-01,Drama,WebBrowser,1
+84,35-44,Male,Singapore,Various,Free,2024-03-07,Drama,SmartTV,1
+85,35-44,Non-binary,Mumbai,India,Family,2023-02-11,Romance,MobileApp,1
+86,25-34,Male,Dubai,Various,Premium,2024-05-20,Romance,TabletApp,1
+87,55+,Male,Singapore,Various,Premium,2023-06-30,Thriller,SmartTV,1
+88,35-44,Male,Paris,Various,Family,2024-04-22,Thriller,StreamMax,1
+89,45-54,Non-binary,New York,Various,Basic,2023-03-22,Drama,TabletApp,0
+90,55+,Non-binary,Chennai,India,Family,2023-04-22,Thriller,TabletApp,1
+91,25-34,Male,Toronto,Various,Premium,2023-04-07,Drama,WebBrowser,1
+92,45-54,Female,Paris,Various,Free,2023-05-22,Comedy,MobileApp,1
+93,35-44,Female,New York,Various,Premium,2023-09-03,Romance,SmartTV,1
+94,25-34,Male,Tokyo,Various,Basic,2024-01-08,Thriller,WebBrowser,1
+95,45-54,Non-binary,Hyderabad,India,Family,2023-04-04,Sci-Fi,StreamMax,1
+96,25-34,Female,Los Angeles,Various,Premium,2023-04-30,Action,TabletApp,1
+97,55+,Female,Dubai,Various,Premium,2023-12-21,Thriller,SmartTV,1
+98,18-24,Non-binary,Hyderabad,India,Basic,2022-11-20,Sci-Fi,TabletApp,0
+99,25-34,Male,Dubai,Various,Basic,2024-01-27,Thriller,SmartTV,1
+100,55+,Non-binary,Singapore,Various,Premium,2022-04-13,Drama,SmartTV,1
+101,35-44,Male,Bangalore,India,Basic,2022-10-08,Sci-Fi,StreamMax,1
+102,25-34,Non-binary,Dubai,Various,Family,2022-04-16,Sci-Fi,TabletApp,1
+103,45-54,Female,London,Various,Basic,2022-02-22,Comedy,WebBrowser,1
+104,45-54,Female,Delhi,India,Free,2023-08-14,Romance,StreamMax,1
+105,55+,Female,Singapore,Various,Free,2022-09-12,Sci-Fi,TabletApp,1
+106,55+,Non-binary,Sydney,Various,Basic,2024-03-05,Action,WebBrowser,1
+107,35-44,Non-binary,London,Various,Family,2022-11-09,Action,TabletApp,1
+108,18-24,Male,Dubai,Various,Basic,2022-09-28,Romance,StreamMax,1
+109,55+,Male,Bangalore,India,Basic,2022-01-03,Thriller,WebBrowser,1
+110,35-44,Male,London,Various,Basic,2022-10-23,Romance,SmartTV,1
+111,18-24,Non-binary,London,Various,Basic,2022-09-28,Romance,TabletApp,1
+112,25-34,Female,Berlin,Various,Free,2023-07-12,Drama,MobileApp,0
+113,25-34,Male,Toronto,Various,Free,2022-06-19,Comedy,TabletApp,1
+114,35-44,Female,Sydney,Various,Free,2023-04-25,Romance,SmartTV,1
+115,55+,Non-binary,Chennai,India,Family,2023-03-25,Sci-Fi,TabletApp,1
+116,35-44,Non-binary,Los Angeles,Various,Premium,2022-01-27,Sci-Fi,MobileApp,0
+117,55+,Non-binary,Toronto,Various,Free,2024-02-23,Romance,SmartTV,1
+118,25-34,Female,Singapore,Various,Family,2022-10-12,Drama,TabletApp,1
+119,45-54,Male,Toronto,Various,Family,2022-12-23,Thriller,SmartTV,1
+120,25-34,Female,Delhi,India,Family,2023-12-12,Thriller,SmartTV,1
+121,55+,Male,Los Angeles,Various,Family,2022-04-01,Comedy,SmartTV,1
+122,45-54,Non-binary,Singapore,Various,Free,2023-11-05,Action,WebBrowser,1
+123,55+,Female,Hyderabad,India,Family,2023-10-03,Thriller,StreamMax,1
+124,25-34,Female,Tokyo,Various,Family,2023-12-17,Thriller,StreamMax,1
+125,55+,Male,Paris,Various,Basic,2022-11-15,Action,StreamMax,1
+126,25-34,Male,Delhi,India,Family,2022-05-01,Romance,MobileApp,1
+127,35-44,Non-binary,Dubai,Various,Premium,2023-03-02,Thriller,WebBrowser,1
+128,25-34,Female,Tokyo,Various,Basic,2023-09-06,Action,MobileApp,0
+129,45-54,Female,Chennai,India,Premium,2024-04-20,Sci-Fi,SmartTV,1
+130,55+,Non-binary,Toronto,Various,Family,2022-06-02,Thriller,TabletApp,1
+131,55+,Non-binary,New York,Various,Family,2023-04-12,Comedy,MobileApp,0
+132,55+,Female,Hyderabad,India,Basic,2024-05-26,Thriller,StreamMax,1
+133,45-54,Female,London,Various,Basic,2023-05-23,Sci-Fi,MobileApp,1
+134,35-44,Male,Sydney,Various,Family,2022-04-13,Action,WebBrowser,1
+135,45-54,Non-binary,Bangalore,India,Basic,2022-03-18,Thriller,SmartTV,1
+136,45-54,Non-binary,Dubai,Various,Free,2024-05-22,Comedy,TabletApp,1
+137,45-54,Non-binary,New York,Various,Free,2023-09-25,Sci-Fi,MobileApp,1
+138,35-44,Male,Berlin,Various,Free,2023-03-21,Sci-Fi,StreamMax,1
+139,35-44,Male,Dubai,Various,Free,2022-11-29,Sci-Fi,SmartTV,1
+140,25-34,Male,Los Angeles,Various,Family,2023-08-03,Romance,MobileApp,1
+141,55+,Female,Delhi,India,Basic,2023-05-25,Action,MobileApp,1
+142,35-44,Female,Paris,Various,Premium,2023-11-14,Sci-Fi,WebBrowser,0
+143,55+,Male,Paris,Various,Free,2023-03-29,Comedy,TabletApp,1
+144,35-44,Female,Los Angeles,Various,Premium,2022-07-23,Thriller,WebBrowser,1
+145,55+,Female,Los Angeles,Various,Premium,2023-12-18,Comedy,StreamMax,0
+146,45-54,Female,Paris,Various,Free,2023-08-03,Romance,StreamMax,0
+147,45-54,Female,Dubai,Various,Basic,2023-09-14,Comedy,MobileApp,1
+148,35-44,Non-binary,Sydney,Various,Basic,2023-10-06,Sci-Fi,StreamMax,1
+149,18-24,Non-binary,London,Various,Premium,2024-01-20,Drama,StreamMax,0
+150,45-54,Male,New York,Various,Basic,2022-05-16,Action,SmartTV,1
+151,35-44,Male,Berlin,Various,Premium,2024-04-24,Thriller,SmartTV,1
+152,18-24,Female,New York,Various,Free,2022-05-25,Drama,WebBrowser,0
+153,55+,Female,Singapore,Various,Free,2024-03-20,Thriller,StreamMax,1
+154,45-54,Female,Delhi,India,Premium,2023-08-22,Thriller,SmartTV,1
+155,45-54,Male,Hyderabad,India,Premium,2023-09-17,Drama,StreamMax,1
+156,35-44,Non-binary,London,Various,Family,2022-04-30,Drama,StreamMax,0
+157,45-54,Male,Chennai,India,Free,2022-08-29,Action,MobileApp,1
+158,55+,Female,New York,Various,Basic,2023-03-01,Romance,StreamMax,1
+159,45-54,Female,Sydney,Various,Free,2023-12-08,Comedy,MobileApp,1
+160,35-44,Male,Hyderabad,India,Premium,2023-07-12,Romance,SmartTV,1
+161,25-34,Male,Chennai,India,Family,2022-04-04,Romance,MobileApp,1
+162,18-24,Male,Sydney,Various,Premium,2022-09-07,Drama,TabletApp,1
+163,55+,Male,Toronto,Various,Basic,2024-04-12,Drama,SmartTV,1
+164,55+,Male,Singapore,Various,Premium,2024-05-29,Drama,MobileApp,1
+165,25-34,Male,Singapore,Various,Free,2022-05-15,Sci-Fi,SmartTV,1
+166,55+,Female,Hyderabad,India,Free,2022-06-28,Comedy,StreamMax,1
+167,55+,Male,Los Angeles,Various,Free,2023-05-03,Thriller,SmartTV,1
+168,45-54,Non-binary,Delhi,India,Basic,2023-09-22,Sci-Fi,TabletApp,1
+169,18-24,Male,Paris,Various,Family,2024-05-17,Thriller,WebBrowser,1
+170,45-54,Male,London,Various,Free,2022-11-26,Action,MobileApp,1
+171,55+,Non-binary,Chennai,India,Premium,2023-01-26,Action,TabletApp,1
+172,55+,Female,Tokyo,Various,Free,2024-03-23,Romance,StreamMax,0
+173,55+,Non-binary,Paris,Various,Basic,2023-03-17,Thriller,MobileApp,1
+174,45-54,Female,Toronto,Various,Family,2024-01-18,Sci-Fi,SmartTV,1
+175,35-44,Female,Paris,Various,Basic,2023-12-05,Thriller,StreamMax,1
+176,18-24,Female,Delhi,India,Free,2024-02-02,Romance,SmartTV,1
+177,18-24,Non-binary,Tokyo,Various,Premium,2023-11-18,Sci-Fi,WebBrowser,1
+178,45-54,Non-binary,Paris,Various,Free,2022-10-22,Action,SmartTV,1
+179,55+,Male,Sydney,Various,Basic,2023-11-04,Thriller,MobileApp,1
+180,55+,Female,New York,Various,Free,2024-02-20,Comedy,TabletApp,1
+181,55+,Non-binary,Los Angeles,Various,Free,2023-09-16,Romance,SmartTV,1
+182,35-44,Female,Chennai,India,Premium,2022-01-07,Drama,MobileApp,1
+183,18-24,Male,Los Angeles,Various,Free,2022-04-04,Romance,TabletApp,1
+184,45-54,Female,Los Angeles,Various,Basic,2023-01-14,Comedy,SmartTV,1
+185,55+,Male,Sydney,Various,Free,2022-06-09,Drama,TabletApp,1
+186,35-44,Female,Delhi,India,Family,2023-05-13,Action,WebBrowser,1
+187,55+,Male,Hyderabad,India,Premium,2023-03-17,Sci-Fi,SmartTV,1
+188,45-54,Non-binary,Sydney,Various,Premium,2022-02-16,Drama,WebBrowser,0
+189,18-24,Male,Mumbai,India,Premium,2022-08-05,Drama,SmartTV,1
+190,18-24,Female,Delhi,India,Family,2022-06-29,Drama,WebBrowser,1
+191,55+,Non-binary,Hyderabad,India,Premium,2022-03-15,Thriller,StreamMax,1
+192,18-24,Female,London,Various,Family,2023-08-11,Thriller,WebBrowser,1
+193,18-24,Female,Los Angeles,Various,Basic,2024-03-31,Action,WebBrowser,1
+194,35-44,Male,Berlin,Various,Family,2024-05-14,Sci-Fi,MobileApp,1
+195,55+,Male,Los Angeles,Various,Family,2022-11-14,Romance,SmartTV,1
+196,25-34,Male,Singapore,Various,Free,2023-06-28,Action,MobileApp,0
+197,35-44,Non-binary,New York,Various,Basic,2022-08-30,Sci-Fi,MobileApp,1
+198,55+,Male,Bangalore,India,Free,2022-07-01,Romance,WebBrowser,1
+199,55+,Female,Sydney,Various,Premium,2023-10-05,Comedy,MobileApp,1
+200,45-54,Non-binary,London,Various,Premium,2024-03-26,Comedy,TabletApp,1
+201,18-24,Female,Tokyo,Various,Family,2023-04-08,Sci-Fi,StreamMax,1
+202,18-24,Non-binary,Chennai,India,Free,2023-09-22,Action,TabletApp,1
+203,55+,Non-binary,Sydney,Various,Free,2023-04-06,Action,MobileApp,1
+204,55+,Male,London,Various,Free,2023-04-07,Sci-Fi,SmartTV,0
+205,55+,Non-binary,Delhi,India,Basic,2022-02-10,Drama,WebBrowser,0
+206,55+,Non-binary,Tokyo,Various,Basic,2023-01-08,Comedy,SmartTV,1
+207,35-44,Non-binary,Singapore,Various,Free,2024-03-19,Romance,SmartTV,1
+208,55+,Non-binary,Delhi,India,Family,2022-10-18,Comedy,TabletApp,0
+209,18-24,Non-binary,New York,Various,Basic,2022-12-25,Comedy,WebBrowser,1
+210,18-24,Female,Dubai,Various,Family,2023-10-21,Comedy,MobileApp,1
+211,55+,Male,Toronto,Various,Family,2023-06-05,Comedy,StreamMax,1
+212,25-34,Female,Bangalore,India,Family,2022-07-16,Drama,MobileApp,1
+213,18-24,Non-binary,Chennai,India,Free,2023-11-09,Comedy,TabletApp,1
+214,25-34,Male,Los Angeles,Various,Basic,2024-05-01,Romance,TabletApp,1
+215,45-54,Male,Bangalore,India,Family,2023-01-09,Romance,MobileApp,0
+216,35-44,Non-binary,Sydney,Various,Family,2022-08-28,Action,MobileApp,1
+217,45-54,Male,Singapore,Various,Premium,2023-11-26,Action,WebBrowser,1
+218,45-54,Non-binary,Chennai,India,Family,2022-06-15,Drama,TabletApp,1
+219,18-24,Non-binary,Chennai,India,Family,2023-01-16,Action,StreamMax,1
+220,18-24,Female,Tokyo,Various,Free,2024-02-21,Drama,SmartTV,1
+221,25-34,Female,Tokyo,Various,Free,2022-08-16,Thriller,SmartTV,0
+222,18-24,Female,Los Angeles,Various,Premium,2022-08-30,Thriller,StreamMax,1
+223,35-44,Male,Mumbai,India,Premium,2024-03-21,Drama,MobileApp,1
+224,45-54,Non-binary,Berlin,Various,Basic,2024-02-17,Romance,WebBrowser,1
+225,18-24,Male,Mumbai,India,Premium,2022-08-09,Drama,TabletApp,0
+226,55+,Female,Sydney,Various,Free,2024-03-05,Comedy,MobileApp,1
+227,25-34,Female,Mumbai,India,Family,2022-03-06,Sci-Fi,WebBrowser,1
+228,55+,Non-binary,Mumbai,India,Basic,2024-01-06,Drama,SmartTV,1
+229,35-44,Male,Sydney,Various,Family,2022-07-11,Romance,StreamMax,1
+230,18-24,Non-binary,New York,Various,Free,2023-02-04,Thriller,StreamMax,1
+231,35-44,Non-binary,New York,Various,Free,2023-01-01,Sci-Fi,SmartTV,1
+232,18-24,Non-binary,Paris,Various,Premium,2022-05-17,Sci-Fi,SmartTV,1
+233,25-34,Non-binary,Toronto,Various,Family,2023-12-14,Thriller,MobileApp,1
+234,45-54,Male,Delhi,India,Premium,2022-07-26,Sci-Fi,MobileApp,0
+235,35-44,Non-binary,New York,Various,Family,2024-04-14,Action,WebBrowser,1
+236,25-34,Female,Singapore,Various,Premium,2024-06-01,Sci-Fi,SmartTV,1
+237,35-44,Female,Singapore,Various,Family,2024-02-01,Thriller,WebBrowser,1
+238,45-54,Non-binary,Bangalore,India,Family,2023-01-12,Action,SmartTV,1
+239,45-54,Male,Dubai,Various,Family,2023-09-09,Drama,TabletApp,1
+240,18-24,Female,Delhi,India,Premium,2022-11-10,Thriller,TabletApp,1
+241,45-54,Female,Bangalore,India,Family,2022-02-13,Romance,SmartTV,1
+242,35-44,Non-binary,Los Angeles,Various,Free,2022-03-18,Romance,WebBrowser,1
+243,25-34,Male,Singapore,Various,Basic,2024-05-19,Action,WebBrowser,1
+244,25-34,Non-binary,Delhi,India,Premium,2023-01-06,Thriller,TabletApp,1
+245,45-54,Female,Bangalore,India,Premium,2023-03-31,Sci-Fi,TabletApp,1
+246,45-54,Female,New York,Various,Premium,2022-09-13,Sci-Fi,StreamMax,1
+247,55+,Female,London,Various,Free,2022-09-26,Comedy,WebBrowser,1
+248,35-44,Non-binary,Sydney,Various,Family,2022-07-24,Sci-Fi,MobileApp,0
+249,25-34,Non-binary,London,Various,Family,2022-03-31,Romance,SmartTV,1
+250,18-24,Non-binary,Dubai,Various,Premium,2022-11-04,Drama,MobileApp,1
+251,25-34,Male,Tokyo,Various,Basic,2024-03-22,Drama,MobileApp,1
+252,35-44,Non-binary,Mumbai,India,Premium,2023-04-24,Action,MobileApp,1
+253,18-24,Female,Delhi,India,Family,2024-01-05,Romance,WebBrowser,1
+254,45-54,Non-binary,Singapore,Various,Free,2022-05-09,Comedy,StreamMax,1
+255,55+,Female,Paris,Various,Basic,2024-04-28,Action,TabletApp,1
+256,45-54,Non-binary,Bangalore,India,Free,2024-05-01,Sci-Fi,TabletApp,1
+257,25-34,Female,Bangalore,India,Basic,2022-12-21,Action,SmartTV,1
+258,25-34,Non-binary,Chennai,India,Premium,2022-05-09,Romance,SmartTV,1
+259,55+,Non-binary,Delhi,India,Basic,2023-08-30,Action,MobileApp,1
+260,55+,Female,Sydney,Various,Free,2024-04-25,Sci-Fi,StreamMax,1
+261,55+,Female,Paris,Various,Basic,2024-02-25,Action,WebBrowser,1
+262,45-54,Non-binary,Mumbai,India,Premium,2023-10-20,Comedy,WebBrowser,1
+263,45-54,Female,Singapore,Various,Family,2022-03-16,Romance,StreamMax,1
+264,45-54,Female,Los Angeles,Various,Basic,2022-12-15,Action,MobileApp,1
+265,35-44,Non-binary,Dubai,Various,Premium,2023-02-13,Drama,SmartTV,1
+266,35-44,Male,Delhi,India,Family,2022-05-06,Comedy,WebBrowser,1
+267,18-24,Female,Delhi,India,Family,2023-09-23,Thriller,MobileApp,0
+268,25-34,Female,Berlin,Various,Premium,2022-07-14,Drama,WebBrowser,0
+269,45-54,Female,London,Various,Family,2022-01-24,Sci-Fi,WebBrowser,1
+270,25-34,Non-binary,Hyderabad,India,Premium,2022-02-19,Sci-Fi,SmartTV,1
+271,45-54,Female,Berlin,Various,Free,2024-05-17,Sci-Fi,WebBrowser,1
+272,35-44,Female,Chennai,India,Premium,2022-02-16,Thriller,StreamMax,1
+273,35-44,Non-binary,Hyderabad,India,Premium,2022-03-17,Thriller,TabletApp,1
+274,35-44,Non-binary,Tokyo,Various,Free,2022-05-12,Sci-Fi,WebBrowser,1
+275,55+,Female,New York,Various,Basic,2022-07-23,Action,TabletApp,1
+276,18-24,Male,Mumbai,India,Basic,2024-01-01,Comedy,WebBrowser,1
+277,55+,Non-binary,Bangalore,India,Basic,2022-12-02,Action,SmartTV,1
+278,35-44,Non-binary,Sydney,Various,Premium,2023-06-04,Action,TabletApp,1
+279,35-44,Female,Sydney,Various,Free,2023-01-13,Comedy,StreamMax,0
+280,35-44,Non-binary,Sydney,Various,Free,2023-09-04,Thriller,SmartTV,0
+281,55+,Non-binary,Singapore,Various,Basic,2024-01-09,Sci-Fi,TabletApp,1
+282,55+,Female,Tokyo,Various,Basic,2024-04-21,Romance,MobileApp,1
+283,18-24,Male,Dubai,Various,Free,2023-03-28,Comedy,WebBrowser,1
+284,25-34,Female,Dubai,Various,Family,2024-05-18,Romance,StreamMax,1
+285,25-34,Non-binary,Tokyo,Various,Premium,2023-11-10,Thriller,TabletApp,1
+286,45-54,Non-binary,Bangalore,India,Premium,2023-07-14,Comedy,SmartTV,1
+287,25-34,Female,Hyderabad,India,Premium,2022-08-19,Comedy,SmartTV,1
+288,45-54,Female,Dubai,Various,Family,2022-12-24,Action,SmartTV,1
+289,55+,Female,Sydney,Various,Family,2024-04-18,Comedy,MobileApp,1
+290,18-24,Female,Chennai,India,Family,2023-11-03,Comedy,WebBrowser,1
+291,55+,Female,Toronto,Various,Premium,2022-05-21,Sci-Fi,TabletApp,1
+292,25-34,Male,Hyderabad,India,Basic,2023-10-16,Drama,StreamMax,1
+293,45-54,Male,New York,Various,Basic,2022-01-06,Action,MobileApp,1
+294,45-54,Female,Berlin,Various,Basic,2024-02-14,Comedy,SmartTV,1
+295,18-24,Non-binary,Mumbai,India,Basic,2023-07-02,Romance,StreamMax,0
+296,45-54,Male,Bangalore,India,Free,2024-05-06,Thriller,WebBrowser,1
+297,35-44,Male,Dubai,Various,Free,2022-11-02,Action,TabletApp,1
+298,35-44,Female,New York,Various,Family,2022-05-18,Action,WebBrowser,1
+299,18-24,Female,Singapore,Various,Basic,2024-01-19,Thriller,SmartTV,1
+300,35-44,Female,Mumbai,India,Basic,2022-06-29,Action,WebBrowser,1
+301,35-44,Male,Tokyo,Various,Family,2023-11-17,Sci-Fi,MobileApp,0
+302,35-44,Male,London,Various,Free,2022-09-25,Thriller,MobileApp,1
+303,35-44,Female,Chennai,India,Free,2022-09-25,Romance,SmartTV,1
+304,18-24,Female,Mumbai,India,Premium,2022-06-13,Thriller,TabletApp,0
+305,35-44,Non-binary,Berlin,Various,Free,2023-10-17,Comedy,SmartTV,1
+306,25-34,Female,Hyderabad,India,Basic,2023-04-11,Romance,TabletApp,1
+307,55+,Female,Dubai,Various,Basic,2024-02-20,Drama,TabletApp,0
+308,55+,Female,Delhi,India,Premium,2022-03-21,Action,StreamMax,1
+309,55+,Male,Tokyo,Various,Basic,2022-06-18,Comedy,TabletApp,1
+310,25-34,Non-binary,Paris,Various,Family,2022-04-04,Action,WebBrowser,1
+311,25-34,Non-binary,London,Various,Family,2023-04-13,Action,StreamMax,1
+312,35-44,Non-binary,Paris,Various,Free,2023-02-10,Comedy,StreamMax,1
+313,18-24,Male,Sydney,Various,Family,2022-12-19,Romance,StreamMax,1
+314,18-24,Female,Mumbai,India,Free,2022-10-21,Thriller,MobileApp,1
+315,45-54,Female,Singapore,Various,Family,2023-04-05,Thriller,WebBrowser,1
+316,55+,Male,Paris,Various,Premium,2022-05-02,Drama,TabletApp,1
+317,25-34,Male,Bangalore,India,Free,2022-11-02,Thriller,TabletApp,1
+318,25-34,Male,Los Angeles,Various,Family,2022-12-21,Drama,SmartTV,1
+319,18-24,Male,Berlin,Various,Family,2023-09-22,Sci-Fi,MobileApp,1
+320,55+,Male,Delhi,India,Family,2023-09-05,Romance,StreamMax,1
+321,45-54,Female,Mumbai,India,Basic,2023-07-07,Drama,StreamMax,1
+322,25-34,Non-binary,Chennai,India,Premium,2023-08-15,Action,SmartTV,1
+323,25-34,Non-binary,Berlin,Various,Basic,2023-02-28,Comedy,SmartTV,1
+324,25-34,Non-binary,Sydney,Various,Family,2023-07-24,Thriller,StreamMax,0
+325,45-54,Non-binary,Paris,Various,Premium,2023-12-15,Thriller,WebBrowser,1
+326,25-34,Non-binary,Los Angeles,Various,Family,2022-09-04,Drama,SmartTV,0
+327,45-54,Male,Bangalore,India,Family,2023-03-03,Action,TabletApp,1
+328,35-44,Male,Hyderabad,India,Premium,2023-10-25,Sci-Fi,WebBrowser,1
+329,55+,Non-binary,Delhi,India,Basic,2022-02-22,Comedy,WebBrowser,1
+330,18-24,Male,Sydney,Various,Basic,2024-04-03,Action,TabletApp,1
+331,35-44,Female,Hyderabad,India,Free,2022-08-05,Drama,StreamMax,1
+332,45-54,Male,Singapore,Various,Basic,2023-02-11,Drama,TabletApp,1
+333,45-54,Female,Chennai,India,Premium,2022-11-12,Comedy,SmartTV,1
+334,45-54,Male,London,Various,Family,2024-02-19,Comedy,MobileApp,1
+335,18-24,Non-binary,Los Angeles,Various,Basic,2024-01-30,Drama,StreamMax,1
+336,55+,Non-binary,Berlin,Various,Family,2022-10-30,Drama,MobileApp,1
+337,55+,Male,Los Angeles,Various,Family,2023-07-18,Romance,SmartTV,1
+338,45-54,Non-binary,Toronto,Various,Family,2023-04-17,Drama,SmartTV,1
+339,55+,Female,Dubai,Various,Basic,2023-07-10,Romance,StreamMax,1
+340,18-24,Non-binary,Toronto,Various,Free,2024-02-22,Sci-Fi,WebBrowser,1
+341,25-34,Male,Paris,Various,Basic,2022-01-10,Drama,TabletApp,1
+342,55+,Non-binary,Mumbai,India,Family,2023-11-07,Thriller,StreamMax,1
+343,45-54,Male,Tokyo,Various,Free,2023-06-27,Romance,SmartTV,1
+344,18-24,Non-binary,Chennai,India,Family,2024-04-05,Drama,StreamMax,0
+345,25-34,Male,Tokyo,Various,Basic,2023-09-27,Action,SmartTV,1
+346,45-54,Male,Chennai,India,Premium,2023-02-20,Thriller,TabletApp,1
+347,25-34,Female,Dubai,Various,Free,2023-11-01,Romance,StreamMax,1
+348,45-54,Non-binary,Los Angeles,Various,Family,2022-02-27,Romance,StreamMax,1
+349,45-54,Female,Delhi,India,Premium,2023-08-03,Sci-Fi,TabletApp,0
+350,25-34,Non-binary,Hyderabad,India,Family,2022-10-05,Sci-Fi,StreamMax,1
+351,55+,Non-binary,Chennai,India,Free,2022-07-03,Comedy,StreamMax,0
+352,25-34,Non-binary,Sydney,Various,Family,2022-03-20,Comedy,MobileApp,1
+353,45-54,Non-binary,Sydney,Various,Premium,2023-01-29,Romance,MobileApp,1
+354,18-24,Non-binary,Dubai,Various,Premium,2022-02-24,Sci-Fi,WebBrowser,1
+355,35-44,Non-binary,Delhi,India,Family,2024-03-03,Comedy,StreamMax,1
+356,45-54,Female,Singapore,Various,Basic,2022-12-31,Action,WebBrowser,1
+357,55+,Non-binary,Paris,Various,Family,2022-03-29,Action,SmartTV,1
+358,18-24,Male,Dubai,Various,Premium,2022-06-07,Thriller,MobileApp,1
+359,35-44,Male,New York,Various,Free,2022-01-06,Comedy,WebBrowser,1
+360,18-24,Male,Chennai,India,Free,2022-07-11,Thriller,WebBrowser,1
+361,45-54,Male,Tokyo,Various,Free,2022-04-02,Comedy,TabletApp,1
+362,35-44,Female,Sydney,Various,Free,2022-10-26,Thriller,WebBrowser,1
+363,55+,Male,Dubai,Various,Basic,2023-12-03,Thriller,MobileApp,1
+364,35-44,Female,Chennai,India,Basic,2022-03-06,Drama,WebBrowser,1
+365,45-54,Male,Chennai,India,Premium,2022-09-15,Drama,WebBrowser,1
+366,45-54,Male,Hyderabad,India,Basic,2022-11-08,Sci-Fi,WebBrowser,1
+367,45-54,Female,Sydney,Various,Family,2022-12-09,Thriller,TabletApp,1
+368,55+,Non-binary,New York,Various,Basic,2023-05-06,Comedy,MobileApp,0
+369,35-44,Non-binary,New York,Various,Family,2023-08-13,Drama,SmartTV,1
+370,45-54,Female,Toronto,Various,Free,2023-08-01,Drama,TabletApp,0
+371,55+,Male,Bangalore,India,Family,2023-12-27,Drama,WebBrowser,1
+372,18-24,Female,Toronto,Various,Family,2022-05-23,Romance,SmartTV,1
+373,25-34,Non-binary,Paris,Various,Family,2024-03-19,Thriller,StreamMax,1
+374,45-54,Non-binary,Sydney,Various,Family,2023-07-02,Action,WebBrowser,1
+375,35-44,Non-binary,Singapore,Various,Free,2022-04-22,Drama,SmartTV,1
+376,18-24,Non-binary,Sydney,Various,Family,2024-02-10,Comedy,WebBrowser,1
+377,35-44,Male,Delhi,India,Basic,2023-04-02,Comedy,WebBrowser,1
+378,55+,Non-binary,Paris,Various,Basic,2022-12-20,Sci-Fi,WebBrowser,1
+379,18-24,Male,Los Angeles,Various,Basic,2022-12-23,Comedy,SmartTV,1
+380,55+,Female,Hyderabad,India,Premium,2023-05-03,Sci-Fi,WebBrowser,1
+381,35-44,Male,London,Various,Premium,2022-02-15,Romance,StreamMax,1
+382,18-24,Non-binary,New York,Various,Basic,2024-01-29,Drama,TabletApp,1
+383,35-44,Non-binary,Bangalore,India,Family,2023-04-19,Drama,WebBrowser,1
+384,45-54,Female,Bangalore,India,Free,2024-01-26,Action,MobileApp,1
+385,45-54,Male,Los Angeles,Various,Basic,2022-07-30,Comedy,StreamMax,1
+386,55+,Male,Singapore,Various,Premium,2022-11-30,Drama,WebBrowser,1
+387,45-54,Non-binary,Paris,Various,Premium,2023-09-04,Thriller,TabletApp,1
+388,35-44,Female,Delhi,India,Family,2023-09-25,Drama,SmartTV,0
+389,18-24,Non-binary,Sydney,Various,Basic,2022-11-17,Sci-Fi,MobileApp,1
+390,35-44,Non-binary,Bangalore,India,Basic,2023-06-08,Thriller,WebBrowser,1
+391,45-54,Female,Sydney,Various,Basic,2023-05-14,Romance,TabletApp,1
+392,25-34,Non-binary,Paris,Various,Basic,2023-05-17,Comedy,MobileApp,1
+393,45-54,Non-binary,Toronto,Various,Free,2023-01-03,Sci-Fi,WebBrowser,1
+394,45-54,Non-binary,Toronto,Various,Family,2023-02-23,Romance,WebBrowser,1
+395,45-54,Female,Toronto,Various,Basic,2022-03-26,Action,StreamMax,1
+396,35-44,Male,Hyderabad,India,Premium,2022-08-19,Action,SmartTV,1
+397,55+,Non-binary,London,Various,Family,2023-07-17,Action,StreamMax,1
+398,55+,Female,Chennai,India,Free,2024-02-18,Romance,WebBrowser,1
+399,18-24,Non-binary,Los Angeles,Various,Basic,2022-11-01,Sci-Fi,WebBrowser,1
+400,18-24,Female,Toronto,Various,Free,2024-03-05,Drama,MobileApp,1
+401,35-44,Non-binary,Sydney,Various,Family,2022-06-19,Action,MobileApp,1
+402,25-34,Male,Toronto,Various,Premium,2023-06-30,Comedy,TabletApp,1
+403,35-44,Female,New York,Various,Premium,2024-05-28,Action,StreamMax,1
+404,45-54,Male,Singapore,Various,Premium,2023-11-03,Drama,MobileApp,1
+405,35-44,Male,Dubai,Various,Family,2023-05-17,Drama,TabletApp,1
+406,45-54,Female,Paris,Various,Family,2022-03-19,Romance,StreamMax,1
+407,35-44,Non-binary,Dubai,Various,Premium,2023-04-11,Thriller,SmartTV,1
+408,18-24,Non-binary,Toronto,Various,Family,2023-10-13,Romance,SmartTV,0
+409,55+,Female,Singapore,Various,Basic,2023-03-16,Drama,WebBrowser,1
+410,35-44,Female,Toronto,Various,Basic,2023-08-03,Thriller,SmartTV,0
+411,18-24,Male,Singapore,Various,Free,2023-10-04,Thriller,StreamMax,1
+412,25-34,Female,Toronto,Various,Family,2022-01-01,Thriller,MobileApp,0
+413,25-34,Non-binary,Berlin,Various,Premium,2022-06-12,Comedy,StreamMax,1
+414,18-24,Female,Chennai,India,Basic,2022-02-23,Thriller,SmartTV,1
+415,25-34,Female,Singapore,Various,Free,2023-12-22,Sci-Fi,StreamMax,1
+416,25-34,Non-binary,Delhi,India,Basic,2023-06-16,Romance,WebBrowser,1
+417,35-44,Male,Dubai,Various,Family,2023-12-12,Drama,WebBrowser,1
+418,18-24,Non-binary,Los Angeles,Various,Free,2022-04-16,Comedy,SmartTV,0
+419,45-54,Male,Bangalore,India,Basic,2022-03-12,Action,TabletApp,1
+420,25-34,Female,Paris,Various,Premium,2024-01-10,Drama,MobileApp,0
+421,45-54,Male,Sydney,Various,Free,2022-04-13,Drama,StreamMax,1
+422,35-44,Female,Los Angeles,Various,Premium,2024-03-21,Drama,MobileApp,1
+423,25-34,Non-binary,Delhi,India,Premium,2024-03-08,Romance,StreamMax,1
+424,35-44,Male,Paris,Various,Basic,2024-02-05,Thriller,SmartTV,1
+425,25-34,Female,Singapore,Various,Family,2022-04-26,Drama,WebBrowser,1
+426,55+,Male,Delhi,India,Premium,2022-11-21,Drama,WebBrowser,0
+427,45-54,Female,Sydney,Various,Basic,2024-02-21,Thriller,StreamMax,1
+428,18-24,Female,Delhi,India,Basic,2022-02-10,Sci-Fi,WebBrowser,1
+429,55+,Female,Paris,Various,Family,2023-12-20,Thriller,StreamMax,1
+430,55+,Male,Tokyo,Various,Premium,2022-03-27,Comedy,StreamMax,1
+431,25-34,Non-binary,Hyderabad,India,Premium,2023-02-05,Action,StreamMax,1
+432,25-34,Male,Los Angeles,Various,Basic,2022-03-30,Thriller,StreamMax,1
+433,18-24,Female,Sydney,Various,Basic,2022-05-03,Sci-Fi,MobileApp,1
+434,45-54,Female,Bangalore,India,Premium,2022-06-20,Comedy,MobileApp,1
+435,35-44,Non-binary,Toronto,Various,Free,2024-02-29,Sci-Fi,SmartTV,1
+436,55+,Male,Chennai,India,Premium,2023-12-31,Action,StreamMax,1
+437,35-44,Male,Tokyo,Various,Family,2024-05-29,Action,MobileApp,1
+438,18-24,Non-binary,Chennai,India,Free,2022-08-22,Romance,TabletApp,1
+439,18-24,Male,Toronto,Various,Free,2023-04-29,Comedy,WebBrowser,0
+440,18-24,Non-binary,Bangalore,India,Family,2022-08-18,Comedy,MobileApp,1
+441,35-44,Female,Dubai,Various,Free,2023-08-09,Comedy,StreamMax,1
+442,18-24,Male,Berlin,Various,Basic,2024-04-03,Action,StreamMax,0
+443,45-54,Female,Delhi,India,Premium,2022-12-02,Sci-Fi,TabletApp,1
+444,25-34,Female,New York,Various,Premium,2024-01-28,Action,MobileApp,1
+445,45-54,Male,Sydney,Various,Basic,2022-06-04,Sci-Fi,WebBrowser,1
+446,35-44,Non-binary,Tokyo,Various,Free,2022-12-10,Sci-Fi,WebBrowser,1
+447,35-44,Male,Dubai,Various,Basic,2023-06-27,Drama,WebBrowser,1
+448,25-34,Non-binary,Mumbai,India,Premium,2022-04-06,Sci-Fi,MobileApp,0
+449,45-54,Non-binary,Tokyo,Various,Premium,2023-04-15,Romance,StreamMax,1
+450,25-34,Non-binary,Tokyo,Various,Family,2022-03-18,Action,TabletApp,1
+451,25-34,Male,Paris,Various,Premium,2022-09-25,Comedy,WebBrowser,1
+452,35-44,Female,Dubai,Various,Family,2022-10-06,Drama,StreamMax,0
+453,55+,Male,Bangalore,India,Basic,2022-04-19,Drama,WebBrowser,1
+454,18-24,Non-binary,Los Angeles,Various,Premium,2024-02-28,Drama,WebBrowser,1
+455,18-24,Male,Chennai,India,Basic,2024-04-06,Romance,SmartTV,1
+456,55+,Male,Dubai,Various,Basic,2024-05-05,Comedy,MobileApp,1
+457,35-44,Female,Hyderabad,India,Free,2023-11-25,Comedy,SmartTV,1
+458,18-24,Female,Bangalore,India,Family,2023-07-24,Romance,TabletApp,1
+459,18-24,Male,London,Various,Free,2022-01-13,Sci-Fi,MobileApp,1
+460,45-54,Female,Toronto,Various,Free,2023-08-20,Action,SmartTV,0
+461,18-24,Male,Delhi,India,Basic,2023-10-24,Thriller,MobileApp,1
+462,35-44,Male,Toronto,Various,Free,2023-04-18,Sci-Fi,MobileApp,0
+463,45-54,Female,Los Angeles,Various,Free,2023-01-27,Romance,WebBrowser,1
+464,25-34,Female,Hyderabad,India,Premium,2023-04-02,Drama,StreamMax,1
+465,25-34,Non-binary,Sydney,Various,Premium,2023-05-26,Thriller,TabletApp,1
+466,35-44,Female,Delhi,India,Basic,2023-03-06,Drama,TabletApp,1
+467,55+,Male,Singapore,Various,Family,2024-03-11,Romance,SmartTV,1
+468,45-54,Female,Singapore,Various,Premium,2023-02-02,Comedy,MobileApp,1
+469,25-34,Male,Sydney,Various,Premium,2022-03-01,Thriller,TabletApp,1
+470,25-34,Male,Sydney,Various,Free,2022-09-11,Romance,MobileApp,1
+471,18-24,Male,Toronto,Various,Family,2022-12-30,Drama,MobileApp,1
+472,35-44,Non-binary,New York,Various,Free,2023-12-22,Romance,SmartTV,0
+473,25-34,Non-binary,Sydney,Various,Basic,2024-05-06,Thriller,TabletApp,1
+474,18-24,Male,London,Various,Free,2022-08-27,Action,MobileApp,1
+475,18-24,Female,London,Various,Basic,2024-04-05,Drama,SmartTV,1
+476,35-44,Male,Berlin,Various,Free,2022-06-01,Action,MobileApp,1
+477,55+,Female,Toronto,Various,Free,2023-01-18,Romance,WebBrowser,1
+478,35-44,Female,New York,Various,Basic,2022-06-11,Romance,WebBrowser,1
+479,35-44,Male,London,Various,Premium,2022-08-17,Romance,TabletApp,1
+480,35-44,Non-binary,Los Angeles,Various,Premium,2022-05-11,Drama,StreamMax,0
+481,45-54,Non-binary,Sydney,Various,Free,2022-07-06,Action,SmartTV,0
+482,25-34,Non-binary,Sydney,Various,Free,2023-05-24,Drama,SmartTV,1
+483,35-44,Female,Hyderabad,India,Basic,2023-10-14,Sci-Fi,SmartTV,1
+484,25-34,Male,Chennai,India,Free,2022-12-25,Comedy,StreamMax,1
+485,45-54,Female,Mumbai,India,Family,2022-06-20,Thriller,WebBrowser,0
+486,55+,Female,New York,Various,Free,2024-04-28,Thriller,TabletApp,1
+487,25-34,Male,Paris,Various,Family,2022-03-17,Sci-Fi,SmartTV,1
+488,18-24,Male,Chennai,India,Premium,2022-06-24,Thriller,MobileApp,1
+489,18-24,Female,Tokyo,Various,Family,2023-12-23,Sci-Fi,WebBrowser,0
+490,55+,Female,Bangalore,India,Basic,2022-02-24,Sci-Fi,SmartTV,1
+491,45-54,Non-binary,Hyderabad,India,Premium,2023-11-08,Comedy,SmartTV,1
+492,45-54,Non-binary,Mumbai,India,Family,2022-06-07,Sci-Fi,SmartTV,1
+493,35-44,Non-binary,Delhi,India,Family,2022-07-24,Sci-Fi,StreamMax,1
+494,35-44,Male,Paris,Various,Family,2024-05-14,Sci-Fi,SmartTV,1
+495,45-54,Non-binary,London,Various,Premium,2022-04-04,Romance,TabletApp,1
+496,45-54,Female,New York,Various,Basic,2023-04-02,Sci-Fi,SmartTV,1
+497,25-34,Female,Chennai,India,Free,2022-06-04,Romance,StreamMax,1
+498,55+,Female,New York,Various,Basic,2023-07-21,Sci-Fi,WebBrowser,1
+499,55+,Non-binary,Los Angeles,Various,Family,2023-08-10,Drama,WebBrowser,1
+500,18-24,Non-binary,Los Angeles,Various,Basic,2022-05-04,Thriller,MobileApp,0
+501,25-34,Male,Bangalore,India,Basic,2022-02-13,Thriller,StreamMax,0
+502,25-34,Non-binary,Los Angeles,Various,Basic,2024-05-04,Action,SmartTV,1
+503,18-24,Male,Dubai,Various,Family,2023-07-24,Thriller,TabletApp,1
+504,55+,Female,Chennai,India,Free,2024-03-16,Romance,TabletApp,1
+505,45-54,Male,Singapore,Various,Family,2022-06-03,Drama,TabletApp,1
+506,18-24,Male,Singapore,Various,Free,2024-03-15,Comedy,TabletApp,0
+507,45-54,Female,Berlin,Various,Family,2023-11-02,Thriller,TabletApp,1
+508,25-34,Female,Mumbai,India,Family,2022-05-28,Action,TabletApp,1
+509,18-24,Female,Los Angeles,Various,Premium,2023-12-09,Drama,StreamMax,1
+510,35-44,Female,Berlin,Various,Free,2022-12-12,Comedy,SmartTV,1
+511,18-24,Male,London,Various,Basic,2022-11-04,Romance,WebBrowser,1
+512,35-44,Non-binary,New York,Various,Family,2023-09-12,Romance,StreamMax,1
+513,45-54,Non-binary,Hyderabad,India,Family,2024-02-17,Action,SmartTV,1
+514,25-34,Male,Tokyo,Various,Premium,2023-12-28,Action,WebBrowser,1
+515,55+,Non-binary,Toronto,Various,Free,2022-06-27,Drama,MobileApp,1
+516,18-24,Female,Hyderabad,India,Free,2023-01-05,Romance,MobileApp,1
+517,45-54,Non-binary,Toronto,Various,Family,2023-10-13,Sci-Fi,StreamMax,1
+518,55+,Female,London,Various,Basic,2023-05-01,Action,TabletApp,1
+519,35-44,Non-binary,Bangalore,India,Free,2022-10-19,Sci-Fi,WebBrowser,1
+520,55+,Male,Toronto,Various,Basic,2023-10-25,Drama,MobileApp,1
+521,55+,Male,Los Angeles,Various,Free,2023-05-01,Drama,MobileApp,1
+522,25-34,Female,Mumbai,India,Premium,2023-12-31,Romance,SmartTV,1
+523,35-44,Female,Los Angeles,Various,Premium,2022-08-12,Thriller,SmartTV,1
+524,55+,Female,Toronto,Various,Free,2022-01-08,Action,SmartTV,1
+525,55+,Female,Sydney,Various,Premium,2023-12-02,Sci-Fi,WebBrowser,1
+526,35-44,Female,Chennai,India,Premium,2023-11-03,Romance,SmartTV,1
+527,25-34,Male,Tokyo,Various,Family,2023-11-08,Comedy,MobileApp,1
+528,45-54,Female,Paris,Various,Premium,2023-03-05,Thriller,WebBrowser,1
+529,55+,Male,Sydney,Various,Premium,2024-01-14,Romance,MobileApp,1
+530,45-54,Non-binary,Paris,Various,Premium,2023-06-04,Comedy,MobileApp,1
+531,55+,Male,Berlin,Various,Premium,2022-04-10,Thriller,MobileApp,1
+532,55+,Male,Dubai,Various,Premium,2023-11-02,Sci-Fi,MobileApp,1
+533,35-44,Female,Dubai,Various,Premium,2023-01-16,Comedy,TabletApp,1
+534,18-24,Female,Toronto,Various,Free,2023-10-12,Action,TabletApp,0
+535,45-54,Male,Delhi,India,Free,2023-11-29,Thriller,TabletApp,1
+536,25-34,Male,Mumbai,India,Basic,2022-12-17,Thriller,TabletApp,0
+537,25-34,Female,London,Various,Basic,2024-03-08,Sci-Fi,WebBrowser,1
+538,35-44,Non-binary,Bangalore,India,Free,2022-01-05,Thriller,SmartTV,1
+539,25-34,Non-binary,Singapore,Various,Basic,2023-05-17,Sci-Fi,MobileApp,1
+540,45-54,Female,Paris,Various,Family,2023-05-04,Thriller,StreamMax,1
+541,35-44,Male,Hyderabad,India,Premium,2024-02-15,Action,MobileApp,1
+542,25-34,Male,Mumbai,India,Premium,2022-11-16,Drama,StreamMax,1
+543,35-44,Male,Sydney,Various,Free,2024-04-23,Sci-Fi,SmartTV,0
+544,55+,Non-binary,London,Various,Premium,2023-03-21,Romance,MobileApp,1
+545,45-54,Female,Berlin,Various,Basic,2022-06-18,Thriller,StreamMax,1
+546,25-34,Male,Dubai,Various,Free,2023-08-27,Action,MobileApp,1
+547,18-24,Female,Dubai,Various,Premium,2024-02-29,Action,TabletApp,1
+548,18-24,Non-binary,Mumbai,India,Free,2022-02-19,Romance,StreamMax,1
+549,18-24,Non-binary,Los Angeles,Various,Premium,2023-05-01,Romance,MobileApp,1
+550,18-24,Female,Paris,Various,Family,2023-11-09,Sci-Fi,TabletApp,1
+551,25-34,Female,Sydney,Various,Free,2023-06-08,Romance,TabletApp,1
+552,18-24,Female,Delhi,India,Basic,2023-09-16,Drama,SmartTV,1
+553,35-44,Non-binary,Hyderabad,India,Family,2022-10-30,Drama,StreamMax,1
+554,25-34,Non-binary,Berlin,Various,Family,2022-12-05,Drama,StreamMax,1
+555,18-24,Non-binary,Delhi,India,Family,2022-06-02,Sci-Fi,TabletApp,1
+556,18-24,Female,Dubai,Various,Basic,2023-04-13,Comedy,SmartTV,1
+557,25-34,Male,Delhi,India,Premium,2023-01-04,Romance,SmartTV,1
+558,18-24,Male,Delhi,India,Free,2024-05-22,Drama,MobileApp,1
+559,45-54,Non-binary,Berlin,Various,Premium,2024-01-21,Sci-Fi,SmartTV,1
+560,18-24,Female,Bangalore,India,Family,2023-04-13,Comedy,WebBrowser,1
+561,45-54,Non-binary,London,Various,Basic,2022-04-26,Drama,StreamMax,0
+562,25-34,Male,Toronto,Various,Family,2023-08-28,Thriller,TabletApp,1
+563,55+,Female,Bangalore,India,Premium,2023-09-19,Sci-Fi,MobileApp,1
+564,18-24,Female,London,Various,Family,2022-02-17,Sci-Fi,SmartTV,1
+565,55+,Non-binary,Mumbai,India,Basic,2023-11-17,Comedy,TabletApp,1
+566,55+,Male,Dubai,Various,Family,2023-11-09,Romance,MobileApp,1
+567,45-54,Male,Paris,Various,Free,2022-01-12,Romance,MobileApp,1
+568,45-54,Male,London,Various,Free,2024-02-09,Thriller,SmartTV,1
+569,18-24,Non-binary,Chennai,India,Basic,2023-07-18,Romance,WebBrowser,1
+570,18-24,Female,Hyderabad,India,Family,2024-03-31,Action,WebBrowser,1
+571,45-54,Female,London,Various,Free,2023-05-25,Romance,StreamMax,1
+572,18-24,Non-binary,Los Angeles,Various,Free,2024-04-25,Sci-Fi,TabletApp,0
+573,35-44,Non-binary,Paris,Various,Basic,2023-11-02,Romance,WebBrowser,0
+574,18-24,Male,New York,Various,Family,2022-12-06,Action,TabletApp,1
+575,35-44,Non-binary,Dubai,Various,Family,2022-04-27,Sci-Fi,MobileApp,1
+576,35-44,Non-binary,New York,Various,Premium,2023-12-20,Sci-Fi,StreamMax,0
+577,25-34,Non-binary,London,Various,Family,2022-04-20,Comedy,TabletApp,1
+578,45-54,Male,Delhi,India,Family,2024-04-24,Drama,SmartTV,1
+579,18-24,Non-binary,Los Angeles,Various,Free,2024-03-01,Thriller,WebBrowser,1
+580,25-34,Female,Tokyo,Various,Free,2023-06-28,Romance,StreamMax,1
+581,55+,Female,Los Angeles,Various,Basic,2023-12-10,Action,MobileApp,1
+582,18-24,Female,Bangalore,India,Premium,2023-06-01,Thriller,WebBrowser,0
+583,25-34,Female,Berlin,Various,Family,2022-12-18,Comedy,WebBrowser,1
+584,45-54,Non-binary,Bangalore,India,Premium,2024-05-13,Romance,TabletApp,0
+585,55+,Non-binary,Dubai,Various,Basic,2022-07-25,Drama,TabletApp,1
+586,35-44,Non-binary,Paris,Various,Basic,2023-12-29,Romance,MobileApp,1
+587,35-44,Non-binary,Dubai,Various,Free,2024-02-19,Comedy,TabletApp,1
+588,45-54,Non-binary,Sydney,Various,Premium,2024-05-17,Thriller,StreamMax,1
+589,45-54,Male,Mumbai,India,Free,2023-11-18,Sci-Fi,MobileApp,1
+590,25-34,Female,Singapore,Various,Premium,2022-05-30,Sci-Fi,SmartTV,1
+591,18-24,Female,Tokyo,Various,Family,2022-04-15,Action,TabletApp,0
+592,55+,Female,Dubai,Various,Basic,2023-06-08,Romance,SmartTV,1
+593,45-54,Female,Mumbai,India,Family,2024-03-18,Romance,SmartTV,0
+594,18-24,Non-binary,Mumbai,India,Premium,2022-07-27,Action,WebBrowser,1
+595,35-44,Non-binary,Berlin,Various,Basic,2024-03-05,Romance,MobileApp,1
+596,18-24,Male,Bangalore,India,Basic,2024-01-23,Action,StreamMax,1
+597,35-44,Non-binary,Los Angeles,Various,Premium,2022-05-14,Drama,TabletApp,1
+598,35-44,Female,Mumbai,India,Basic,2022-02-10,Drama,SmartTV,1
+599,55+,Non-binary,Singapore,Various,Premium,2023-05-18,Action,TabletApp,1
+600,35-44,Non-binary,Singapore,Various,Basic,2022-07-08,Action,StreamMax,1
+601,45-54,Non-binary,Bangalore,India,Family,2022-04-05,Comedy,MobileApp,0
+602,35-44,Female,Paris,Various,Premium,2022-10-28,Drama,TabletApp,1
+603,18-24,Male,Tokyo,Various,Premium,2023-04-02,Drama,TabletApp,0
+604,18-24,Non-binary,Hyderabad,India,Premium,2023-01-26,Sci-Fi,WebBrowser,1
+605,35-44,Male,Dubai,Various,Premium,2023-06-11,Action,WebBrowser,1
+606,25-34,Female,Chennai,India,Free,2022-04-09,Drama,TabletApp,1
+607,18-24,Male,Paris,Various,Basic,2023-12-03,Thriller,StreamMax,1
+608,45-54,Non-binary,Toronto,Various,Free,2024-02-04,Romance,MobileApp,1
+609,35-44,Male,Dubai,Various,Free,2022-03-17,Sci-Fi,MobileApp,1
+610,18-24,Non-binary,Tokyo,Various,Basic,2022-09-22,Thriller,WebBrowser,1
+611,45-54,Female,Los Angeles,Various,Free,2023-02-03,Romance,StreamMax,1
+612,55+,Male,Paris,Various,Free,2023-12-19,Sci-Fi,SmartTV,0
+613,35-44,Non-binary,Delhi,India,Premium,2023-09-14,Sci-Fi,SmartTV,1
+614,45-54,Female,London,Various,Free,2023-05-01,Drama,TabletApp,1
+615,45-54,Non-binary,Dubai,Various,Premium,2023-10-12,Drama,SmartTV,1
+616,35-44,Male,Berlin,Various,Basic,2022-05-07,Sci-Fi,StreamMax,1
+617,55+,Non-binary,Los Angeles,Various,Free,2022-11-09,Drama,SmartTV,1
+618,55+,Male,Berlin,Various,Basic,2022-07-08,Drama,TabletApp,1
+619,18-24,Male,Hyderabad,India,Free,2024-05-21,Action,WebBrowser,1
+620,35-44,Non-binary,Delhi,India,Free,2022-09-14,Sci-Fi,MobileApp,1
+621,35-44,Female,London,Various,Basic,2023-11-19,Romance,MobileApp,1
+622,18-24,Male,Sydney,Various,Premium,2023-05-13,Thriller,SmartTV,1
+623,55+,Male,Chennai,India,Premium,2024-04-07,Comedy,WebBrowser,1
+624,25-34,Male,New York,Various,Family,2022-10-11,Comedy,MobileApp,1
+625,45-54,Female,New York,Various,Family,2023-01-03,Comedy,WebBrowser,1
+626,55+,Male,Bangalore,India,Premium,2024-05-29,Drama,TabletApp,1
+627,18-24,Non-binary,Dubai,Various,Free,2022-01-20,Action,StreamMax,1
+628,45-54,Non-binary,Sydney,Various,Basic,2022-02-07,Action,SmartTV,1
+629,45-54,Non-binary,Tokyo,Various,Basic,2023-01-10,Thriller,MobileApp,0
+630,35-44,Male,Sydney,Various,Family,2023-05-29,Action,StreamMax,1
+631,18-24,Non-binary,Tokyo,Various,Basic,2024-05-18,Action,MobileApp,1
+632,45-54,Male,Bangalore,India,Basic,2023-08-03,Action,MobileApp,1
+633,35-44,Male,London,Various,Basic,2024-02-19,Thriller,MobileApp,1
+634,25-34,Male,New York,Various,Basic,2023-06-15,Comedy,WebBrowser,1
+635,18-24,Male,London,Various,Premium,2022-04-16,Romance,TabletApp,1
+636,35-44,Non-binary,Chennai,India,Basic,2023-01-21,Romance,WebBrowser,1
+637,18-24,Non-binary,Paris,Various,Premium,2023-01-21,Drama,TabletApp,1
+638,35-44,Female,Toronto,Various,Family,2023-09-11,Sci-Fi,TabletApp,0
+639,25-34,Male,London,Various,Free,2023-06-11,Romance,SmartTV,1
+640,25-34,Female,Bangalore,India,Free,2023-11-08,Drama,WebBrowser,1
+641,18-24,Female,Dubai,Various,Family,2023-05-06,Drama,TabletApp,1
+642,45-54,Male,Toronto,Various,Basic,2022-02-14,Drama,TabletApp,1
+643,55+,Male,Bangalore,India,Basic,2022-02-27,Drama,SmartTV,0
+644,45-54,Non-binary,Tokyo,Various,Free,2024-01-07,Romance,SmartTV,0
+645,45-54,Non-binary,Hyderabad,India,Family,2023-05-09,Drama,MobileApp,1
+646,25-34,Non-binary,Sydney,Various,Basic,2023-10-01,Romance,TabletApp,1
+647,35-44,Female,Dubai,Various,Free,2022-08-24,Thriller,WebBrowser,1
+648,25-34,Non-binary,Mumbai,India,Family,2024-04-26,Drama,TabletApp,1
+649,55+,Non-binary,London,Various,Free,2024-03-13,Action,TabletApp,1
+650,45-54,Non-binary,Delhi,India,Basic,2023-09-10,Action,StreamMax,0
+651,45-54,Non-binary,Singapore,Various,Family,2023-01-15,Sci-Fi,TabletApp,1
+652,45-54,Female,Singapore,Various,Premium,2023-08-27,Romance,TabletApp,1
+653,35-44,Female,Bangalore,India,Basic,2024-05-29,Sci-Fi,SmartTV,1
+654,45-54,Female,Tokyo,Various,Basic,2022-01-06,Romance,StreamMax,1
+655,55+,Male,Delhi,India,Family,2023-11-02,Drama,SmartTV,1
+656,25-34,Female,Delhi,India,Premium,2022-09-25,Action,WebBrowser,1
+657,35-44,Non-binary,Sydney,Various,Family,2024-02-13,Drama,WebBrowser,1
+658,45-54,Male,Tokyo,Various,Premium,2023-07-27,Action,WebBrowser,1
+659,55+,Female,Chennai,India,Family,2024-01-24,Drama,StreamMax,1
+660,25-34,Male,London,Various,Basic,2023-06-05,Thriller,SmartTV,1
+661,18-24,Male,Sydney,Various,Family,2023-10-14,Sci-Fi,StreamMax,1
+662,55+,Female,London,Various,Free,2022-03-07,Comedy,MobileApp,1
+663,18-24,Non-binary,Sydney,Various,Family,2023-02-15,Action,TabletApp,1
+664,18-24,Male,Sydney,Various,Family,2023-03-26,Sci-Fi,MobileApp,0
+665,55+,Female,Berlin,Various,Basic,2022-02-04,Action,TabletApp,1
+666,55+,Male,Hyderabad,India,Free,2023-01-04,Drama,StreamMax,0
+667,35-44,Female,Delhi,India,Premium,2023-11-17,Thriller,WebBrowser,1
+668,18-24,Non-binary,Tokyo,Various,Free,2022-04-03,Action,SmartTV,1
+669,55+,Female,Tokyo,Various,Premium,2024-04-15,Comedy,MobileApp,1
+670,45-54,Female,Hyderabad,India,Free,2022-09-25,Drama,WebBrowser,1
+671,18-24,Non-binary,Tokyo,Various,Premium,2022-12-15,Sci-Fi,TabletApp,0
+672,55+,Non-binary,Berlin,Various,Premium,2023-12-12,Thriller,WebBrowser,1
+673,25-34,Female,Singapore,Various,Family,2023-11-29,Thriller,TabletApp,0
+674,18-24,Female,London,Various,Free,2023-01-27,Romance,MobileApp,1
+675,35-44,Female,Hyderabad,India,Premium,2023-06-13,Action,StreamMax,1
+676,25-34,Female,Chennai,India,Free,2023-02-13,Romance,SmartTV,1
+677,25-34,Female,Berlin,Various,Premium,2022-12-29,Drama,TabletApp,1
+678,25-34,Female,Dubai,Various,Basic,2022-08-29,Romance,MobileApp,0
+679,25-34,Male,Hyderabad,India,Basic,2024-05-06,Action,SmartTV,1
+680,18-24,Male,Delhi,India,Family,2023-09-21,Sci-Fi,TabletApp,0
+681,45-54,Female,Toronto,Various,Premium,2023-05-20,Action,SmartTV,1
+682,55+,Female,Singapore,Various,Family,2022-08-16,Action,MobileApp,1
+683,45-54,Female,Singapore,Various,Free,2023-05-30,Comedy,WebBrowser,0
+684,25-34,Female,Singapore,Various,Free,2023-12-17,Action,WebBrowser,1
+685,18-24,Non-binary,Mumbai,India,Basic,2023-01-24,Action,StreamMax,1
+686,35-44,Male,Sydney,Various,Premium,2022-08-31,Comedy,WebBrowser,0
+687,35-44,Male,New York,Various,Family,2023-03-11,Drama,WebBrowser,1
+688,35-44,Female,New York,Various,Premium,2023-04-07,Drama,TabletApp,1
+689,25-34,Male,Sydney,Various,Premium,2024-04-03,Drama,TabletApp,1
+690,25-34,Male,Los Angeles,Various,Basic,2023-04-30,Sci-Fi,MobileApp,1
+691,55+,Non-binary,Bangalore,India,Premium,2024-03-15,Thriller,SmartTV,1
+692,55+,Male,Toronto,Various,Family,2022-04-12,Romance,MobileApp,1
+693,35-44,Female,Toronto,Various,Free,2023-04-06,Romance,SmartTV,1
+694,55+,Non-binary,New York,Various,Premium,2022-12-19,Sci-Fi,WebBrowser,1
+695,55+,Male,Toronto,Various,Basic,2024-03-10,Comedy,SmartTV,1
+696,45-54,Non-binary,Tokyo,Various,Family,2022-03-22,Thriller,TabletApp,1
+697,25-34,Male,Paris,Various,Premium,2023-03-08,Romance,TabletApp,1
+698,18-24,Male,Toronto,Various,Basic,2022-12-18,Drama,SmartTV,1
+699,35-44,Non-binary,Chennai,India,Family,2022-10-05,Thriller,SmartTV,1
+700,45-54,Female,Tokyo,Various,Basic,2022-07-08,Sci-Fi,MobileApp,1
+701,35-44,Non-binary,Paris,Various,Free,2022-08-04,Drama,WebBrowser,1
+702,45-54,Non-binary,Delhi,India,Free,2022-01-27,Thriller,TabletApp,1
+703,18-24,Female,Delhi,India,Basic,2022-03-28,Romance,WebBrowser,1
+704,35-44,Female,Hyderabad,India,Basic,2022-05-15,Action,MobileApp,1
+705,35-44,Female,Paris,Various,Family,2023-04-24,Action,SmartTV,1
+706,55+,Male,Bangalore,India,Family,2023-10-09,Romance,TabletApp,1
+707,55+,Female,Paris,Various,Premium,2023-05-09,Action,MobileApp,1
+708,35-44,Female,London,Various,Family,2022-09-24,Drama,SmartTV,1
+709,25-34,Female,Tokyo,Various,Premium,2023-04-26,Action,StreamMax,1
+710,45-54,Female,London,Various,Free,2024-02-24,Thriller,SmartTV,1
+711,18-24,Non-binary,Singapore,Various,Premium,2022-07-13,Thriller,TabletApp,1
+712,25-34,Non-binary,Hyderabad,India,Family,2024-04-28,Thriller,MobileApp,1
+713,25-34,Non-binary,Los Angeles,Various,Premium,2022-10-19,Romance,TabletApp,1
+714,25-34,Male,Los Angeles,Various,Basic,2022-05-20,Comedy,StreamMax,1
+715,45-54,Female,Sydney,Various,Family,2022-07-12,Comedy,StreamMax,1
+716,18-24,Male,Tokyo,Various,Free,2022-10-16,Comedy,MobileApp,1
+717,18-24,Male,Dubai,Various,Free,2022-06-04,Sci-Fi,WebBrowser,1
+718,35-44,Female,Los Angeles,Various,Premium,2023-04-20,Romance,StreamMax,1
+719,25-34,Male,Toronto,Various,Premium,2024-03-05,Thriller,StreamMax,1
+720,25-34,Female,Bangalore,India,Family,2024-04-28,Sci-Fi,StreamMax,0
+721,25-34,Female,Dubai,Various,Family,2022-09-11,Romance,StreamMax,1
+722,18-24,Non-binary,Dubai,Various,Basic,2023-04-30,Thriller,SmartTV,0
+723,18-24,Non-binary,Bangalore,India,Free,2022-09-17,Thriller,SmartTV,1
+724,18-24,Non-binary,Berlin,Various,Basic,2022-04-26,Drama,WebBrowser,1
+725,35-44,Non-binary,Bangalore,India,Free,2023-02-10,Drama,StreamMax,0
+726,45-54,Non-binary,Sydney,Various,Basic,2023-01-16,Sci-Fi,MobileApp,1
+727,55+,Female,Delhi,India,Free,2022-03-03,Comedy,MobileApp,1
+728,18-24,Male,Singapore,Various,Family,2022-08-27,Comedy,TabletApp,1
+729,35-44,Female,Singapore,Various,Basic,2022-01-22,Romance,WebBrowser,1
+730,35-44,Male,Bangalore,India,Family,2023-12-25,Thriller,TabletApp,1
+731,45-54,Male,Dubai,Various,Basic,2023-07-11,Comedy,SmartTV,1
+732,55+,Non-binary,Chennai,India,Basic,2022-03-12,Action,MobileApp,1
+733,35-44,Non-binary,Toronto,Various,Premium,2023-04-10,Sci-Fi,TabletApp,1
+734,18-24,Non-binary,Bangalore,India,Premium,2024-03-05,Action,MobileApp,1
+735,55+,Female,Delhi,India,Basic,2023-06-21,Romance,WebBrowser,1
+736,55+,Female,Bangalore,India,Premium,2023-02-24,Romance,SmartTV,1
+737,18-24,Male,Tokyo,Various,Basic,2022-07-02,Sci-Fi,MobileApp,1
+738,18-24,Male,Hyderabad,India,Family,2023-11-05,Thriller,TabletApp,1
+739,35-44,Male,Sydney,Various,Premium,2022-08-15,Action,StreamMax,1
+740,25-34,Non-binary,Berlin,Various,Family,2024-05-02,Sci-Fi,WebBrowser,1
+741,35-44,Non-binary,Mumbai,India,Family,2024-04-21,Comedy,StreamMax,1
+742,55+,Male,Chennai,India,Free,2024-05-04,Comedy,StreamMax,0
+743,18-24,Male,Tokyo,Various,Basic,2023-06-29,Thriller,MobileApp,1
+744,25-34,Non-binary,Paris,Various,Basic,2023-07-26,Romance,TabletApp,1
+745,55+,Female,Delhi,India,Family,2023-12-21,Romance,WebBrowser,0
+746,25-34,Non-binary,Bangalore,India,Family,2023-06-01,Comedy,MobileApp,1
+747,45-54,Female,Sydney,Various,Premium,2023-07-18,Comedy,SmartTV,1
+748,45-54,Non-binary,Paris,Various,Premium,2023-09-16,Drama,TabletApp,1
+749,55+,Non-binary,Los Angeles,Various,Premium,2023-01-04,Thriller,WebBrowser,0
+750,18-24,Female,Mumbai,India,Free,2023-06-15,Drama,SmartTV,1
+751,25-34,Female,Hyderabad,India,Free,2024-03-01,Romance,SmartTV,0
+752,55+,Non-binary,Tokyo,Various,Basic,2022-04-07,Sci-Fi,WebBrowser,1
+753,35-44,Female,Bangalore,India,Basic,2022-08-27,Comedy,SmartTV,1
+754,55+,Male,Los Angeles,Various,Free,2024-01-11,Comedy,WebBrowser,1
+755,55+,Male,Toronto,Various,Premium,2022-02-08,Romance,TabletApp,1
+756,18-24,Female,Singapore,Various,Premium,2024-04-16,Thriller,WebBrowser,0
+757,25-34,Non-binary,Delhi,India,Free,2023-10-12,Romance,WebBrowser,1
+758,18-24,Female,Tokyo,Various,Basic,2022-12-01,Action,MobileApp,1
+759,45-54,Female,Paris,Various,Free,2022-08-16,Thriller,SmartTV,1
+760,25-34,Female,Bangalore,India,Free,2023-05-03,Action,StreamMax,1
+761,18-24,Female,Chennai,India,Family,2024-03-03,Romance,MobileApp,1
+762,55+,Male,London,Various,Family,2023-02-09,Romance,TabletApp,1
+763,55+,Male,Sydney,Various,Basic,2022-03-15,Comedy,WebBrowser,1
+764,55+,Male,Berlin,Various,Free,2023-11-19,Thriller,WebBrowser,1
+765,35-44,Female,Hyderabad,India,Free,2024-02-28,Comedy,MobileApp,0
+766,45-54,Non-binary,Sydney,Various,Basic,2023-03-28,Sci-Fi,MobileApp,1
+767,25-34,Non-binary,New York,Various,Free,2022-04-26,Romance,StreamMax,1
+768,25-34,Female,Sydney,Various,Free,2022-12-18,Romance,StreamMax,1
+769,18-24,Female,London,Various,Basic,2024-01-28,Action,MobileApp,1
+770,35-44,Non-binary,Tokyo,Various,Family,2023-09-30,Romance,MobileApp,1
+771,18-24,Female,Paris,Various,Free,2022-09-19,Drama,StreamMax,1
+772,55+,Female,Singapore,Various,Free,2023-04-22,Romance,StreamMax,1
+773,35-44,Non-binary,Paris,Various,Premium,2022-04-21,Sci-Fi,SmartTV,0
+774,45-54,Male,Paris,Various,Family,2023-06-05,Romance,StreamMax,0
+775,55+,Non-binary,London,Various,Free,2022-07-10,Drama,TabletApp,0
+776,18-24,Male,Tokyo,Various,Basic,2023-06-27,Comedy,SmartTV,1
+777,25-34,Male,Dubai,Various,Premium,2023-12-02,Comedy,SmartTV,1
+778,55+,Female,Hyderabad,India,Free,2023-10-03,Comedy,WebBrowser,0
+779,18-24,Non-binary,Toronto,Various,Premium,2022-08-19,Drama,SmartTV,0
+780,25-34,Male,Paris,Various,Family,2023-06-18,Romance,TabletApp,0
+781,25-34,Female,Paris,Various,Basic,2023-08-10,Drama,WebBrowser,0
+782,55+,Female,Berlin,Various,Family,2023-07-10,Drama,MobileApp,1
+783,55+,Non-binary,Sydney,Various,Basic,2022-05-22,Comedy,TabletApp,0
+784,25-34,Non-binary,Los Angeles,Various,Basic,2022-11-22,Sci-Fi,TabletApp,1
+785,18-24,Male,Dubai,Various,Premium,2024-05-09,Drama,StreamMax,1
+786,45-54,Female,Berlin,Various,Premium,2023-03-30,Romance,SmartTV,1
+787,18-24,Male,Hyderabad,India,Basic,2022-01-27,Action,TabletApp,1
+788,55+,Male,Sydney,Various,Basic,2022-08-25,Romance,StreamMax,1
+789,45-54,Male,Dubai,Various,Family,2023-12-31,Romance,SmartTV,1
+790,45-54,Female,Los Angeles,Various,Basic,2022-06-17,Drama,MobileApp,1
+791,18-24,Female,Singapore,Various,Family,2022-08-16,Romance,MobileApp,1
+792,25-34,Female,Delhi,India,Family,2023-12-06,Comedy,WebBrowser,0
+793,45-54,Male,Los Angeles,Various,Family,2024-01-08,Comedy,WebBrowser,1
+794,55+,Non-binary,Dubai,Various,Free,2023-06-18,Sci-Fi,WebBrowser,1
+795,18-24,Male,Berlin,Various,Family,2024-01-23,Sci-Fi,TabletApp,1
+796,18-24,Male,Singapore,Various,Premium,2023-03-27,Thriller,SmartTV,1
+797,45-54,Male,Chennai,India,Family,2022-10-29,Action,StreamMax,1
+798,25-34,Female,Berlin,Various,Family,2022-04-03,Romance,TabletApp,1
+799,55+,Non-binary,Singapore,Various,Basic,2023-02-07,Thriller,SmartTV,1
+800,45-54,Non-binary,Bangalore,India,Basic,2023-04-11,Sci-Fi,SmartTV,1
+801,25-34,Non-binary,Paris,Various,Free,2022-04-04,Sci-Fi,WebBrowser,1
+802,55+,Non-binary,Delhi,India,Family,2024-01-15,Action,TabletApp,0
+803,55+,Female,Los Angeles,Various,Free,2024-02-26,Drama,SmartTV,1
+804,25-34,Male,Paris,Various,Basic,2022-07-03,Romance,StreamMax,1
+805,45-54,Female,Chennai,India,Basic,2022-05-01,Drama,MobileApp,1
+806,35-44,Male,Singapore,Various,Family,2023-05-25,Thriller,TabletApp,1
+807,45-54,Male,Sydney,Various,Basic,2023-08-26,Romance,WebBrowser,1
+808,18-24,Non-binary,London,Various,Free,2022-09-08,Action,SmartTV,1
+809,25-34,Male,Tokyo,Various,Basic,2022-06-01,Sci-Fi,SmartTV,1
+810,18-24,Non-binary,Toronto,Various,Premium,2022-12-06,Sci-Fi,StreamMax,1
+811,25-34,Non-binary,Bangalore,India,Premium,2023-09-18,Romance,TabletApp,1
+812,25-34,Female,Tokyo,Various,Premium,2022-02-06,Sci-Fi,SmartTV,1
+813,45-54,Male,Berlin,Various,Family,2024-05-13,Action,StreamMax,1
+814,18-24,Non-binary,Bangalore,India,Premium,2022-12-04,Action,WebBrowser,1
+815,25-34,Non-binary,Dubai,Various,Free,2022-04-22,Action,TabletApp,0
+816,55+,Non-binary,London,Various,Premium,2023-03-14,Action,SmartTV,1
+817,55+,Female,Sydney,Various,Basic,2023-09-22,Action,WebBrowser,1
+818,45-54,Female,Paris,Various,Basic,2023-09-17,Drama,SmartTV,0
+819,18-24,Male,Mumbai,India,Family,2023-10-03,Sci-Fi,MobileApp,1
+820,45-54,Male,Los Angeles,Various,Premium,2022-12-25,Action,MobileApp,1
+821,35-44,Female,Hyderabad,India,Free,2022-11-12,Comedy,TabletApp,1
+822,18-24,Male,Singapore,Various,Premium,2022-12-16,Thriller,TabletApp,1
+823,25-34,Male,Mumbai,India,Premium,2024-05-03,Comedy,WebBrowser,0
+824,18-24,Non-binary,Singapore,Various,Basic,2023-05-09,Drama,WebBrowser,0
+825,35-44,Female,Tokyo,Various,Family,2024-01-31,Sci-Fi,TabletApp,1
+826,35-44,Non-binary,Dubai,Various,Free,2022-08-02,Action,SmartTV,1
+827,35-44,Male,Berlin,Various,Basic,2022-10-15,Sci-Fi,SmartTV,0
+828,55+,Male,Paris,Various,Family,2022-07-11,Action,StreamMax,0
+829,35-44,Non-binary,Singapore,Various,Premium,2023-12-28,Sci-Fi,SmartTV,1
+830,25-34,Female,London,Various,Family,2024-04-29,Comedy,MobileApp,1
+831,18-24,Female,Bangalore,India,Free,2024-03-07,Drama,StreamMax,1
+832,45-54,Non-binary,Mumbai,India,Basic,2022-07-14,Comedy,WebBrowser,1
+833,35-44,Female,Tokyo,Various,Basic,2024-02-27,Sci-Fi,TabletApp,1
+834,25-34,Non-binary,Bangalore,India,Free,2023-04-16,Thriller,TabletApp,1
+835,18-24,Non-binary,Chennai,India,Free,2022-12-08,Thriller,StreamMax,1
+836,35-44,Male,Singapore,Various,Premium,2023-10-17,Drama,SmartTV,1
+837,35-44,Non-binary,Chennai,India,Premium,2024-03-02,Thriller,StreamMax,1
+838,35-44,Male,Bangalore,India,Free,2023-09-30,Action,TabletApp,1
+839,35-44,Non-binary,Tokyo,Various,Premium,2022-10-05,Drama,SmartTV,1
+840,18-24,Female,Bangalore,India,Premium,2023-07-08,Thriller,StreamMax,1
+841,18-24,Male,London,Various,Family,2022-02-25,Sci-Fi,WebBrowser,1
+842,55+,Non-binary,Dubai,Various,Family,2023-09-24,Comedy,SmartTV,1
+843,55+,Male,Hyderabad,India,Family,2023-08-05,Drama,StreamMax,1
+844,45-54,Male,Berlin,Various,Family,2022-11-14,Romance,WebBrowser,1
+845,25-34,Non-binary,Hyderabad,India,Premium,2023-01-08,Thriller,MobileApp,1
+846,35-44,Female,Paris,Various,Family,2023-05-15,Sci-Fi,StreamMax,1
+847,45-54,Female,New York,Various,Basic,2022-10-17,Comedy,TabletApp,1
+848,18-24,Female,Tokyo,Various,Free,2022-11-30,Action,StreamMax,1
+849,45-54,Female,Tokyo,Various,Family,2022-09-02,Action,MobileApp,1
+850,45-54,Male,London,Various,Premium,2022-08-02,Romance,TabletApp,1
+851,55+,Female,Los Angeles,Various,Basic,2022-06-27,Romance,StreamMax,1
+852,55+,Female,Dubai,Various,Free,2023-08-30,Action,WebBrowser,1
+853,45-54,Male,Delhi,India,Premium,2023-02-20,Sci-Fi,TabletApp,1
+854,55+,Female,Toronto,Various,Premium,2023-05-22,Romance,StreamMax,1
+855,25-34,Non-binary,Toronto,Various,Free,2024-02-15,Drama,MobileApp,1
+856,45-54,Non-binary,Chennai,India,Family,2022-07-20,Drama,SmartTV,1
+857,35-44,Female,Singapore,Various,Premium,2022-04-02,Action,StreamMax,1
+858,45-54,Male,Tokyo,Various,Premium,2022-03-05,Comedy,TabletApp,0
+859,55+,Female,Mumbai,India,Free,2024-05-31,Comedy,StreamMax,1
+860,55+,Female,Dubai,Various,Premium,2023-12-30,Thriller,WebBrowser,1
+861,25-34,Non-binary,Tokyo,Various,Basic,2023-05-02,Drama,MobileApp,1
+862,35-44,Female,Toronto,Various,Basic,2022-10-23,Romance,MobileApp,1
+863,18-24,Male,Delhi,India,Family,2023-11-05,Thriller,MobileApp,1
+864,45-54,Female,Paris,Various,Family,2023-10-01,Drama,WebBrowser,1
+865,45-54,Female,Tokyo,Various,Premium,2022-08-20,Drama,WebBrowser,1
+866,45-54,Non-binary,Sydney,Various,Basic,2023-12-31,Action,SmartTV,1
+867,55+,Female,Tokyo,Various,Free,2022-02-08,Action,WebBrowser,1
+868,55+,Female,Delhi,India,Free,2022-05-26,Romance,TabletApp,0
+869,35-44,Female,Singapore,Various,Free,2023-06-20,Action,StreamMax,1
+870,18-24,Non-binary,Paris,Various,Premium,2023-09-20,Sci-Fi,SmartTV,1
+871,45-54,Female,Mumbai,India,Family,2023-08-11,Romance,SmartTV,1
+872,35-44,Female,Singapore,Various,Basic,2022-02-06,Romance,TabletApp,1
+873,55+,Female,Dubai,Various,Free,2023-10-07,Thriller,TabletApp,1
+874,35-44,Non-binary,Mumbai,India,Free,2022-10-21,Thriller,StreamMax,1
+875,35-44,Female,Delhi,India,Basic,2023-09-23,Comedy,SmartTV,0
+876,18-24,Non-binary,Mumbai,India,Basic,2023-08-29,Romance,MobileApp,1
+877,25-34,Female,New York,Various,Basic,2023-05-12,Drama,TabletApp,0
+878,18-24,Male,New York,Various,Basic,2024-05-07,Thriller,WebBrowser,1
+879,45-54,Non-binary,Hyderabad,India,Basic,2022-08-04,Action,SmartTV,1
+880,18-24,Male,Chennai,India,Basic,2023-04-21,Thriller,WebBrowser,1
+881,55+,Male,Dubai,Various,Family,2023-12-01,Romance,WebBrowser,1
+882,55+,Female,Bangalore,India,Free,2022-10-23,Thriller,WebBrowser,1
+883,18-24,Male,Tokyo,Various,Premium,2024-05-14,Thriller,TabletApp,0
+884,35-44,Female,Toronto,Various,Premium,2022-10-01,Sci-Fi,SmartTV,1
+885,45-54,Non-binary,Los Angeles,Various,Basic,2024-01-22,Romance,TabletApp,1
+886,35-44,Non-binary,Tokyo,Various,Basic,2022-11-17,Action,StreamMax,1
+887,18-24,Male,Toronto,Various,Family,2022-04-11,Action,StreamMax,1
+888,25-34,Non-binary,New York,Various,Premium,2022-09-15,Drama,StreamMax,1
+889,18-24,Non-binary,Delhi,India,Basic,2023-09-06,Romance,StreamMax,1
+890,18-24,Non-binary,Delhi,India,Basic,2023-01-20,Romance,TabletApp,1
+891,18-24,Non-binary,Bangalore,India,Basic,2022-09-17,Comedy,WebBrowser,1
+892,45-54,Female,Delhi,India,Family,2023-12-10,Romance,SmartTV,1
+893,18-24,Female,Singapore,Various,Free,2023-01-27,Thriller,SmartTV,0
+894,35-44,Male,Chennai,India,Family,2022-03-13,Thriller,MobileApp,1
+895,45-54,Male,Bangalore,India,Basic,2023-07-08,Thriller,MobileApp,1
+896,45-54,Non-binary,Delhi,India,Premium,2022-04-16,Sci-Fi,StreamMax,1
+897,35-44,Female,Dubai,Various,Free,2023-05-25,Drama,StreamMax,0
+898,45-54,Female,Paris,Various,Basic,2023-12-18,Comedy,WebBrowser,1
+899,45-54,Female,Tokyo,Various,Family,2023-02-18,Romance,StreamMax,1
+900,45-54,Non-binary,Mumbai,India,Family,2022-05-05,Action,TabletApp,0
+901,35-44,Non-binary,New York,Various,Premium,2023-02-15,Sci-Fi,StreamMax,1
+902,35-44,Male,Toronto,Various,Family,2024-02-18,Comedy,MobileApp,1
+903,45-54,Non-binary,Mumbai,India,Basic,2022-11-03,Romance,WebBrowser,0
+904,35-44,Female,Paris,Various,Free,2023-10-10,Thriller,MobileApp,1
+905,18-24,Non-binary,Hyderabad,India,Basic,2023-05-16,Thriller,StreamMax,1
+906,35-44,Female,Paris,Various,Family,2022-01-17,Sci-Fi,SmartTV,1
+907,18-24,Female,Singapore,Various,Free,2022-08-05,Romance,TabletApp,1
+908,55+,Male,Paris,Various,Basic,2022-03-15,Sci-Fi,MobileApp,1
+909,45-54,Non-binary,Mumbai,India,Free,2022-09-06,Romance,MobileApp,1
+910,18-24,Female,Paris,Various,Free,2023-04-13,Action,MobileApp,1
+911,18-24,Male,Delhi,India,Family,2023-09-02,Action,MobileApp,1
+912,45-54,Female,Hyderabad,India,Family,2022-11-29,Sci-Fi,TabletApp,1
+913,25-34,Male,New York,Various,Basic,2022-12-10,Sci-Fi,StreamMax,1
+914,45-54,Male,Singapore,Various,Premium,2023-07-21,Drama,WebBrowser,1
+915,18-24,Male,Sydney,Various,Free,2024-03-21,Romance,TabletApp,1
+916,18-24,Female,Bangalore,India,Free,2022-01-07,Sci-Fi,MobileApp,0
+917,55+,Female,Dubai,Various,Family,2023-12-12,Thriller,MobileApp,1
+918,35-44,Non-binary,Paris,Various,Family,2023-02-26,Drama,MobileApp,1
+919,55+,Male,Mumbai,India,Family,2023-09-19,Sci-Fi,SmartTV,1
+920,55+,Male,Mumbai,India,Basic,2022-05-01,Action,StreamMax,1
+921,55+,Non-binary,Toronto,Various,Basic,2023-04-21,Romance,MobileApp,1
+922,18-24,Male,Hyderabad,India,Family,2023-05-25,Drama,MobileApp,1
+923,18-24,Non-binary,Mumbai,India,Premium,2022-10-19,Drama,WebBrowser,1
+924,45-54,Male,Sydney,Various,Free,2024-01-29,Sci-Fi,TabletApp,1
+925,18-24,Female,Singapore,Various,Free,2022-03-14,Drama,WebBrowser,1
+926,45-54,Male,New York,Various,Premium,2022-08-24,Sci-Fi,SmartTV,1
+927,45-54,Male,Hyderabad,India,Family,2022-08-14,Sci-Fi,WebBrowser,1
+928,45-54,Male,Mumbai,India,Basic,2023-09-17,Thriller,MobileApp,1
+929,45-54,Non-binary,Bangalore,India,Basic,2023-10-10,Comedy,SmartTV,1
+930,18-24,Non-binary,Bangalore,India,Free,2022-10-15,Drama,StreamMax,0
+931,45-54,Male,London,Various,Premium,2022-08-14,Comedy,TabletApp,1
+932,55+,Male,Singapore,Various,Basic,2022-03-30,Thriller,TabletApp,1
+933,55+,Female,Hyderabad,India,Family,2022-10-13,Sci-Fi,WebBrowser,1
+934,25-34,Female,Hyderabad,India,Family,2023-08-17,Drama,TabletApp,0
+935,55+,Male,Berlin,Various,Family,2022-02-15,Sci-Fi,WebBrowser,1
+936,18-24,Female,Tokyo,Various,Family,2023-05-06,Romance,StreamMax,1
+937,18-24,Non-binary,Hyderabad,India,Free,2023-12-11,Romance,WebBrowser,0
+938,35-44,Female,Bangalore,India,Basic,2023-10-26,Sci-Fi,StreamMax,1
+939,25-34,Non-binary,Chennai,India,Family,2024-05-28,Action,TabletApp,1
+940,45-54,Male,London,Various,Family,2022-07-09,Comedy,WebBrowser,1
+941,18-24,Female,Mumbai,India,Premium,2023-06-28,Sci-Fi,SmartTV,1
+942,55+,Non-binary,Chennai,India,Basic,2024-03-17,Romance,StreamMax,1
+943,18-24,Non-binary,New York,Various,Premium,2022-02-22,Sci-Fi,WebBrowser,1
+944,18-24,Female,Sydney,Various,Premium,2022-06-29,Romance,TabletApp,1
+945,25-34,Male,Tokyo,Various,Premium,2022-09-02,Action,StreamMax,1
+946,55+,Non-binary,Dubai,Various,Basic,2024-02-11,Romance,MobileApp,1
+947,35-44,Non-binary,Berlin,Various,Family,2022-10-11,Sci-Fi,StreamMax,1
+948,45-54,Non-binary,London,Various,Free,2023-04-27,Romance,TabletApp,1
+949,35-44,Female,Tokyo,Various,Premium,2024-03-30,Romance,StreamMax,1
+950,45-54,Male,Berlin,Various,Free,2023-02-05,Drama,SmartTV,0
+951,18-24,Male,Delhi,India,Premium,2022-04-25,Romance,MobileApp,1
+952,25-34,Non-binary,Toronto,Various,Free,2022-10-28,Thriller,TabletApp,0
+953,35-44,Female,London,Various,Family,2024-01-26,Romance,StreamMax,1
+954,18-24,Male,Delhi,India,Premium,2023-02-26,Action,SmartTV,1
+955,35-44,Female,Singapore,Various,Family,2023-04-14,Comedy,TabletApp,1
+956,35-44,Male,Singapore,Various,Premium,2022-08-21,Thriller,SmartTV,0
+957,18-24,Male,Singapore,Various,Premium,2022-10-19,Thriller,MobileApp,1
+958,55+,Female,Bangalore,India,Basic,2022-06-29,Romance,MobileApp,1
+959,18-24,Female,Delhi,India,Basic,2023-03-28,Comedy,SmartTV,1
+960,18-24,Non-binary,Tokyo,Various,Premium,2022-12-19,Drama,SmartTV,1
+961,55+,Female,Bangalore,India,Free,2022-01-26,Thriller,WebBrowser,1
+962,35-44,Male,London,Various,Free,2024-01-27,Action,TabletApp,1
+963,35-44,Female,Dubai,Various,Premium,2024-02-12,Action,MobileApp,1
+964,45-54,Female,Dubai,Various,Free,2024-01-20,Thriller,StreamMax,1
+965,18-24,Female,Tokyo,Various,Free,2023-02-16,Action,MobileApp,1
+966,35-44,Male,Delhi,India,Basic,2023-08-21,Action,MobileApp,1
+967,35-44,Male,Singapore,Various,Free,2022-03-27,Action,WebBrowser,1
+968,55+,Female,Delhi,India,Basic,2023-05-18,Comedy,TabletApp,1
+969,35-44,Female,Mumbai,India,Basic,2024-01-04,Thriller,SmartTV,1
+970,35-44,Female,Mumbai,India,Premium,2022-11-12,Thriller,TabletApp,1
+971,45-54,Non-binary,Dubai,Various,Family,2024-04-02,Thriller,SmartTV,1
+972,45-54,Non-binary,Dubai,Various,Family,2022-05-23,Action,TabletApp,1
+973,35-44,Female,Hyderabad,India,Premium,2022-03-09,Action,WebBrowser,1
+974,35-44,Female,Los Angeles,Various,Basic,2023-07-24,Thriller,TabletApp,1
+975,25-34,Male,Bangalore,India,Family,2022-10-24,Action,WebBrowser,1
+976,35-44,Non-binary,Toronto,Various,Premium,2023-05-21,Action,WebBrowser,1
+977,18-24,Male,Singapore,Various,Premium,2022-11-04,Romance,WebBrowser,1
+978,35-44,Female,Paris,Various,Basic,2023-05-19,Romance,MobileApp,1
+979,35-44,Female,Singapore,Various,Free,2023-09-06,Romance,SmartTV,1
+980,45-54,Female,Sydney,Various,Family,2023-12-12,Sci-Fi,SmartTV,1
+981,18-24,Female,Sydney,Various,Basic,2023-08-19,Sci-Fi,MobileApp,1
+982,25-34,Female,Berlin,Various,Basic,2022-02-24,Comedy,SmartTV,1
+983,35-44,Male,Berlin,Various,Premium,2022-10-26,Action,StreamMax,1
+984,25-34,Male,Singapore,Various,Basic,2023-07-11,Comedy,SmartTV,1
+985,35-44,Female,Paris,Various,Premium,2022-04-09,Action,TabletApp,1
+986,18-24,Male,Bangalore,India,Premium,2023-01-17,Thriller,WebBrowser,1
+987,25-34,Male,Berlin,Various,Basic,2022-06-08,Action,MobileApp,1
+988,55+,Non-binary,Singapore,Various,Free,2023-03-04,Thriller,StreamMax,1
+989,18-24,Female,Bangalore,India,Premium,2022-11-16,Romance,SmartTV,1
+990,55+,Non-binary,London,Various,Premium,2022-06-26,Romance,SmartTV,1
+991,18-24,Male,Toronto,Various,Basic,2024-05-27,Romance,MobileApp,1
+992,25-34,Male,Chennai,India,Basic,2022-03-22,Thriller,StreamMax,1
+993,45-54,Female,Singapore,Various,Free,2022-07-21,Sci-Fi,StreamMax,1
+994,55+,Male,Tokyo,Various,Family,2022-05-02,Comedy,StreamMax,1
+995,18-24,Male,Paris,Various,Free,2023-09-09,Drama,TabletApp,0
+996,35-44,Male,Bangalore,India,Free,2022-05-30,Romance,SmartTV,0
+997,35-44,Male,New York,Various,Basic,2023-06-02,Action,StreamMax,1
+998,18-24,Non-binary,Sydney,Various,Basic,2024-01-03,Drama,SmartTV,1
+999,55+,Male,Singapore,Various,Free,2022-08-08,Action,WebBrowser,1
+1000,25-34,Female,Sydney,Various,Free,2022-07-05,Comedy,WebBrowser,1
+1001,25-34,Female,Tokyo,Various,Free,2024-02-19,Comedy,StreamMax,1
+1002,25-34,Female,Tokyo,Various,Premium,2023-12-23,Comedy,TabletApp,1
+1003,35-44,Female,Delhi,India,Free,2023-01-30,Comedy,WebBrowser,1
+1004,45-54,Male,Chennai,India,Family,2022-10-25,Thriller,MobileApp,0
+1005,45-54,Non-binary,Berlin,Various,Premium,2022-07-03,Sci-Fi,WebBrowser,1
+1006,45-54,Non-binary,Los Angeles,Various,Free,2022-05-03,Drama,WebBrowser,1
+1007,18-24,Non-binary,Sydney,Various,Basic,2022-03-08,Comedy,MobileApp,1
+1008,45-54,Male,Sydney,Various,Basic,2024-05-08,Thriller,WebBrowser,1
+1009,55+,Non-binary,Dubai,Various,Premium,2024-02-14,Romance,WebBrowser,1
+1010,55+,Female,Paris,Various,Family,2023-06-08,Comedy,MobileApp,1
+1011,18-24,Female,Delhi,India,Family,2023-05-25,Drama,MobileApp,1
+1012,18-24,Male,Dubai,Various,Family,2023-11-26,Sci-Fi,MobileApp,1
+1013,35-44,Male,Paris,Various,Premium,2023-09-29,Action,StreamMax,1
+1014,55+,Female,Paris,Various,Family,2022-07-26,Comedy,WebBrowser,1
+1015,55+,Female,Chennai,India,Free,2024-02-22,Sci-Fi,WebBrowser,0
+1016,45-54,Female,Delhi,India,Premium,2024-05-23,Thriller,WebBrowser,1
+1017,25-34,Non-binary,Mumbai,India,Premium,2023-12-25,Drama,WebBrowser,1
+1018,45-54,Female,Chennai,India,Free,2023-08-06,Romance,WebBrowser,1
+1019,55+,Non-binary,Paris,Various,Family,2023-05-03,Action,MobileApp,1
+1020,35-44,Female,Los Angeles,Various,Family,2023-09-24,Romance,SmartTV,1
+1021,35-44,Male,Chennai,India,Free,2023-08-28,Sci-Fi,MobileApp,1
+1022,55+,Male,New York,Various,Premium,2023-01-25,Sci-Fi,WebBrowser,1
+1023,45-54,Female,New York,Various,Free,2023-11-09,Drama,MobileApp,1
+1024,55+,Male,Chennai,India,Free,2022-11-09,Sci-Fi,SmartTV,1
+1025,35-44,Male,Tokyo,Various,Family,2023-11-05,Thriller,TabletApp,1
+1026,35-44,Male,Los Angeles,Various,Family,2023-08-26,Sci-Fi,SmartTV,1
+1027,35-44,Non-binary,Los Angeles,Various,Free,2024-04-07,Thriller,StreamMax,1
+1028,35-44,Female,Hyderabad,India,Premium,2022-06-20,Action,SmartTV,1
+1029,25-34,Female,Los Angeles,Various,Free,2024-05-10,Action,MobileApp,1
+1030,35-44,Non-binary,Mumbai,India,Family,2024-04-03,Drama,TabletApp,1
+1031,55+,Male,Delhi,India,Premium,2022-10-07,Sci-Fi,TabletApp,1
+1032,45-54,Male,London,Various,Premium,2024-03-25,Sci-Fi,SmartTV,1
+1033,45-54,Non-binary,Chennai,India,Premium,2022-07-24,Thriller,WebBrowser,1
+1034,45-54,Non-binary,Tokyo,Various,Basic,2022-01-20,Romance,TabletApp,0
+1035,45-54,Male,Sydney,Various,Family,2022-10-02,Romance,TabletApp,1
+1036,45-54,Non-binary,Toronto,Various,Free,2023-06-19,Drama,SmartTV,1
+1037,25-34,Non-binary,Hyderabad,India,Premium,2024-05-14,Thriller,WebBrowser,1
+1038,18-24,Non-binary,Toronto,Various,Basic,2024-05-16,Thriller,SmartTV,1
+1039,25-34,Female,Paris,Various,Basic,2023-02-20,Drama,StreamMax,1
+1040,25-34,Female,Mumbai,India,Family,2023-05-13,Action,WebBrowser,1
+1041,18-24,Male,Berlin,Various,Basic,2022-10-07,Drama,StreamMax,1
+1042,35-44,Non-binary,Singapore,Various,Basic,2023-10-22,Sci-Fi,WebBrowser,1
+1043,18-24,Female,Mumbai,India,Premium,2022-03-07,Thriller,SmartTV,1
+1044,18-24,Female,Berlin,Various,Basic,2022-08-30,Sci-Fi,TabletApp,1
+1045,18-24,Non-binary,Berlin,Various,Premium,2023-05-24,Sci-Fi,MobileApp,1
+1046,35-44,Female,Singapore,Various,Family,2024-04-05,Romance,MobileApp,0
+1047,25-34,Male,Hyderabad,India,Basic,2022-08-08,Comedy,WebBrowser,1
+1048,55+,Male,Toronto,Various,Family,2023-07-01,Comedy,StreamMax,1
+1049,45-54,Non-binary,Los Angeles,Various,Basic,2022-10-12,Drama,SmartTV,1
+1050,35-44,Male,New York,Various,Free,2024-05-11,Romance,StreamMax,1
+1051,25-34,Female,Singapore,Various,Family,2022-11-13,Romance,SmartTV,0
+1052,18-24,Non-binary,Paris,Various,Basic,2024-05-28,Thriller,WebBrowser,1
+1053,35-44,Female,Los Angeles,Various,Free,2024-04-22,Drama,SmartTV,1
+1054,25-34,Female,Berlin,Various,Premium,2024-04-11,Romance,WebBrowser,1
+1055,18-24,Female,Chennai,India,Family,2024-01-25,Thriller,SmartTV,1
+1056,18-24,Male,Berlin,Various,Premium,2023-06-03,Sci-Fi,SmartTV,1
+1057,55+,Non-binary,Dubai,Various,Premium,2023-04-10,Romance,StreamMax,1
+1058,25-34,Non-binary,Paris,Various,Family,2024-03-21,Romance,MobileApp,1
+1059,35-44,Female,Hyderabad,India,Free,2022-04-24,Drama,MobileApp,1
+1060,25-34,Non-binary,Singapore,Various,Family,2024-03-22,Comedy,WebBrowser,1
+1061,25-34,Female,Dubai,Various,Basic,2023-12-05,Action,SmartTV,1
+1062,18-24,Female,Hyderabad,India,Premium,2022-07-06,Thriller,WebBrowser,0
+1063,55+,Male,Berlin,Various,Free,2022-01-24,Action,TabletApp,1
+1064,18-24,Female,Berlin,Various,Basic,2022-09-26,Romance,MobileApp,1
+1065,45-54,Non-binary,Sydney,Various,Premium,2022-06-02,Sci-Fi,SmartTV,1
+1066,18-24,Male,Sydney,Various,Family,2024-03-02,Thriller,WebBrowser,1
+1067,25-34,Male,Dubai,Various,Premium,2022-10-22,Romance,WebBrowser,1
+1068,25-34,Non-binary,Los Angeles,Various,Basic,2024-04-23,Comedy,MobileApp,1
+1069,25-34,Male,Los Angeles,Various,Premium,2022-09-26,Drama,TabletApp,1
+1070,35-44,Non-binary,Hyderabad,India,Family,2022-03-29,Sci-Fi,WebBrowser,1
+1071,45-54,Non-binary,New York,Various,Basic,2024-01-01,Thriller,WebBrowser,1
+1072,18-24,Male,Chennai,India,Free,2022-02-23,Comedy,MobileApp,1
+1073,55+,Non-binary,New York,Various,Free,2022-01-06,Comedy,TabletApp,1
+1074,45-54,Non-binary,Chennai,India,Premium,2022-05-16,Action,StreamMax,1
+1075,25-34,Non-binary,Chennai,India,Family,2022-12-14,Thriller,MobileApp,1
+1076,55+,Female,Dubai,Various,Basic,2022-09-24,Sci-Fi,SmartTV,1
+1077,45-54,Female,Bangalore,India,Premium,2023-03-17,Comedy,SmartTV,1
+1078,35-44,Non-binary,Singapore,Various,Premium,2023-03-23,Drama,SmartTV,1
+1079,25-34,Non-binary,London,Various,Family,2022-02-24,Drama,MobileApp,1
+1080,18-24,Female,Bangalore,India,Premium,2022-06-17,Romance,WebBrowser,1
+1081,45-54,Male,Berlin,Various,Family,2023-01-01,Romance,TabletApp,1
+1082,18-24,Non-binary,London,Various,Basic,2022-05-07,Comedy,StreamMax,1
+1083,25-34,Male,Chennai,India,Premium,2023-07-31,Romance,TabletApp,1
+1084,55+,Non-binary,Mumbai,India,Basic,2023-03-03,Sci-Fi,MobileApp,1
+1085,18-24,Female,Paris,Various,Free,2022-10-19,Romance,StreamMax,1
+1086,18-24,Female,Sydney,Various,Basic,2022-01-30,Sci-Fi,WebBrowser,1
+1087,45-54,Female,Paris,Various,Premium,2023-09-01,Romance,StreamMax,1
+1088,55+,Female,Mumbai,India,Premium,2024-01-20,Romance,TabletApp,1
+1089,18-24,Non-binary,Toronto,Various,Premium,2022-11-27,Sci-Fi,StreamMax,1
+1090,45-54,Male,Sydney,Various,Family,2022-09-19,Drama,MobileApp,0
+1091,45-54,Male,Toronto,Various,Free,2024-05-22,Drama,MobileApp,1
+1092,35-44,Non-binary,Los Angeles,Various,Basic,2022-05-04,Comedy,WebBrowser,1
+1093,35-44,Non-binary,Dubai,Various,Basic,2023-01-03,Romance,StreamMax,1
+1094,25-34,Female,Tokyo,Various,Family,2023-02-02,Thriller,SmartTV,1
+1095,18-24,Female,Los Angeles,Various,Premium,2023-09-21,Drama,WebBrowser,1
+1096,18-24,Non-binary,Delhi,India,Premium,2023-04-20,Romance,MobileApp,1
+1097,25-34,Female,Dubai,Various,Free,2022-10-25,Thriller,WebBrowser,1
+1098,45-54,Female,Singapore,Various,Basic,2022-05-11,Romance,SmartTV,1
+1099,45-54,Female,Tokyo,Various,Free,2023-07-19,Sci-Fi,StreamMax,1
+1100,45-54,Female,Tokyo,Various,Free,2023-04-21,Romance,TabletApp,1
+1101,35-44,Non-binary,New York,Various,Free,2024-02-27,Action,StreamMax,1
+1102,45-54,Male,Paris,Various,Basic,2024-05-13,Thriller,StreamMax,1
+1103,35-44,Female,Berlin,Various,Family,2024-02-15,Romance,WebBrowser,1
+1104,35-44,Male,Chennai,India,Basic,2022-07-09,Sci-Fi,TabletApp,1
+1105,18-24,Female,Paris,Various,Free,2022-01-06,Thriller,StreamMax,1
+1106,45-54,Female,Paris,Various,Family,2023-11-05,Romance,TabletApp,1
+1107,55+,Non-binary,Chennai,India,Premium,2023-12-09,Romance,WebBrowser,1
+1108,25-34,Male,Delhi,India,Free,2022-07-15,Sci-Fi,StreamMax,1
+1109,18-24,Male,Hyderabad,India,Family,2023-10-27,Drama,MobileApp,1
+1110,55+,Male,Paris,Various,Free,2022-11-05,Thriller,MobileApp,1
+1111,18-24,Male,Mumbai,India,Basic,2024-01-27,Romance,WebBrowser,0
+1112,18-24,Female,London,Various,Basic,2022-07-26,Comedy,TabletApp,1
+1113,18-24,Female,Los Angeles,Various,Free,2022-04-16,Romance,WebBrowser,0
+1114,45-54,Non-binary,Toronto,Various,Premium,2022-02-07,Thriller,WebBrowser,1
+1115,55+,Non-binary,Sydney,Various,Family,2022-08-26,Romance,StreamMax,1
+1116,55+,Female,Los Angeles,Various,Free,2022-10-02,Romance,WebBrowser,0
+1117,45-54,Non-binary,Delhi,India,Premium,2023-04-05,Romance,WebBrowser,1
+1118,25-34,Female,Chennai,India,Premium,2023-03-25,Drama,TabletApp,1
+1119,35-44,Non-binary,Berlin,Various,Family,2022-05-15,Comedy,WebBrowser,0
+1120,35-44,Female,Toronto,Various,Basic,2023-09-29,Drama,SmartTV,1
+1121,45-54,Male,Delhi,India,Basic,2022-07-24,Drama,TabletApp,1
+1122,45-54,Female,Singapore,Various,Premium,2022-08-29,Drama,TabletApp,1
+1123,35-44,Female,Mumbai,India,Premium,2023-11-25,Drama,MobileApp,1
+1124,55+,Male,Berlin,Various,Free,2022-12-12,Thriller,StreamMax,1
+1125,55+,Male,Delhi,India,Family,2022-09-22,Comedy,SmartTV,1
+1126,55+,Female,Singapore,Various,Basic,2024-05-23,Romance,TabletApp,1
+1127,18-24,Female,Delhi,India,Family,2024-05-11,Sci-Fi,StreamMax,1
+1128,18-24,Non-binary,Sydney,Various,Free,2023-06-04,Sci-Fi,MobileApp,1
+1129,25-34,Female,Toronto,Various,Basic,2024-01-16,Comedy,WebBrowser,1
+1130,18-24,Male,London,Various,Premium,2022-12-09,Drama,StreamMax,1
+1131,45-54,Male,London,Various,Basic,2024-05-04,Thriller,SmartTV,1
+1132,18-24,Female,Bangalore,India,Premium,2024-01-03,Thriller,SmartTV,1
+1133,25-34,Non-binary,Hyderabad,India,Family,2024-03-17,Drama,MobileApp,1
+1134,45-54,Female,Los Angeles,Various,Premium,2022-01-31,Thriller,MobileApp,1
+1135,55+,Male,Dubai,Various,Free,2022-12-13,Comedy,WebBrowser,0
+1136,45-54,Male,Bangalore,India,Family,2024-02-17,Sci-Fi,MobileApp,0
+1137,55+,Female,Mumbai,India,Family,2023-02-16,Romance,TabletApp,0
+1138,35-44,Female,Dubai,Various,Free,2024-04-26,Comedy,TabletApp,1
+1139,45-54,Female,Bangalore,India,Basic,2023-07-12,Action,TabletApp,1
+1140,35-44,Non-binary,Dubai,Various,Family,2024-03-05,Drama,SmartTV,1
+1141,35-44,Female,Tokyo,Various,Basic,2023-06-17,Action,SmartTV,1
+1142,55+,Female,Tokyo,Various,Premium,2024-02-15,Romance,MobileApp,1
+1143,55+,Non-binary,Berlin,Various,Premium,2022-09-05,Comedy,WebBrowser,0
+1144,18-24,Female,Delhi,India,Premium,2023-10-05,Action,SmartTV,1
+1145,18-24,Female,Singapore,Various,Premium,2023-08-10,Romance,StreamMax,1
+1146,55+,Non-binary,Hyderabad,India,Basic,2022-12-25,Comedy,SmartTV,1
+1147,55+,Non-binary,Toronto,Various,Basic,2024-01-02,Thriller,TabletApp,1
+1148,35-44,Non-binary,Delhi,India,Basic,2024-04-22,Comedy,WebBrowser,1
+1149,45-54,Female,Dubai,Various,Free,2022-04-05,Sci-Fi,WebBrowser,0
+1150,25-34,Female,London,Various,Free,2023-01-14,Romance,TabletApp,1
+1151,55+,Female,Tokyo,Various,Premium,2023-08-22,Thriller,WebBrowser,0
+1152,45-54,Non-binary,Dubai,Various,Family,2024-04-23,Drama,MobileApp,1
+1153,45-54,Male,London,Various,Free,2023-12-13,Drama,WebBrowser,1
+1154,25-34,Non-binary,Dubai,Various,Premium,2022-05-02,Action,WebBrowser,1
+1155,55+,Female,New York,Various,Free,2023-06-20,Drama,StreamMax,1
+1156,35-44,Female,New York,Various,Family,2022-01-29,Drama,MobileApp,1
+1157,18-24,Female,Los Angeles,Various,Premium,2022-08-09,Drama,WebBrowser,1
+1158,35-44,Male,Tokyo,Various,Free,2023-03-04,Thriller,TabletApp,1
+1159,35-44,Female,London,Various,Family,2024-05-04,Romance,TabletApp,1
+1160,55+,Non-binary,Bangalore,India,Family,2024-02-19,Thriller,WebBrowser,1
+1161,35-44,Male,Dubai,Various,Family,2023-02-01,Drama,WebBrowser,1
+1162,45-54,Non-binary,Mumbai,India,Premium,2023-10-24,Sci-Fi,MobileApp,1
+1163,35-44,Non-binary,Sydney,Various,Free,2023-10-22,Action,StreamMax,1
+1164,55+,Non-binary,Sydney,Various,Free,2023-08-07,Action,MobileApp,1
+1165,18-24,Male,Tokyo,Various,Basic,2022-01-20,Comedy,MobileApp,1
+1166,55+,Female,Dubai,Various,Free,2024-04-06,Action,TabletApp,1
+1167,18-24,Female,Sydney,Various,Free,2022-12-15,Thriller,MobileApp,1
+1168,55+,Female,Toronto,Various,Family,2022-09-21,Sci-Fi,StreamMax,0
+1169,25-34,Female,Tokyo,Various,Basic,2022-07-07,Comedy,StreamMax,1
+1170,25-34,Male,Los Angeles,Various,Premium,2022-07-05,Sci-Fi,StreamMax,1
+1171,35-44,Male,Delhi,India,Family,2022-11-28,Comedy,WebBrowser,0
+1172,18-24,Male,Berlin,Various,Basic,2022-09-03,Action,TabletApp,1
+1173,55+,Female,Tokyo,Various,Free,2022-10-03,Sci-Fi,SmartTV,1
+1174,18-24,Female,Los Angeles,Various,Free,2023-02-22,Romance,MobileApp,0
+1175,35-44,Non-binary,Mumbai,India,Free,2022-09-10,Action,MobileApp,1
+1176,45-54,Male,Los Angeles,Various,Basic,2024-03-12,Drama,SmartTV,1
+1177,25-34,Non-binary,Bangalore,India,Family,2023-07-23,Thriller,StreamMax,1
+1178,55+,Female,London,Various,Basic,2022-01-01,Sci-Fi,WebBrowser,1
+1179,45-54,Female,Chennai,India,Basic,2023-08-23,Action,SmartTV,1
+1180,55+,Non-binary,Dubai,Various,Free,2022-11-04,Sci-Fi,WebBrowser,1
+1181,25-34,Non-binary,Toronto,Various,Premium,2023-03-19,Drama,TabletApp,1
+1182,35-44,Non-binary,Singapore,Various,Premium,2023-10-13,Comedy,WebBrowser,1
+1183,35-44,Female,Paris,Various,Basic,2023-04-16,Action,SmartTV,1
+1184,25-34,Non-binary,Dubai,Various,Free,2023-09-16,Thriller,StreamMax,0
+1185,25-34,Female,Paris,Various,Family,2024-02-20,Thriller,TabletApp,1
+1186,18-24,Non-binary,Berlin,Various,Free,2024-05-02,Romance,WebBrowser,1
+1187,45-54,Non-binary,New York,Various,Premium,2023-02-01,Drama,StreamMax,1
+1188,25-34,Female,New York,Various,Free,2022-08-15,Romance,StreamMax,1
+1189,35-44,Male,Paris,Various,Free,2024-04-15,Action,SmartTV,1
+1190,25-34,Female,Hyderabad,India,Premium,2022-02-07,Comedy,WebBrowser,0
+1191,55+,Male,Dubai,Various,Free,2022-07-20,Romance,WebBrowser,1
+1192,55+,Non-binary,Chennai,India,Family,2022-06-24,Action,MobileApp,1
+1193,55+,Non-binary,Sydney,Various,Basic,2022-03-08,Action,MobileApp,1
+1194,35-44,Non-binary,Bangalore,India,Basic,2023-06-20,Romance,SmartTV,1
+1195,18-24,Non-binary,Paris,Various,Premium,2023-11-29,Action,WebBrowser,1
+1196,18-24,Female,Los Angeles,Various,Family,2024-05-14,Thriller,SmartTV,1
+1197,45-54,Female,Tokyo,Various,Premium,2023-06-14,Sci-Fi,MobileApp,1
+1198,45-54,Non-binary,Berlin,Various,Family,2022-11-20,Sci-Fi,WebBrowser,1
+1199,55+,Male,Delhi,India,Basic,2023-12-08,Thriller,StreamMax,0
+1200,25-34,Female,Hyderabad,India,Premium,2022-03-06,Romance,StreamMax,1
+1201,18-24,Non-binary,Los Angeles,Various,Premium,2024-05-10,Comedy,MobileApp,1
+1202,35-44,Male,Hyderabad,India,Premium,2023-06-17,Drama,StreamMax,1
+1203,45-54,Male,Sydney,Various,Family,2023-08-16,Sci-Fi,StreamMax,0
+1204,18-24,Female,Berlin,Various,Premium,2024-05-18,Romance,StreamMax,1
+1205,45-54,Male,Mumbai,India,Premium,2023-09-18,Romance,WebBrowser,1
+1206,18-24,Non-binary,Paris,Various,Free,2022-10-29,Thriller,WebBrowser,1
+1207,45-54,Male,Singapore,Various,Free,2023-04-10,Thriller,WebBrowser,1
+1208,55+,Non-binary,Berlin,Various,Free,2022-12-14,Romance,StreamMax,1
+1209,55+,Male,New York,Various,Free,2022-04-16,Sci-Fi,TabletApp,1
+1210,25-34,Non-binary,Sydney,Various,Basic,2023-10-15,Action,SmartTV,1
+1211,55+,Female,London,Various,Basic,2022-09-06,Drama,StreamMax,1
+1212,55+,Female,Chennai,India,Premium,2022-11-15,Action,TabletApp,1
+1213,45-54,Female,Bangalore,India,Premium,2022-10-26,Comedy,StreamMax,1
+1214,25-34,Male,Paris,Various,Basic,2023-06-04,Action,StreamMax,1
+1215,25-34,Non-binary,Hyderabad,India,Basic,2024-03-15,Sci-Fi,SmartTV,1
+1216,45-54,Non-binary,London,Various,Premium,2024-05-22,Action,TabletApp,0
+1217,35-44,Female,Sydney,Various,Premium,2022-06-16,Sci-Fi,WebBrowser,0
+1218,18-24,Female,Berlin,Various,Basic,2022-01-04,Romance,MobileApp,1
+1219,55+,Male,London,Various,Basic,2023-05-08,Romance,SmartTV,1
+1220,25-34,Female,Los Angeles,Various,Basic,2024-04-25,Sci-Fi,SmartTV,1
+1221,18-24,Non-binary,New York,Various,Free,2022-05-26,Comedy,WebBrowser,1
+1222,35-44,Male,Sydney,Various,Free,2022-07-23,Drama,SmartTV,1
+1223,35-44,Non-binary,Berlin,Various,Basic,2022-12-14,Action,MobileApp,1
+1224,25-34,Female,Mumbai,India,Free,2022-01-22,Romance,MobileApp,1
+1225,18-24,Female,Singapore,Various,Basic,2022-11-09,Thriller,MobileApp,1
+1226,25-34,Non-binary,New York,Various,Family,2023-12-30,Sci-Fi,StreamMax,1
+1227,25-34,Male,Berlin,Various,Basic,2023-06-30,Thriller,SmartTV,1
+1228,25-34,Male,Los Angeles,Various,Basic,2024-05-24,Action,SmartTV,1
+1229,25-34,Male,New York,Various,Premium,2022-05-10,Action,TabletApp,0
+1230,18-24,Female,Hyderabad,India,Free,2022-06-21,Action,WebBrowser,1
+1231,55+,Female,Paris,Various,Family,2023-06-16,Thriller,MobileApp,1
+1232,55+,Non-binary,New York,Various,Family,2024-01-03,Thriller,WebBrowser,1
+1233,55+,Non-binary,Los Angeles,Various,Free,2022-08-01,Drama,MobileApp,1
+1234,45-54,Male,Hyderabad,India,Premium,2023-03-12,Thriller,TabletApp,1
+1235,35-44,Female,Toronto,Various,Free,2022-05-18,Sci-Fi,SmartTV,1
+1236,25-34,Non-binary,New York,Various,Free,2023-04-22,Action,TabletApp,1
+1237,45-54,Female,London,Various,Family,2023-01-12,Thriller,SmartTV,1
+1238,25-34,Female,Mumbai,India,Basic,2022-09-29,Romance,StreamMax,1
+1239,35-44,Non-binary,Delhi,India,Free,2024-03-15,Comedy,MobileApp,1
+1240,35-44,Male,Delhi,India,Basic,2022-12-08,Drama,SmartTV,1
+1241,35-44,Male,Dubai,Various,Basic,2024-05-25,Romance,TabletApp,0
+1242,35-44,Female,Mumbai,India,Premium,2024-03-12,Thriller,WebBrowser,1
+1243,18-24,Female,Singapore,Various,Basic,2023-02-12,Drama,MobileApp,1
+1244,45-54,Male,Hyderabad,India,Family,2024-01-10,Thriller,SmartTV,1
+1245,25-34,Female,New York,Various,Family,2022-08-03,Thriller,WebBrowser,0
+1246,35-44,Male,Mumbai,India,Basic,2022-11-09,Romance,StreamMax,1
+1247,35-44,Female,Paris,Various,Basic,2023-03-06,Thriller,WebBrowser,1
+1248,55+,Female,Dubai,Various,Premium,2023-08-25,Sci-Fi,TabletApp,1
+1249,25-34,Male,Berlin,Various,Premium,2023-08-05,Romance,TabletApp,0
+1250,45-54,Female,Sydney,Various,Basic,2023-02-05,Sci-Fi,TabletApp,1
+1251,18-24,Female,London,Various,Family,2023-10-17,Comedy,StreamMax,1
+1252,55+,Male,Paris,Various,Free,2024-04-26,Romance,TabletApp,1
+1253,25-34,Male,Bangalore,India,Family,2022-10-18,Drama,MobileApp,1
+1254,18-24,Female,Tokyo,Various,Free,2023-01-13,Action,StreamMax,1
+1255,45-54,Female,Toronto,Various,Basic,2022-04-24,Drama,TabletApp,1
+1256,18-24,Female,Dubai,Various,Basic,2022-05-14,Drama,SmartTV,1
+1257,45-54,Male,Dubai,Various,Premium,2023-08-25,Drama,TabletApp,1
+1258,35-44,Male,London,Various,Free,2022-05-27,Thriller,StreamMax,1
+1259,25-34,Non-binary,Sydney,Various,Premium,2023-08-06,Thriller,WebBrowser,1
+1260,18-24,Female,Mumbai,India,Family,2022-12-22,Romance,SmartTV,1
+1261,25-34,Female,Toronto,Various,Basic,2022-07-03,Action,WebBrowser,1
+1262,25-34,Non-binary,Berlin,Various,Free,2023-02-07,Romance,StreamMax,1
+1263,25-34,Female,Toronto,Various,Premium,2023-11-14,Sci-Fi,MobileApp,0
+1264,55+,Male,Los Angeles,Various,Premium,2022-03-20,Sci-Fi,TabletApp,1
+1265,45-54,Female,New York,Various,Basic,2022-09-16,Drama,TabletApp,1
+1266,18-24,Non-binary,Mumbai,India,Family,2023-01-26,Comedy,WebBrowser,0
+1267,18-24,Male,Los Angeles,Various,Premium,2022-04-28,Romance,MobileApp,1
+1268,45-54,Female,Dubai,Various,Family,2022-03-11,Sci-Fi,TabletApp,1
+1269,45-54,Male,Dubai,Various,Family,2024-04-20,Comedy,MobileApp,1
+1270,55+,Male,Mumbai,India,Basic,2022-10-29,Sci-Fi,TabletApp,1
+1271,18-24,Non-binary,Bangalore,India,Free,2023-11-25,Comedy,MobileApp,1
+1272,25-34,Non-binary,Bangalore,India,Free,2023-11-23,Action,MobileApp,1
+1273,55+,Non-binary,Mumbai,India,Free,2023-02-04,Romance,SmartTV,1
+1274,18-24,Male,Sydney,Various,Family,2024-02-25,Drama,MobileApp,1
+1275,25-34,Male,Hyderabad,India,Free,2023-03-08,Sci-Fi,StreamMax,1
+1276,18-24,Male,Hyderabad,India,Free,2024-03-27,Romance,MobileApp,1
+1277,45-54,Non-binary,Mumbai,India,Free,2024-04-15,Comedy,SmartTV,1
+1278,55+,Male,Hyderabad,India,Family,2023-03-15,Sci-Fi,MobileApp,1
+1279,35-44,Male,New York,Various,Free,2023-02-16,Romance,SmartTV,1
+1280,45-54,Male,Hyderabad,India,Free,2023-11-05,Comedy,TabletApp,1
+1281,25-34,Female,Delhi,India,Premium,2024-02-25,Action,WebBrowser,0
+1282,55+,Non-binary,Delhi,India,Basic,2022-09-15,Sci-Fi,TabletApp,1
+1283,45-54,Non-binary,Paris,Various,Basic,2022-12-07,Drama,SmartTV,0
+1284,45-54,Male,Paris,Various,Premium,2022-01-19,Action,TabletApp,1
+1285,25-34,Non-binary,Tokyo,Various,Free,2022-08-27,Sci-Fi,TabletApp,1
+1286,35-44,Male,Delhi,India,Family,2024-02-15,Drama,TabletApp,1
+1287,35-44,Female,Bangalore,India,Premium,2022-07-26,Drama,WebBrowser,1
+1288,25-34,Non-binary,Mumbai,India,Family,2024-01-27,Comedy,MobileApp,1
+1289,18-24,Non-binary,Paris,Various,Family,2023-10-26,Comedy,StreamMax,1
+1290,35-44,Female,Dubai,Various,Basic,2022-07-30,Action,StreamMax,0
+1291,25-34,Non-binary,Paris,Various,Basic,2023-09-15,Thriller,TabletApp,1
+1292,18-24,Male,London,Various,Family,2022-03-13,Drama,StreamMax,1
+1293,25-34,Male,Bangalore,India,Free,2022-06-27,Action,TabletApp,1
+1294,25-34,Male,Berlin,Various,Free,2023-03-13,Romance,WebBrowser,1
+1295,25-34,Male,Dubai,Various,Family,2022-06-30,Action,MobileApp,1
+1296,45-54,Non-binary,Sydney,Various,Basic,2022-10-06,Thriller,StreamMax,0
+1297,45-54,Female,New York,Various,Basic,2023-04-28,Thriller,WebBrowser,1
+1298,45-54,Male,Dubai,Various,Family,2022-01-21,Thriller,WebBrowser,0
+1299,35-44,Non-binary,Singapore,Various,Basic,2023-07-21,Romance,MobileApp,1
+1300,35-44,Female,London,Various,Premium,2023-01-20,Action,TabletApp,1
+1301,25-34,Non-binary,New York,Various,Family,2022-07-20,Drama,MobileApp,1
+1302,55+,Non-binary,Toronto,Various,Premium,2023-05-19,Thriller,WebBrowser,0
+1303,35-44,Female,Dubai,Various,Family,2022-11-12,Romance,TabletApp,1
+1304,18-24,Male,Berlin,Various,Family,2023-08-03,Drama,MobileApp,1
+1305,35-44,Non-binary,Chennai,India,Family,2023-10-13,Romance,SmartTV,1
+1306,45-54,Female,Paris,Various,Basic,2022-09-06,Thriller,StreamMax,0
+1307,18-24,Non-binary,New York,Various,Basic,2022-09-25,Action,WebBrowser,0
+1308,35-44,Male,Bangalore,India,Basic,2022-01-13,Sci-Fi,StreamMax,1
+1309,45-54,Female,Berlin,Various,Free,2023-06-15,Drama,WebBrowser,1
+1310,35-44,Non-binary,Los Angeles,Various,Premium,2023-05-28,Action,WebBrowser,1
+1311,45-54,Non-binary,Dubai,Various,Free,2022-04-22,Romance,TabletApp,1
+1312,25-34,Female,New York,Various,Basic,2024-02-06,Thriller,SmartTV,1
+1313,45-54,Male,Bangalore,India,Free,2022-03-13,Romance,WebBrowser,1
+1314,35-44,Non-binary,Paris,Various,Family,2022-06-24,Drama,SmartTV,1
+1315,25-34,Female,Bangalore,India,Basic,2023-05-30,Sci-Fi,WebBrowser,1
+1316,25-34,Male,Hyderabad,India,Free,2024-02-07,Drama,MobileApp,1
+1317,45-54,Female,Berlin,Various,Free,2023-10-14,Drama,StreamMax,1
+1318,18-24,Female,Los Angeles,Various,Free,2022-12-17,Sci-Fi,TabletApp,1
+1319,18-24,Male,London,Various,Free,2022-09-30,Sci-Fi,TabletApp,1
+1320,18-24,Male,Mumbai,India,Free,2023-01-20,Action,TabletApp,0
+1321,35-44,Female,Singapore,Various,Family,2024-02-15,Comedy,TabletApp,1
+1322,35-44,Female,New York,Various,Basic,2023-01-05,Romance,WebBrowser,1
+1323,35-44,Female,Mumbai,India,Free,2022-01-04,Thriller,WebBrowser,1
+1324,25-34,Male,Berlin,Various,Free,2023-06-28,Comedy,MobileApp,1
+1325,45-54,Non-binary,Sydney,Various,Family,2023-11-08,Drama,StreamMax,0
+1326,35-44,Male,Toronto,Various,Premium,2022-02-16,Romance,SmartTV,1
+1327,55+,Female,Hyderabad,India,Family,2024-01-27,Action,StreamMax,1
+1328,45-54,Non-binary,Berlin,Various,Free,2024-01-22,Thriller,SmartTV,1
+1329,25-34,Non-binary,Dubai,Various,Free,2022-05-11,Thriller,StreamMax,1
+1330,55+,Female,Paris,Various,Basic,2023-04-02,Sci-Fi,WebBrowser,1
+1331,25-34,Male,Hyderabad,India,Basic,2024-02-11,Romance,StreamMax,1
+1332,18-24,Male,Dubai,Various,Premium,2023-01-28,Comedy,MobileApp,1
+1333,45-54,Non-binary,Paris,Various,Free,2023-11-13,Drama,TabletApp,1
+1334,18-24,Non-binary,London,Various,Premium,2022-08-18,Action,TabletApp,1
+1335,45-54,Non-binary,New York,Various,Family,2023-11-01,Romance,TabletApp,0
+1336,25-34,Male,Los Angeles,Various,Premium,2022-04-29,Comedy,StreamMax,1
+1337,55+,Male,New York,Various,Free,2023-08-10,Comedy,MobileApp,0
+1338,55+,Non-binary,Los Angeles,Various,Free,2022-11-15,Sci-Fi,TabletApp,1
+1339,45-54,Female,Toronto,Various,Premium,2024-02-29,Comedy,MobileApp,1
+1340,55+,Male,Sydney,Various,Free,2023-02-09,Sci-Fi,TabletApp,0
+1341,25-34,Female,New York,Various,Basic,2023-05-27,Romance,WebBrowser,1
+1342,25-34,Non-binary,Chennai,India,Free,2023-09-06,Comedy,SmartTV,1
+1343,18-24,Female,Dubai,Various,Family,2023-10-09,Drama,WebBrowser,1
+1344,18-24,Female,Los Angeles,Various,Basic,2024-04-27,Romance,MobileApp,1
+1345,25-34,Non-binary,Berlin,Various,Free,2024-03-05,Drama,WebBrowser,1
+1346,25-34,Male,Chennai,India,Family,2022-12-12,Thriller,WebBrowser,0
+1347,45-54,Female,Singapore,Various,Free,2023-06-25,Romance,SmartTV,1
+1348,25-34,Non-binary,Berlin,Various,Family,2022-04-10,Drama,SmartTV,1
+1349,18-24,Non-binary,Sydney,Various,Premium,2023-04-14,Romance,MobileApp,1
+1350,45-54,Female,London,Various,Basic,2022-08-03,Drama,MobileApp,1
+1351,35-44,Non-binary,Mumbai,India,Free,2023-11-26,Drama,WebBrowser,0
+1352,25-34,Male,Los Angeles,Various,Free,2022-12-31,Thriller,MobileApp,0
+1353,55+,Non-binary,Delhi,India,Premium,2023-08-31,Thriller,MobileApp,1
+1354,25-34,Male,Los Angeles,Various,Free,2022-09-04,Thriller,WebBrowser,1
+1355,25-34,Non-binary,Sydney,Various,Family,2024-03-05,Romance,StreamMax,1
+1356,45-54,Female,Toronto,Various,Family,2023-01-12,Sci-Fi,StreamMax,1
+1357,45-54,Non-binary,Delhi,India,Basic,2022-01-24,Action,TabletApp,0
+1358,35-44,Non-binary,London,Various,Free,2024-03-24,Action,MobileApp,1
+1359,45-54,Female,Paris,Various,Basic,2022-04-12,Comedy,StreamMax,1
+1360,55+,Male,Toronto,Various,Family,2024-04-12,Romance,StreamMax,1
+1361,55+,Non-binary,Toronto,Various,Family,2022-03-07,Action,TabletApp,1
+1362,18-24,Male,Toronto,Various,Free,2022-07-05,Action,MobileApp,1
+1363,35-44,Male,London,Various,Free,2022-05-12,Action,MobileApp,1
+1364,55+,Female,Delhi,India,Free,2022-03-28,Sci-Fi,TabletApp,1
+1365,25-34,Female,Tokyo,Various,Free,2022-09-12,Comedy,StreamMax,0
+1366,35-44,Non-binary,Tokyo,Various,Family,2022-05-24,Action,WebBrowser,1
+1367,35-44,Non-binary,Tokyo,Various,Basic,2023-12-06,Sci-Fi,StreamMax,1
+1368,25-34,Female,Hyderabad,India,Basic,2022-05-18,Action,TabletApp,1
+1369,35-44,Male,New York,Various,Family,2022-03-18,Action,SmartTV,1
+1370,25-34,Female,Paris,Various,Family,2022-03-27,Comedy,WebBrowser,0
+1371,55+,Male,Bangalore,India,Free,2023-10-07,Romance,SmartTV,0
+1372,25-34,Non-binary,Dubai,Various,Premium,2023-08-01,Romance,TabletApp,1
+1373,25-34,Female,Los Angeles,Various,Family,2023-01-24,Sci-Fi,TabletApp,1
+1374,18-24,Non-binary,Chennai,India,Free,2023-12-02,Action,WebBrowser,1
+1375,18-24,Female,Paris,Various,Premium,2024-03-07,Comedy,MobileApp,0
+1376,35-44,Male,Hyderabad,India,Free,2023-01-22,Drama,WebBrowser,0
+1377,18-24,Male,Singapore,Various,Premium,2023-08-26,Thriller,StreamMax,1
+1378,55+,Female,Dubai,Various,Premium,2023-09-15,Sci-Fi,StreamMax,1
+1379,45-54,Male,Singapore,Various,Premium,2024-04-05,Romance,TabletApp,1
+1380,45-54,Female,Berlin,Various,Basic,2022-09-23,Sci-Fi,TabletApp,1
+1381,25-34,Male,Paris,Various,Family,2023-08-05,Romance,SmartTV,1
+1382,35-44,Non-binary,Dubai,Various,Basic,2023-11-26,Action,WebBrowser,1
+1383,45-54,Female,Bangalore,India,Family,2023-05-30,Comedy,SmartTV,0
+1384,25-34,Female,Tokyo,Various,Free,2022-11-09,Thriller,SmartTV,1
+1385,18-24,Male,Paris,Various,Basic,2022-04-06,Drama,TabletApp,1
+1386,35-44,Non-binary,Dubai,Various,Family,2024-04-07,Sci-Fi,WebBrowser,1
+1387,25-34,Female,Berlin,Various,Family,2023-06-12,Romance,TabletApp,1
+1388,18-24,Non-binary,Los Angeles,Various,Basic,2024-05-01,Romance,StreamMax,1
+1389,55+,Non-binary,Dubai,Various,Premium,2022-09-08,Romance,TabletApp,1
+1390,55+,Female,Mumbai,India,Basic,2023-11-22,Action,MobileApp,1
+1391,25-34,Non-binary,New York,Various,Premium,2022-02-22,Thriller,WebBrowser,1
+1392,18-24,Female,New York,Various,Basic,2024-05-01,Action,StreamMax,1
+1393,35-44,Female,London,Various,Basic,2022-01-03,Romance,TabletApp,1
+1394,35-44,Non-binary,Berlin,Various,Free,2023-04-20,Action,WebBrowser,1
+1395,55+,Female,Mumbai,India,Premium,2022-11-02,Comedy,StreamMax,1
+1396,25-34,Female,Berlin,Various,Premium,2022-01-10,Sci-Fi,WebBrowser,1
+1397,55+,Non-binary,Delhi,India,Basic,2023-02-25,Sci-Fi,WebBrowser,1
+1398,35-44,Male,Singapore,Various,Family,2023-02-09,Comedy,SmartTV,1
+1399,25-34,Non-binary,Berlin,Various,Premium,2022-04-22,Thriller,WebBrowser,1
+1400,45-54,Male,New York,Various,Premium,2023-12-28,Drama,StreamMax,1
+1401,25-34,Female,Mumbai,India,Family,2024-02-01,Comedy,StreamMax,1
+1402,45-54,Non-binary,Hyderabad,India,Premium,2022-05-02,Thriller,WebBrowser,1
+1403,25-34,Female,Singapore,Various,Family,2023-05-29,Romance,WebBrowser,1
+1404,18-24,Male,Delhi,India,Basic,2022-12-19,Action,StreamMax,1
+1405,18-24,Non-binary,Hyderabad,India,Premium,2023-03-16,Action,StreamMax,1
+1406,35-44,Female,Chennai,India,Free,2024-02-19,Thriller,MobileApp,1
+1407,55+,Male,Dubai,Various,Basic,2022-10-15,Sci-Fi,SmartTV,0
+1408,45-54,Male,Hyderabad,India,Family,2023-12-25,Sci-Fi,TabletApp,1
+1409,55+,Non-binary,Hyderabad,India,Basic,2022-08-23,Sci-Fi,MobileApp,1
+1410,25-34,Male,Chennai,India,Family,2022-01-19,Action,MobileApp,1
+1411,45-54,Female,Mumbai,India,Premium,2023-12-18,Romance,MobileApp,1
+1412,45-54,Male,Los Angeles,Various,Family,2023-10-22,Sci-Fi,SmartTV,1
+1413,35-44,Female,New York,Various,Family,2022-09-10,Comedy,StreamMax,1
+1414,18-24,Non-binary,Mumbai,India,Premium,2022-08-06,Comedy,WebBrowser,1
+1415,18-24,Female,Sydney,Various,Basic,2022-09-16,Thriller,SmartTV,1
+1416,18-24,Non-binary,Delhi,India,Free,2023-12-01,Action,MobileApp,1
+1417,35-44,Non-binary,Dubai,Various,Premium,2022-09-01,Romance,SmartTV,1
+1418,18-24,Male,Los Angeles,Various,Basic,2023-10-07,Romance,TabletApp,1
+1419,25-34,Male,Sydney,Various,Family,2022-04-12,Sci-Fi,TabletApp,1
+1420,45-54,Male,Chennai,India,Basic,2022-02-14,Drama,MobileApp,1
+1421,35-44,Non-binary,Dubai,Various,Premium,2023-01-10,Thriller,StreamMax,0
+1422,45-54,Female,Delhi,India,Free,2022-06-20,Action,SmartTV,1
+1423,35-44,Male,Bangalore,India,Free,2024-03-24,Romance,MobileApp,1
+1424,45-54,Non-binary,Los Angeles,Various,Free,2022-06-19,Thriller,TabletApp,1
+1425,45-54,Female,Singapore,Various,Premium,2022-07-31,Drama,StreamMax,1
+1426,55+,Non-binary,Hyderabad,India,Free,2024-03-20,Action,WebBrowser,1
+1427,55+,Female,Dubai,Various,Premium,2024-05-22,Drama,SmartTV,1
+1428,18-24,Male,Tokyo,Various,Basic,2022-02-16,Action,MobileApp,1
+1429,25-34,Female,Paris,Various,Basic,2022-10-04,Sci-Fi,MobileApp,0
+1430,55+,Male,Hyderabad,India,Free,2023-10-27,Comedy,TabletApp,0
+1431,18-24,Non-binary,New York,Various,Premium,2024-01-10,Drama,WebBrowser,0
+1432,35-44,Male,Chennai,India,Free,2024-04-23,Comedy,MobileApp,1
+1433,25-34,Female,Chennai,India,Free,2023-07-05,Romance,TabletApp,1
+1434,45-54,Non-binary,Dubai,Various,Premium,2023-10-04,Romance,TabletApp,1
+1435,45-54,Male,Toronto,Various,Premium,2022-10-03,Drama,TabletApp,1
+1436,45-54,Male,Toronto,Various,Family,2022-08-26,Romance,WebBrowser,1
+1437,45-54,Male,Berlin,Various,Family,2022-07-05,Thriller,MobileApp,1
+1438,25-34,Non-binary,Bangalore,India,Family,2024-01-17,Drama,SmartTV,1
+1439,25-34,Female,Bangalore,India,Basic,2022-03-13,Drama,StreamMax,1
+1440,45-54,Male,London,Various,Basic,2024-01-15,Sci-Fi,TabletApp,1
+1441,18-24,Male,Los Angeles,Various,Free,2024-02-21,Romance,StreamMax,1
+1442,18-24,Female,Singapore,Various,Basic,2023-10-05,Action,StreamMax,1
+1443,18-24,Non-binary,Mumbai,India,Premium,2024-05-23,Romance,StreamMax,1
+1444,55+,Female,London,Various,Basic,2022-11-11,Comedy,WebBrowser,1
+1445,55+,Non-binary,Mumbai,India,Premium,2023-10-05,Action,StreamMax,1
+1446,18-24,Non-binary,Mumbai,India,Premium,2022-04-16,Action,WebBrowser,1
+1447,25-34,Male,Berlin,Various,Basic,2023-03-14,Thriller,MobileApp,1
+1448,25-34,Non-binary,Chennai,India,Family,2023-12-05,Romance,StreamMax,1
+1449,25-34,Male,Delhi,India,Premium,2023-01-01,Sci-Fi,TabletApp,1
+1450,18-24,Male,New York,Various,Basic,2022-07-02,Thriller,TabletApp,1
+1451,45-54,Male,Bangalore,India,Premium,2023-10-02,Comedy,SmartTV,0
+1452,45-54,Non-binary,Chennai,India,Premium,2022-09-29,Romance,StreamMax,1
+1453,25-34,Non-binary,Toronto,Various,Basic,2022-11-24,Drama,WebBrowser,1
+1454,45-54,Male,Singapore,Various,Free,2023-08-15,Thriller,SmartTV,1
+1455,25-34,Male,New York,Various,Family,2022-12-28,Comedy,WebBrowser,1
+1456,45-54,Non-binary,Dubai,Various,Premium,2022-05-22,Romance,MobileApp,1
+1457,45-54,Non-binary,Tokyo,Various,Family,2023-06-30,Action,MobileApp,1
+1458,45-54,Non-binary,Sydney,Various,Basic,2023-12-21,Sci-Fi,MobileApp,1
+1459,18-24,Female,Hyderabad,India,Family,2022-05-17,Sci-Fi,StreamMax,0
+1460,25-34,Female,New York,Various,Family,2022-05-28,Action,WebBrowser,1
+1461,25-34,Male,Toronto,Various,Basic,2022-05-01,Romance,MobileApp,1
+1462,45-54,Female,Mumbai,India,Free,2023-12-20,Sci-Fi,TabletApp,1
+1463,55+,Male,Toronto,Various,Free,2022-05-31,Comedy,MobileApp,1
+1464,18-24,Non-binary,Delhi,India,Family,2022-06-03,Drama,WebBrowser,1
+1465,55+,Non-binary,Dubai,Various,Premium,2023-04-27,Thriller,SmartTV,1
+1466,18-24,Female,Paris,Various,Free,2022-06-09,Sci-Fi,StreamMax,1
+1467,55+,Male,Bangalore,India,Free,2023-02-10,Thriller,WebBrowser,1
+1468,35-44,Non-binary,Toronto,Various,Premium,2023-12-28,Drama,WebBrowser,0
+1469,18-24,Non-binary,Chennai,India,Family,2022-05-09,Romance,MobileApp,1
+1470,25-34,Female,Mumbai,India,Basic,2024-04-22,Romance,TabletApp,1
+1471,45-54,Female,Delhi,India,Premium,2023-10-31,Romance,WebBrowser,1
+1472,18-24,Female,Bangalore,India,Family,2022-07-19,Comedy,StreamMax,1
+1473,55+,Female,New York,Various,Free,2022-09-03,Comedy,MobileApp,1
+1474,25-34,Non-binary,Delhi,India,Free,2024-02-14,Comedy,MobileApp,1
+1475,18-24,Male,Paris,Various,Premium,2022-03-29,Action,TabletApp,1
+1476,45-54,Male,Singapore,Various,Free,2022-11-19,Sci-Fi,SmartTV,1
+1477,35-44,Female,New York,Various,Basic,2022-11-19,Thriller,SmartTV,0
+1478,18-24,Female,Dubai,Various,Family,2024-01-30,Action,StreamMax,1
+1479,25-34,Male,Singapore,Various,Family,2023-05-04,Action,StreamMax,1
+1480,45-54,Male,Bangalore,India,Free,2024-01-06,Drama,MobileApp,1
+1481,25-34,Non-binary,Paris,Various,Basic,2023-05-29,Action,TabletApp,1
+1482,35-44,Female,Berlin,Various,Basic,2022-12-14,Comedy,SmartTV,1
+1483,18-24,Non-binary,Los Angeles,Various,Family,2022-09-02,Drama,TabletApp,1
+1484,55+,Non-binary,Bangalore,India,Family,2022-04-10,Sci-Fi,MobileApp,1
+1485,55+,Male,Chennai,India,Family,2022-04-07,Thriller,SmartTV,1
+1486,25-34,Male,Chennai,India,Premium,2023-08-14,Comedy,SmartTV,1
+1487,45-54,Female,Bangalore,India,Family,2022-09-20,Thriller,MobileApp,0
+1488,45-54,Male,Sydney,Various,Premium,2024-05-29,Comedy,WebBrowser,1
+1489,25-34,Female,Sydney,Various,Premium,2023-06-09,Action,SmartTV,1
+1490,45-54,Non-binary,Paris,Various,Family,2022-09-27,Romance,StreamMax,1
+1491,18-24,Non-binary,Paris,Various,Basic,2023-12-18,Action,StreamMax,1
+1492,35-44,Female,Delhi,India,Basic,2023-08-07,Thriller,StreamMax,1
+1493,45-54,Non-binary,Toronto,Various,Free,2022-12-24,Thriller,WebBrowser,1
+1494,45-54,Male,Berlin,Various,Free,2022-07-04,Romance,StreamMax,0
+1495,45-54,Female,Berlin,Various,Basic,2023-02-16,Comedy,StreamMax,1
+1496,45-54,Male,Sydney,Various,Family,2022-04-28,Comedy,WebBrowser,1
+1497,45-54,Male,Bangalore,India,Basic,2022-11-24,Action,StreamMax,0
+1498,45-54,Male,Singapore,Various,Premium,2024-03-19,Thriller,WebBrowser,1
+1499,18-24,Non-binary,Hyderabad,India,Family,2022-10-04,Comedy,MobileApp,1
+1500,35-44,Female,Delhi,India,Free,2022-11-02,Romance,WebBrowser,0
+1501,25-34,Non-binary,Tokyo,Various,Premium,2022-07-08,Sci-Fi,StreamMax,0
+1502,35-44,Female,Los Angeles,Various,Basic,2022-07-23,Comedy,WebBrowser,1
+1503,25-34,Non-binary,Tokyo,Various,Family,2022-12-30,Romance,TabletApp,1
+1504,55+,Non-binary,Mumbai,India,Basic,2022-03-21,Romance,TabletApp,1
+1505,35-44,Male,New York,Various,Basic,2023-04-15,Drama,WebBrowser,0
+1506,45-54,Female,Delhi,India,Free,2023-04-07,Drama,WebBrowser,1
+1507,18-24,Male,Sydney,Various,Basic,2024-02-03,Drama,WebBrowser,1
+1508,25-34,Non-binary,Singapore,Various,Family,2022-08-10,Comedy,MobileApp,0
+1509,55+,Male,Paris,Various,Premium,2024-04-13,Comedy,StreamMax,1
+1510,55+,Male,Chennai,India,Family,2023-10-27,Thriller,WebBrowser,1
+1511,55+,Female,New York,Various,Premium,2022-04-27,Drama,WebBrowser,1
+1512,55+,Non-binary,Bangalore,India,Basic,2023-07-10,Thriller,WebBrowser,1
+1513,45-54,Non-binary,Paris,Various,Premium,2023-12-20,Action,StreamMax,0
+1514,18-24,Male,Singapore,Various,Free,2023-09-24,Thriller,StreamMax,1
+1515,55+,Non-binary,Singapore,Various,Free,2023-10-11,Thriller,TabletApp,1
+1516,35-44,Female,Mumbai,India,Basic,2022-08-17,Thriller,TabletApp,1
+1517,45-54,Male,Hyderabad,India,Premium,2024-03-23,Thriller,WebBrowser,0
+1518,45-54,Male,Paris,Various,Premium,2024-03-11,Drama,TabletApp,1
+1519,35-44,Female,Berlin,Various,Family,2023-11-21,Drama,StreamMax,0
+1520,18-24,Male,Los Angeles,Various,Free,2022-06-07,Comedy,TabletApp,1
+1521,35-44,Female,Sydney,Various,Basic,2023-08-09,Thriller,MobileApp,1
+1522,25-34,Non-binary,Los Angeles,Various,Family,2024-04-28,Sci-Fi,TabletApp,1
+1523,45-54,Non-binary,Paris,Various,Basic,2023-02-17,Comedy,TabletApp,1
+1524,18-24,Non-binary,Hyderabad,India,Basic,2023-06-01,Sci-Fi,TabletApp,1
+1525,35-44,Non-binary,Toronto,Various,Basic,2022-11-27,Drama,StreamMax,1
+1526,18-24,Non-binary,Los Angeles,Various,Basic,2022-01-29,Action,TabletApp,0
+1527,55+,Female,Delhi,India,Free,2024-01-31,Romance,MobileApp,0
+1528,35-44,Male,Paris,Various,Basic,2023-10-31,Drama,SmartTV,1
+1529,25-34,Non-binary,Toronto,Various,Family,2024-02-28,Comedy,StreamMax,1
+1530,25-34,Non-binary,Berlin,Various,Free,2023-10-16,Action,StreamMax,1
+1531,55+,Male,Berlin,Various,Free,2022-05-26,Comedy,SmartTV,0
+1532,18-24,Female,Delhi,India,Premium,2024-05-08,Drama,WebBrowser,1
+1533,18-24,Female,Singapore,Various,Free,2023-05-14,Romance,StreamMax,1
+1534,45-54,Female,Los Angeles,Various,Family,2024-04-07,Drama,MobileApp,1
+1535,25-34,Non-binary,Berlin,Various,Free,2022-05-01,Comedy,SmartTV,1
+1536,55+,Non-binary,Sydney,Various,Free,2022-06-12,Action,SmartTV,0
+1537,55+,Male,Hyderabad,India,Free,2023-06-15,Action,MobileApp,1
+1538,18-24,Male,New York,Various,Free,2022-12-02,Drama,MobileApp,1
+1539,25-34,Female,Dubai,Various,Premium,2023-05-09,Drama,StreamMax,1
+1540,35-44,Female,Tokyo,Various,Family,2023-03-23,Action,WebBrowser,0
+1541,25-34,Male,Chennai,India,Premium,2023-02-07,Sci-Fi,TabletApp,1
+1542,35-44,Male,Sydney,Various,Basic,2024-01-10,Thriller,WebBrowser,0
+1543,55+,Non-binary,Los Angeles,Various,Premium,2024-04-15,Comedy,TabletApp,1
+1544,45-54,Male,Los Angeles,Various,Premium,2023-01-18,Romance,StreamMax,1
+1545,18-24,Non-binary,Berlin,Various,Premium,2023-08-24,Thriller,SmartTV,1
+1546,55+,Female,Berlin,Various,Family,2022-01-31,Sci-Fi,MobileApp,1
+1547,25-34,Female,Los Angeles,Various,Basic,2022-03-16,Drama,SmartTV,1
+1548,35-44,Male,Singapore,Various,Free,2022-11-23,Romance,StreamMax,1
+1549,45-54,Non-binary,Hyderabad,India,Premium,2022-08-27,Action,StreamMax,1
+1550,25-34,Non-binary,Sydney,Various,Basic,2022-04-16,Action,SmartTV,1
+1551,18-24,Non-binary,Berlin,Various,Family,2023-11-30,Thriller,SmartTV,1
+1552,25-34,Male,Hyderabad,India,Family,2023-05-26,Sci-Fi,SmartTV,1
+1553,45-54,Male,Delhi,India,Premium,2023-08-29,Thriller,MobileApp,1
+1554,18-24,Non-binary,Chennai,India,Free,2023-04-18,Comedy,MobileApp,1
+1555,18-24,Non-binary,Los Angeles,Various,Free,2022-12-12,Romance,StreamMax,1
+1556,45-54,Non-binary,Delhi,India,Premium,2022-10-09,Comedy,SmartTV,1
+1557,35-44,Female,Tokyo,Various,Free,2023-02-07,Comedy,WebBrowser,1
+1558,18-24,Female,Paris,Various,Free,2022-01-30,Drama,StreamMax,1
+1559,18-24,Female,Bangalore,India,Family,2022-08-20,Drama,StreamMax,1
+1560,35-44,Non-binary,Berlin,Various,Free,2023-12-06,Sci-Fi,SmartTV,0
+1561,18-24,Male,Mumbai,India,Premium,2022-03-18,Comedy,SmartTV,1
+1562,45-54,Female,Singapore,Various,Basic,2022-05-22,Action,WebBrowser,1
+1563,25-34,Non-binary,New York,Various,Family,2023-10-15,Thriller,StreamMax,1
+1564,55+,Female,Hyderabad,India,Family,2022-10-15,Comedy,WebBrowser,1
+1565,35-44,Non-binary,Chennai,India,Free,2022-12-28,Action,MobileApp,1
+1566,25-34,Non-binary,Dubai,Various,Free,2022-03-18,Thriller,StreamMax,1
+1567,25-34,Female,Paris,Various,Family,2022-07-12,Thriller,StreamMax,1
+1568,55+,Non-binary,Toronto,Various,Premium,2024-02-18,Comedy,WebBrowser,1
+1569,55+,Male,Toronto,Various,Basic,2022-08-13,Comedy,WebBrowser,0
+1570,55+,Non-binary,Toronto,Various,Basic,2024-03-09,Thriller,MobileApp,1
+1571,25-34,Non-binary,Los Angeles,Various,Premium,2023-08-15,Romance,StreamMax,1
+1572,18-24,Non-binary,Berlin,Various,Free,2022-09-04,Sci-Fi,WebBrowser,1
+1573,45-54,Non-binary,Mumbai,India,Family,2022-12-27,Comedy,StreamMax,0
+1574,35-44,Female,Delhi,India,Basic,2022-06-04,Thriller,TabletApp,1
+1575,18-24,Female,New York,Various,Premium,2023-01-14,Sci-Fi,StreamMax,1
+1576,45-54,Male,Dubai,Various,Premium,2022-07-13,Thriller,MobileApp,1
+1577,55+,Female,Tokyo,Various,Family,2022-04-22,Romance,StreamMax,1
+1578,25-34,Male,Delhi,India,Free,2022-02-06,Action,SmartTV,1
+1579,18-24,Female,Tokyo,Various,Basic,2023-09-28,Romance,WebBrowser,1
+1580,25-34,Non-binary,Delhi,India,Premium,2023-05-23,Drama,MobileApp,1
+1581,35-44,Non-binary,New York,Various,Premium,2024-01-22,Sci-Fi,StreamMax,1
+1582,55+,Female,Berlin,Various,Premium,2024-05-23,Romance,MobileApp,1
+1583,18-24,Male,Paris,Various,Basic,2022-12-07,Thriller,MobileApp,0
+1584,45-54,Female,Paris,Various,Premium,2022-01-22,Drama,SmartTV,0
+1585,18-24,Non-binary,Bangalore,India,Premium,2023-05-01,Action,StreamMax,1
+1586,45-54,Male,Hyderabad,India,Free,2024-04-18,Sci-Fi,TabletApp,1
+1587,25-34,Non-binary,Chennai,India,Basic,2024-02-13,Drama,StreamMax,1
+1588,35-44,Female,Singapore,Various,Family,2024-01-23,Comedy,TabletApp,1
+1589,35-44,Female,London,Various,Family,2022-01-14,Comedy,SmartTV,1
+1590,55+,Non-binary,Berlin,Various,Family,2022-04-26,Comedy,TabletApp,1
+1591,25-34,Female,Mumbai,India,Basic,2023-11-07,Drama,SmartTV,1
+1592,55+,Non-binary,Hyderabad,India,Family,2023-01-04,Drama,StreamMax,1
+1593,18-24,Female,Los Angeles,Various,Family,2023-06-24,Drama,SmartTV,0
+1594,35-44,Female,New York,Various,Family,2022-10-10,Comedy,MobileApp,1
+1595,35-44,Non-binary,Tokyo,Various,Free,2023-03-20,Thriller,TabletApp,0
+1596,35-44,Female,Singapore,Various,Free,2022-01-09,Thriller,MobileApp,1
+1597,55+,Female,Bangalore,India,Basic,2022-11-07,Thriller,SmartTV,1
+1598,18-24,Female,Chennai,India,Free,2022-08-11,Comedy,TabletApp,1
+1599,35-44,Male,London,Various,Family,2022-12-27,Romance,StreamMax,1
+1600,35-44,Female,Bangalore,India,Basic,2022-03-30,Romance,SmartTV,1
+1601,25-34,Female,Dubai,Various,Free,2022-10-25,Drama,StreamMax,1
+1602,25-34,Non-binary,New York,Various,Family,2023-03-09,Thriller,StreamMax,0
+1603,35-44,Non-binary,Berlin,Various,Premium,2022-06-27,Action,WebBrowser,1
+1604,55+,Male,New York,Various,Basic,2022-09-14,Drama,WebBrowser,1
+1605,35-44,Male,Chennai,India,Premium,2023-08-04,Romance,WebBrowser,1
+1606,45-54,Male,Los Angeles,Various,Basic,2023-06-24,Thriller,SmartTV,1
+1607,35-44,Female,Paris,Various,Premium,2023-03-14,Thriller,WebBrowser,0
+1608,18-24,Non-binary,London,Various,Free,2024-02-25,Thriller,StreamMax,1
+1609,35-44,Male,Sydney,Various,Premium,2022-05-11,Action,TabletApp,0
+1610,35-44,Male,Berlin,Various,Family,2022-05-09,Thriller,StreamMax,1
+1611,55+,Female,Singapore,Various,Free,2022-03-28,Sci-Fi,SmartTV,1
+1612,18-24,Female,Paris,Various,Free,2024-04-21,Comedy,TabletApp,1
+1613,18-24,Male,New York,Various,Free,2023-12-20,Drama,TabletApp,1
+1614,45-54,Male,Dubai,Various,Basic,2023-11-23,Romance,MobileApp,1
+1615,18-24,Female,Chennai,India,Basic,2022-04-28,Sci-Fi,StreamMax,1
+1616,18-24,Non-binary,Berlin,Various,Free,2022-09-11,Drama,StreamMax,1
+1617,55+,Female,Toronto,Various,Family,2022-02-26,Sci-Fi,SmartTV,1
+1618,25-34,Non-binary,Bangalore,India,Premium,2024-04-21,Action,WebBrowser,0
+1619,18-24,Female,Sydney,Various,Basic,2023-10-14,Sci-Fi,MobileApp,1
+1620,25-34,Male,Dubai,Various,Basic,2023-05-03,Thriller,SmartTV,1
+1621,55+,Female,Delhi,India,Premium,2023-11-15,Comedy,WebBrowser,1
+1622,18-24,Female,Singapore,Various,Family,2024-04-13,Thriller,MobileApp,1
+1623,18-24,Non-binary,London,Various,Family,2022-01-12,Action,SmartTV,1
+1624,55+,Female,Paris,Various,Free,2022-12-30,Drama,WebBrowser,0
+1625,35-44,Male,London,Various,Basic,2023-01-02,Action,TabletApp,1
+1626,55+,Female,Berlin,Various,Free,2022-06-28,Romance,MobileApp,1
+1627,55+,Female,Dubai,Various,Family,2024-01-03,Drama,SmartTV,1
+1628,35-44,Female,Paris,Various,Free,2024-05-09,Romance,WebBrowser,1
+1629,55+,Non-binary,London,Various,Basic,2023-08-13,Romance,TabletApp,1
+1630,35-44,Male,Tokyo,Various,Premium,2023-08-26,Action,SmartTV,1
+1631,45-54,Male,Toronto,Various,Free,2022-01-31,Romance,MobileApp,1
+1632,18-24,Female,Paris,Various,Family,2022-11-28,Drama,MobileApp,1
+1633,25-34,Non-binary,Berlin,Various,Family,2024-02-13,Thriller,StreamMax,1
+1634,18-24,Male,Chennai,India,Free,2023-03-29,Comedy,TabletApp,1
+1635,25-34,Female,Mumbai,India,Free,2023-12-17,Thriller,WebBrowser,1
+1636,55+,Non-binary,Paris,Various,Basic,2022-07-20,Comedy,WebBrowser,1
+1637,25-34,Male,Chennai,India,Basic,2023-03-21,Action,MobileApp,1
+1638,18-24,Male,Mumbai,India,Free,2024-04-09,Drama,StreamMax,1
+1639,55+,Non-binary,Los Angeles,Various,Free,2022-12-15,Drama,TabletApp,1
+1640,25-34,Non-binary,Toronto,Various,Family,2023-05-28,Comedy,SmartTV,1
+1641,25-34,Male,Tokyo,Various,Family,2023-03-14,Romance,WebBrowser,0
+1642,18-24,Male,Sydney,Various,Premium,2022-04-14,Sci-Fi,WebBrowser,1
+1643,55+,Female,Sydney,Various,Free,2022-08-18,Comedy,SmartTV,1
+1644,18-24,Male,New York,Various,Premium,2022-03-18,Action,TabletApp,1
+1645,55+,Non-binary,Tokyo,Various,Premium,2023-02-13,Action,StreamMax,1
+1646,18-24,Non-binary,Berlin,Various,Family,2022-09-27,Romance,StreamMax,1
+1647,35-44,Male,Los Angeles,Various,Premium,2024-02-23,Sci-Fi,MobileApp,1
+1648,35-44,Non-binary,Toronto,Various,Free,2022-08-30,Thriller,StreamMax,1
+1649,55+,Non-binary,Sydney,Various,Free,2022-12-21,Sci-Fi,WebBrowser,1
+1650,18-24,Non-binary,Sydney,Various,Family,2022-05-13,Comedy,StreamMax,1
+1651,55+,Male,London,Various,Premium,2023-03-18,Thriller,SmartTV,1
+1652,25-34,Male,Berlin,Various,Free,2022-01-27,Drama,TabletApp,1
+1653,18-24,Non-binary,Los Angeles,Various,Family,2022-02-23,Thriller,WebBrowser,1
+1654,45-54,Non-binary,Los Angeles,Various,Basic,2022-04-29,Thriller,StreamMax,0
+1655,35-44,Female,Berlin,Various,Basic,2022-12-18,Thriller,StreamMax,1
+1656,55+,Male,Delhi,India,Basic,2023-02-27,Romance,TabletApp,1
+1657,18-24,Non-binary,Singapore,Various,Basic,2024-04-12,Sci-Fi,StreamMax,1
+1658,25-34,Female,London,Various,Free,2022-11-18,Comedy,TabletApp,1
+1659,35-44,Male,Hyderabad,India,Family,2023-05-06,Romance,StreamMax,1
+1660,35-44,Non-binary,Delhi,India,Basic,2023-05-22,Romance,SmartTV,0
+1661,25-34,Female,Toronto,Various,Premium,2023-01-11,Action,SmartTV,0
+1662,55+,Female,Hyderabad,India,Premium,2023-12-16,Action,TabletApp,1
+1663,45-54,Non-binary,New York,Various,Family,2022-10-14,Sci-Fi,MobileApp,0
+1664,55+,Male,Toronto,Various,Premium,2024-01-30,Action,MobileApp,1
+1665,25-34,Male,Dubai,Various,Basic,2023-12-17,Thriller,WebBrowser,0
+1666,45-54,Male,Mumbai,India,Premium,2022-10-12,Action,WebBrowser,1
+1667,18-24,Female,Delhi,India,Family,2023-05-23,Sci-Fi,WebBrowser,1
+1668,25-34,Male,Mumbai,India,Family,2022-07-08,Romance,WebBrowser,1
+1669,35-44,Male,Paris,Various,Premium,2022-01-27,Action,SmartTV,0
+1670,35-44,Non-binary,Berlin,Various,Basic,2024-02-15,Sci-Fi,SmartTV,1
+1671,45-54,Female,Sydney,Various,Free,2024-04-06,Sci-Fi,TabletApp,1
+1672,35-44,Non-binary,Dubai,Various,Family,2023-03-11,Action,TabletApp,1
+1673,25-34,Female,Chennai,India,Family,2024-02-03,Drama,MobileApp,0
+1674,35-44,Male,Chennai,India,Basic,2024-02-29,Action,SmartTV,1
+1675,18-24,Non-binary,Los Angeles,Various,Premium,2023-01-06,Comedy,SmartTV,1
+1676,55+,Male,Singapore,Various,Free,2022-11-11,Action,SmartTV,1
+1677,25-34,Female,Toronto,Various,Family,2022-01-18,Thriller,StreamMax,1
+1678,45-54,Non-binary,New York,Various,Basic,2023-02-23,Sci-Fi,TabletApp,0
+1679,55+,Non-binary,Chennai,India,Premium,2022-03-07,Thriller,MobileApp,1
+1680,35-44,Female,Singapore,Various,Family,2022-05-11,Drama,MobileApp,1
+1681,18-24,Male,Sydney,Various,Free,2023-11-02,Sci-Fi,MobileApp,1
+1682,45-54,Non-binary,Toronto,Various,Premium,2022-02-12,Action,MobileApp,1
+1683,35-44,Female,Dubai,Various,Free,2023-11-26,Comedy,TabletApp,1
+1684,25-34,Female,Sydney,Various,Free,2022-03-21,Action,WebBrowser,1
+1685,25-34,Male,Delhi,India,Premium,2023-08-08,Comedy,WebBrowser,1
+1686,35-44,Male,Los Angeles,Various,Free,2022-12-01,Action,SmartTV,1
+1687,35-44,Female,Los Angeles,Various,Premium,2023-09-29,Sci-Fi,MobileApp,1
+1688,25-34,Non-binary,Chennai,India,Free,2022-04-19,Action,MobileApp,1
+1689,55+,Non-binary,Tokyo,Various,Premium,2022-08-09,Thriller,TabletApp,1
+1690,25-34,Female,Dubai,Various,Free,2022-03-21,Drama,TabletApp,1
+1691,55+,Non-binary,Sydney,Various,Family,2023-07-06,Romance,StreamMax,1
+1692,18-24,Non-binary,Tokyo,Various,Family,2023-11-07,Action,TabletApp,1
+1693,25-34,Non-binary,Chennai,India,Premium,2022-09-07,Comedy,MobileApp,1
+1694,25-34,Female,New York,Various,Premium,2024-02-06,Sci-Fi,MobileApp,1
+1695,45-54,Female,Berlin,Various,Free,2022-12-27,Action,TabletApp,1
+1696,45-54,Non-binary,New York,Various,Basic,2023-04-05,Thriller,MobileApp,1
+1697,25-34,Non-binary,Toronto,Various,Basic,2024-03-06,Thriller,TabletApp,1
+1698,35-44,Female,Sydney,Various,Premium,2022-11-18,Sci-Fi,StreamMax,1
+1699,25-34,Non-binary,Tokyo,Various,Family,2023-10-10,Drama,MobileApp,0
+1700,25-34,Male,Mumbai,India,Family,2022-09-27,Action,WebBrowser,1
+1701,18-24,Female,Bangalore,India,Free,2023-12-08,Drama,StreamMax,1
+1702,55+,Female,Toronto,Various,Family,2022-12-29,Drama,WebBrowser,1
+1703,35-44,Male,Hyderabad,India,Premium,2024-04-24,Comedy,TabletApp,1
+1704,18-24,Male,Delhi,India,Premium,2023-04-05,Thriller,WebBrowser,1
+1705,35-44,Female,Los Angeles,Various,Basic,2024-01-22,Drama,TabletApp,0
+1706,55+,Male,Berlin,Various,Basic,2022-01-08,Action,TabletApp,1
+1707,45-54,Female,Paris,Various,Premium,2023-03-26,Drama,TabletApp,1
+1708,18-24,Male,Chennai,India,Premium,2023-05-21,Comedy,StreamMax,1
+1709,55+,Non-binary,Berlin,Various,Family,2022-10-20,Comedy,WebBrowser,1
+1710,25-34,Male,Bangalore,India,Basic,2023-03-17,Action,SmartTV,1
+1711,35-44,Male,Sydney,Various,Premium,2022-10-19,Drama,StreamMax,1
+1712,45-54,Male,London,Various,Basic,2022-10-23,Comedy,TabletApp,1
+1713,25-34,Non-binary,Berlin,Various,Premium,2022-05-25,Sci-Fi,MobileApp,1
+1714,25-34,Male,Tokyo,Various,Free,2023-07-07,Action,MobileApp,1
+1715,18-24,Female,Toronto,Various,Basic,2022-10-16,Action,WebBrowser,1
+1716,25-34,Female,Tokyo,Various,Premium,2022-04-23,Romance,StreamMax,1
+1717,45-54,Female,Los Angeles,Various,Free,2022-05-21,Comedy,StreamMax,0
+1718,18-24,Non-binary,Singapore,Various,Basic,2024-01-15,Sci-Fi,SmartTV,1
+1719,35-44,Female,New York,Various,Free,2023-12-25,Romance,SmartTV,0
+1720,45-54,Male,Mumbai,India,Premium,2022-07-14,Action,StreamMax,0
+1721,18-24,Male,Paris,Various,Basic,2023-08-24,Thriller,MobileApp,1
+1722,45-54,Male,Chennai,India,Family,2024-04-13,Drama,WebBrowser,1
+1723,18-24,Non-binary,Hyderabad,India,Basic,2022-01-04,Thriller,StreamMax,1
+1724,25-34,Non-binary,Sydney,Various,Basic,2022-02-09,Thriller,SmartTV,1
+1725,55+,Male,Paris,Various,Premium,2023-05-11,Action,MobileApp,0
+1726,25-34,Female,Toronto,Various,Family,2023-05-17,Romance,WebBrowser,1
+1727,45-54,Female,Tokyo,Various,Free,2022-08-13,Sci-Fi,SmartTV,1
+1728,35-44,Male,London,Various,Family,2022-04-29,Drama,WebBrowser,0
+1729,18-24,Female,Paris,Various,Family,2023-12-23,Drama,WebBrowser,1
+1730,45-54,Non-binary,Toronto,Various,Family,2023-12-05,Drama,StreamMax,1
+1731,25-34,Female,Tokyo,Various,Free,2023-07-30,Comedy,SmartTV,1
+1732,45-54,Female,Los Angeles,Various,Family,2023-02-13,Comedy,StreamMax,1
+1733,25-34,Female,Dubai,Various,Free,2022-11-12,Thriller,WebBrowser,1
+1734,25-34,Non-binary,Berlin,Various,Basic,2024-03-09,Romance,StreamMax,0
+1735,55+,Female,Sydney,Various,Basic,2023-09-12,Action,StreamMax,0
+1736,45-54,Male,Mumbai,India,Premium,2022-12-28,Action,StreamMax,1
+1737,25-34,Female,Tokyo,Various,Basic,2022-06-10,Action,WebBrowser,0
+1738,35-44,Male,Hyderabad,India,Premium,2022-12-06,Thriller,MobileApp,1
+1739,18-24,Male,Hyderabad,India,Free,2024-02-13,Action,StreamMax,1
+1740,45-54,Male,Singapore,Various,Basic,2022-10-17,Comedy,StreamMax,1
+1741,25-34,Male,Singapore,Various,Premium,2024-02-07,Sci-Fi,WebBrowser,1
+1742,35-44,Male,Bangalore,India,Free,2022-03-17,Action,WebBrowser,1
+1743,55+,Non-binary,Dubai,Various,Basic,2022-04-08,Romance,TabletApp,1
+1744,55+,Female,Hyderabad,India,Premium,2023-03-12,Action,StreamMax,1
+1745,25-34,Male,London,Various,Premium,2023-11-03,Action,WebBrowser,1
+1746,18-24,Male,Los Angeles,Various,Family,2023-07-29,Comedy,WebBrowser,1
+1747,55+,Non-binary,Dubai,Various,Basic,2023-01-27,Sci-Fi,WebBrowser,1
+1748,55+,Non-binary,New York,Various,Free,2023-04-09,Drama,TabletApp,0
+1749,25-34,Female,Los Angeles,Various,Premium,2023-05-04,Action,StreamMax,1
+1750,25-34,Non-binary,New York,Various,Free,2022-04-08,Action,MobileApp,1
+1751,55+,Male,London,Various,Free,2022-05-25,Thriller,TabletApp,1
+1752,55+,Male,Tokyo,Various,Free,2024-02-25,Thriller,SmartTV,1
+1753,35-44,Male,Dubai,Various,Free,2022-11-26,Romance,TabletApp,1
+1754,18-24,Female,Toronto,Various,Basic,2024-02-13,Action,WebBrowser,1
+1755,25-34,Female,New York,Various,Family,2023-12-27,Thriller,TabletApp,1
+1756,18-24,Male,Dubai,Various,Family,2023-12-18,Sci-Fi,WebBrowser,1
+1757,25-34,Non-binary,Mumbai,India,Free,2022-06-20,Drama,WebBrowser,0
+1758,18-24,Female,Delhi,India,Family,2022-06-24,Romance,TabletApp,1
+1759,55+,Female,Dubai,Various,Family,2022-01-10,Comedy,StreamMax,1
+1760,35-44,Non-binary,Chennai,India,Premium,2023-09-22,Comedy,TabletApp,1
+1761,35-44,Non-binary,Bangalore,India,Basic,2024-04-02,Action,SmartTV,1
+1762,45-54,Female,Chennai,India,Basic,2022-12-05,Romance,MobileApp,1
+1763,45-54,Male,Dubai,Various,Premium,2023-03-03,Drama,MobileApp,1
+1764,35-44,Non-binary,Mumbai,India,Basic,2022-07-24,Romance,StreamMax,1
+1765,18-24,Male,New York,Various,Family,2023-09-01,Drama,StreamMax,1
+1766,25-34,Female,Tokyo,Various,Free,2022-07-17,Comedy,SmartTV,1
+1767,45-54,Non-binary,Toronto,Various,Premium,2023-01-12,Action,WebBrowser,0
+1768,55+,Non-binary,Tokyo,Various,Basic,2022-03-21,Action,MobileApp,1
+1769,35-44,Male,Hyderabad,India,Premium,2023-08-01,Sci-Fi,MobileApp,1
+1770,45-54,Female,Sydney,Various,Premium,2024-04-06,Romance,TabletApp,1
+1771,25-34,Male,London,Various,Free,2024-03-13,Drama,MobileApp,1
+1772,55+,Male,Singapore,Various,Basic,2022-06-18,Thriller,StreamMax,1
+1773,18-24,Male,Berlin,Various,Family,2023-03-12,Romance,WebBrowser,1
+1774,18-24,Male,Tokyo,Various,Family,2023-01-22,Thriller,WebBrowser,1
+1775,55+,Female,Toronto,Various,Free,2023-09-12,Drama,MobileApp,0
+1776,35-44,Non-binary,Toronto,Various,Basic,2024-05-10,Thriller,TabletApp,1
+1777,35-44,Non-binary,Dubai,Various,Free,2023-07-26,Thriller,SmartTV,1
+1778,35-44,Female,Toronto,Various,Premium,2024-01-16,Thriller,MobileApp,1
+1779,25-34,Female,Berlin,Various,Premium,2022-07-03,Romance,StreamMax,1
+1780,55+,Male,New York,Various,Free,2023-08-24,Comedy,SmartTV,1
+1781,35-44,Non-binary,New York,Various,Free,2023-09-14,Comedy,StreamMax,1
+1782,45-54,Female,Paris,Various,Free,2023-12-14,Romance,SmartTV,1
+1783,55+,Male,Mumbai,India,Family,2023-09-15,Romance,WebBrowser,1
+1784,55+,Male,London,Various,Free,2023-01-14,Sci-Fi,TabletApp,0
+1785,25-34,Male,Bangalore,India,Free,2023-03-06,Sci-Fi,StreamMax,1
+1786,18-24,Female,Dubai,Various,Free,2024-05-28,Action,SmartTV,0
+1787,55+,Non-binary,Hyderabad,India,Free,2022-12-07,Romance,SmartTV,0
+1788,55+,Non-binary,Bangalore,India,Premium,2023-06-13,Sci-Fi,WebBrowser,1
+1789,18-24,Male,Paris,Various,Basic,2024-04-24,Action,MobileApp,1
+1790,25-34,Female,Delhi,India,Free,2022-10-10,Action,MobileApp,1
+1791,25-34,Non-binary,Los Angeles,Various,Free,2022-11-15,Comedy,TabletApp,1
+1792,45-54,Non-binary,New York,Various,Free,2023-08-03,Thriller,StreamMax,1
+1793,25-34,Non-binary,Delhi,India,Free,2022-07-10,Comedy,TabletApp,1
+1794,25-34,Male,Mumbai,India,Basic,2023-10-16,Comedy,WebBrowser,1
+1795,25-34,Female,Dubai,Various,Basic,2024-02-05,Romance,MobileApp,1
+1796,35-44,Male,Los Angeles,Various,Premium,2022-05-24,Action,SmartTV,1
+1797,25-34,Female,Toronto,Various,Basic,2022-07-01,Comedy,SmartTV,1
+1798,18-24,Female,Chennai,India,Premium,2023-08-16,Comedy,SmartTV,1
+1799,45-54,Non-binary,Tokyo,Various,Basic,2022-02-07,Action,WebBrowser,1
+1800,25-34,Non-binary,Sydney,Various,Family,2022-12-22,Romance,SmartTV,1
+1801,55+,Non-binary,Dubai,Various,Premium,2022-04-03,Action,MobileApp,1
+1802,35-44,Male,London,Various,Free,2023-06-14,Romance,MobileApp,1
+1803,55+,Female,London,Various,Premium,2023-08-01,Thriller,TabletApp,0
+1804,18-24,Non-binary,New York,Various,Premium,2022-01-09,Drama,WebBrowser,1
+1805,18-24,Male,New York,Various,Premium,2022-11-10,Drama,WebBrowser,1
+1806,18-24,Female,Singapore,Various,Family,2023-08-31,Action,WebBrowser,1
+1807,25-34,Female,London,Various,Premium,2023-09-08,Comedy,WebBrowser,1
+1808,18-24,Male,Chennai,India,Free,2023-03-08,Thriller,SmartTV,0
+1809,55+,Male,Los Angeles,Various,Basic,2023-06-09,Drama,SmartTV,0
+1810,55+,Male,Dubai,Various,Basic,2022-05-14,Romance,SmartTV,1
+1811,18-24,Female,Mumbai,India,Basic,2024-03-31,Comedy,WebBrowser,1
+1812,18-24,Non-binary,London,Various,Basic,2022-07-25,Drama,SmartTV,1
+1813,25-34,Male,Bangalore,India,Family,2022-04-03,Romance,MobileApp,1
+1814,35-44,Male,Tokyo,Various,Family,2022-06-13,Comedy,StreamMax,1
+1815,45-54,Non-binary,Paris,Various,Basic,2023-04-29,Romance,WebBrowser,1
+1816,25-34,Male,Dubai,Various,Family,2022-05-12,Comedy,MobileApp,1
+1817,35-44,Non-binary,New York,Various,Family,2023-09-04,Thriller,TabletApp,1
+1818,55+,Male,London,Various,Basic,2023-09-16,Drama,MobileApp,1
+1819,55+,Male,New York,Various,Family,2022-03-21,Romance,MobileApp,1
+1820,18-24,Male,Hyderabad,India,Premium,2023-03-22,Sci-Fi,SmartTV,1
+1821,45-54,Male,Bangalore,India,Premium,2022-11-15,Thriller,WebBrowser,1
+1822,25-34,Male,Los Angeles,Various,Family,2023-11-30,Action,StreamMax,1
+1823,35-44,Non-binary,Delhi,India,Free,2023-11-03,Thriller,StreamMax,1
+1824,55+,Non-binary,Bangalore,India,Family,2023-12-04,Thriller,StreamMax,1
+1825,45-54,Female,Paris,Various,Free,2022-11-07,Thriller,SmartTV,1
+1826,55+,Female,Delhi,India,Premium,2024-03-10,Thriller,SmartTV,1
+1827,18-24,Male,New York,Various,Family,2023-06-29,Thriller,StreamMax,1
+1828,55+,Female,New York,Various,Basic,2023-06-12,Action,WebBrowser,1
+1829,35-44,Male,London,Various,Free,2023-05-17,Thriller,SmartTV,1
+1830,35-44,Female,Sydney,Various,Family,2022-12-12,Romance,SmartTV,1
+1831,55+,Female,Mumbai,India,Basic,2022-10-28,Comedy,WebBrowser,1
+1832,35-44,Non-binary,New York,Various,Free,2023-09-03,Sci-Fi,SmartTV,1
+1833,45-54,Male,Tokyo,Various,Basic,2022-03-28,Action,StreamMax,1
+1834,45-54,Female,Bangalore,India,Premium,2022-12-20,Thriller,TabletApp,1
+1835,55+,Non-binary,Toronto,Various,Family,2022-02-11,Sci-Fi,SmartTV,1
+1836,55+,Non-binary,Bangalore,India,Free,2023-01-27,Action,StreamMax,1
+1837,35-44,Female,Paris,Various,Family,2022-01-23,Drama,SmartTV,1
+1838,18-24,Female,Dubai,Various,Free,2024-03-23,Drama,TabletApp,1
+1839,55+,Non-binary,Chennai,India,Basic,2023-12-12,Sci-Fi,SmartTV,1
+1840,45-54,Female,Hyderabad,India,Basic,2022-10-11,Action,StreamMax,1
+1841,25-34,Non-binary,Berlin,Various,Premium,2022-10-07,Sci-Fi,WebBrowser,1
+1842,45-54,Non-binary,Singapore,Various,Basic,2022-10-09,Comedy,WebBrowser,1
+1843,35-44,Male,Paris,Various,Basic,2022-08-19,Sci-Fi,SmartTV,1
+1844,35-44,Non-binary,Sydney,Various,Family,2023-08-26,Thriller,TabletApp,1
+1845,45-54,Non-binary,Los Angeles,Various,Free,2022-12-18,Comedy,SmartTV,1
+1846,25-34,Female,London,Various,Family,2022-08-04,Action,MobileApp,1
+1847,45-54,Male,Chennai,India,Free,2023-10-09,Thriller,TabletApp,0
+1848,25-34,Non-binary,Delhi,India,Premium,2022-11-08,Comedy,SmartTV,1
+1849,18-24,Male,London,Various,Basic,2023-10-02,Comedy,TabletApp,1
+1850,18-24,Female,Singapore,Various,Family,2022-08-29,Thriller,TabletApp,1
+1851,18-24,Male,Sydney,Various,Family,2022-08-12,Drama,StreamMax,1
+1852,25-34,Non-binary,Bangalore,India,Family,2023-07-18,Thriller,SmartTV,1
+1853,55+,Female,Los Angeles,Various,Premium,2024-02-28,Comedy,StreamMax,1
+1854,35-44,Non-binary,Paris,Various,Family,2022-08-19,Thriller,WebBrowser,1
+1855,45-54,Male,Chennai,India,Basic,2023-02-14,Comedy,StreamMax,1
+1856,45-54,Non-binary,New York,Various,Basic,2023-12-01,Sci-Fi,WebBrowser,1
+1857,45-54,Female,Los Angeles,Various,Basic,2023-10-14,Sci-Fi,TabletApp,1
+1858,55+,Non-binary,Sydney,Various,Free,2023-09-06,Action,WebBrowser,0
+1859,55+,Male,New York,Various,Basic,2023-08-06,Romance,WebBrowser,1
+1860,18-24,Non-binary,New York,Various,Family,2023-07-20,Action,MobileApp,0
+1861,45-54,Female,Bangalore,India,Basic,2022-06-29,Thriller,MobileApp,1
+1862,18-24,Male,Chennai,India,Basic,2023-08-15,Thriller,WebBrowser,1
+1863,45-54,Male,Sydney,Various,Basic,2023-04-18,Action,StreamMax,1
+1864,35-44,Male,Toronto,Various,Basic,2023-04-19,Romance,StreamMax,1
+1865,45-54,Non-binary,Mumbai,India,Family,2024-06-01,Thriller,StreamMax,1
+1866,55+,Male,Chennai,India,Free,2023-03-26,Thriller,StreamMax,1
+1867,18-24,Female,Los Angeles,Various,Family,2024-01-04,Action,WebBrowser,1
+1868,18-24,Male,Delhi,India,Premium,2024-02-16,Action,StreamMax,1
+1869,45-54,Non-binary,New York,Various,Premium,2022-05-26,Drama,WebBrowser,1
+1870,35-44,Non-binary,Delhi,India,Free,2023-04-15,Romance,WebBrowser,1
+1871,35-44,Female,Singapore,Various,Premium,2023-12-07,Thriller,SmartTV,1
+1872,35-44,Non-binary,Dubai,Various,Premium,2023-09-01,Sci-Fi,MobileApp,1
+1873,18-24,Male,Chennai,India,Premium,2023-08-01,Comedy,SmartTV,1
+1874,25-34,Non-binary,Dubai,Various,Premium,2023-05-02,Romance,WebBrowser,1
+1875,25-34,Male,Bangalore,India,Premium,2024-05-29,Thriller,SmartTV,1
+1876,25-34,Non-binary,Mumbai,India,Premium,2022-06-01,Action,StreamMax,1
+1877,55+,Non-binary,Dubai,Various,Family,2023-05-04,Action,MobileApp,0
+1878,25-34,Non-binary,Paris,Various,Premium,2023-06-20,Comedy,WebBrowser,0
+1879,25-34,Non-binary,London,Various,Family,2022-06-29,Thriller,WebBrowser,1
+1880,35-44,Male,Delhi,India,Premium,2022-07-31,Drama,MobileApp,1
+1881,18-24,Non-binary,Singapore,Various,Basic,2023-01-01,Thriller,WebBrowser,1
+1882,18-24,Non-binary,Paris,Various,Basic,2024-01-30,Drama,SmartTV,1
+1883,18-24,Female,Los Angeles,Various,Free,2022-10-05,Action,TabletApp,1
+1884,18-24,Male,Tokyo,Various,Family,2023-08-04,Action,MobileApp,1
+1885,25-34,Non-binary,Singapore,Various,Basic,2022-08-22,Romance,WebBrowser,1
+1886,35-44,Non-binary,Sydney,Various,Premium,2022-04-04,Romance,MobileApp,1
+1887,18-24,Male,Berlin,Various,Premium,2022-03-04,Drama,MobileApp,1
+1888,55+,Female,Singapore,Various,Family,2022-04-11,Action,StreamMax,1
+1889,18-24,Male,Paris,Various,Family,2022-04-30,Thriller,StreamMax,1
+1890,55+,Non-binary,Delhi,India,Basic,2023-09-05,Thriller,SmartTV,1
+1891,45-54,Male,Sydney,Various,Family,2024-03-07,Romance,MobileApp,1
+1892,55+,Female,Paris,Various,Free,2022-09-15,Thriller,TabletApp,1
+1893,25-34,Female,Paris,Various,Family,2023-06-11,Comedy,SmartTV,1
+1894,25-34,Female,Tokyo,Various,Premium,2023-11-26,Action,TabletApp,1
+1895,18-24,Male,London,Various,Family,2022-01-07,Comedy,TabletApp,1
+1896,25-34,Male,Bangalore,India,Family,2023-11-21,Comedy,StreamMax,0
+1897,35-44,Non-binary,London,Various,Basic,2022-07-18,Sci-Fi,MobileApp,1
+1898,35-44,Female,Tokyo,Various,Family,2022-04-16,Romance,SmartTV,0
+1899,55+,Non-binary,Hyderabad,India,Basic,2022-11-28,Drama,MobileApp,1
+1900,25-34,Male,Singapore,Various,Basic,2022-11-30,Action,WebBrowser,1
+1901,45-54,Non-binary,Singapore,Various,Premium,2022-08-23,Comedy,WebBrowser,0
+1902,35-44,Female,Toronto,Various,Basic,2022-11-10,Comedy,SmartTV,1
+1903,45-54,Female,New York,Various,Family,2023-07-31,Thriller,WebBrowser,1
+1904,18-24,Female,Los Angeles,Various,Premium,2023-10-24,Drama,WebBrowser,1
+1905,25-34,Male,Mumbai,India,Premium,2022-10-29,Comedy,StreamMax,1
+1906,45-54,Female,Singapore,Various,Basic,2024-03-27,Drama,TabletApp,1
+1907,35-44,Male,Toronto,Various,Free,2022-09-06,Drama,SmartTV,1
+1908,55+,Female,Dubai,Various,Free,2024-03-10,Romance,WebBrowser,1
+1909,45-54,Male,Berlin,Various,Premium,2023-09-14,Action,WebBrowser,1
+1910,35-44,Female,Mumbai,India,Premium,2023-03-25,Comedy,StreamMax,1
+1911,18-24,Female,Berlin,Various,Family,2024-04-24,Drama,MobileApp,1
+1912,25-34,Non-binary,Sydney,Various,Free,2023-03-25,Drama,SmartTV,1
+1913,35-44,Non-binary,Singapore,Various,Premium,2023-12-08,Sci-Fi,MobileApp,1
+1914,35-44,Female,Delhi,India,Family,2024-02-05,Drama,MobileApp,1
+1915,45-54,Female,Hyderabad,India,Premium,2022-07-23,Romance,SmartTV,1
+1916,18-24,Male,Dubai,Various,Free,2023-10-20,Thriller,WebBrowser,1
+1917,18-24,Non-binary,London,Various,Free,2023-06-09,Comedy,StreamMax,1
+1918,55+,Female,Mumbai,India,Family,2022-10-17,Action,SmartTV,1
+1919,18-24,Non-binary,Dubai,Various,Free,2023-07-26,Sci-Fi,TabletApp,1
+1920,18-24,Non-binary,Tokyo,Various,Family,2023-09-17,Romance,MobileApp,1
+1921,45-54,Female,Singapore,Various,Family,2023-04-08,Romance,MobileApp,1
+1922,25-34,Non-binary,Delhi,India,Premium,2023-04-10,Action,WebBrowser,0
+1923,55+,Female,Los Angeles,Various,Free,2023-10-01,Thriller,StreamMax,1
+1924,45-54,Male,New York,Various,Premium,2024-05-26,Drama,TabletApp,1
+1925,55+,Female,New York,Various,Basic,2024-02-28,Action,SmartTV,0
+1926,55+,Male,Dubai,Various,Basic,2024-03-02,Drama,MobileApp,1
+1927,18-24,Non-binary,Delhi,India,Free,2024-03-09,Drama,TabletApp,1
+1928,35-44,Female,Delhi,India,Basic,2023-11-05,Drama,MobileApp,1
+1929,35-44,Male,Los Angeles,Various,Basic,2024-03-01,Comedy,StreamMax,1
+1930,45-54,Male,Berlin,Various,Family,2022-01-27,Thriller,MobileApp,1
+1931,45-54,Female,London,Various,Basic,2022-07-30,Thriller,TabletApp,1
+1932,25-34,Non-binary,Delhi,India,Free,2022-06-16,Drama,StreamMax,0
+1933,55+,Female,Dubai,Various,Premium,2023-03-02,Drama,MobileApp,0
+1934,55+,Female,Singapore,Various,Family,2022-09-19,Action,StreamMax,0
+1935,18-24,Female,Mumbai,India,Family,2023-02-14,Sci-Fi,SmartTV,1
+1936,18-24,Female,Chennai,India,Premium,2022-08-23,Romance,StreamMax,1
+1937,45-54,Female,Singapore,Various,Free,2022-10-09,Romance,SmartTV,1
+1938,25-34,Male,Toronto,Various,Free,2022-05-12,Action,MobileApp,1
+1939,18-24,Male,London,Various,Basic,2024-01-28,Romance,SmartTV,1
+1940,25-34,Female,Los Angeles,Various,Basic,2022-06-28,Action,MobileApp,1
+1941,25-34,Female,Singapore,Various,Free,2024-03-16,Drama,StreamMax,1
+1942,45-54,Non-binary,Chennai,India,Premium,2024-05-11,Comedy,TabletApp,1
+1943,18-24,Female,Singapore,Various,Free,2023-04-27,Sci-Fi,MobileApp,0
+1944,55+,Female,Mumbai,India,Basic,2022-06-11,Sci-Fi,StreamMax,1
+1945,18-24,Female,Hyderabad,India,Free,2022-04-26,Thriller,WebBrowser,0
+1946,55+,Female,Toronto,Various,Basic,2024-05-27,Action,StreamMax,1
+1947,35-44,Male,London,Various,Premium,2023-11-04,Action,SmartTV,0
+1948,18-24,Female,Paris,Various,Family,2024-02-06,Action,MobileApp,1
+1949,25-34,Male,Tokyo,Various,Basic,2023-11-07,Sci-Fi,StreamMax,1
+1950,55+,Male,Chennai,India,Basic,2022-08-20,Comedy,MobileApp,1
+1951,35-44,Non-binary,Chennai,India,Family,2023-11-16,Action,TabletApp,1
+1952,35-44,Male,Berlin,Various,Premium,2023-03-09,Comedy,MobileApp,1
+1953,18-24,Non-binary,Berlin,Various,Family,2023-10-10,Sci-Fi,MobileApp,0
+1954,25-34,Non-binary,Mumbai,India,Free,2024-05-05,Drama,MobileApp,1
+1955,55+,Female,Mumbai,India,Family,2024-05-28,Comedy,MobileApp,1
+1956,55+,Female,Toronto,Various,Family,2022-08-08,Thriller,TabletApp,1
+1957,18-24,Non-binary,London,Various,Premium,2023-11-03,Action,SmartTV,1
+1958,25-34,Female,Berlin,Various,Premium,2024-04-06,Thriller,TabletApp,1
+1959,35-44,Non-binary,Delhi,India,Premium,2022-03-06,Comedy,WebBrowser,1
+1960,25-34,Male,Tokyo,Various,Basic,2023-04-14,Sci-Fi,StreamMax,1
+1961,25-34,Female,Chennai,India,Premium,2023-04-09,Thriller,TabletApp,0
+1962,55+,Male,Delhi,India,Family,2024-04-19,Action,MobileApp,1
+1963,25-34,Male,Paris,Various,Basic,2024-01-22,Romance,SmartTV,1
+1964,25-34,Non-binary,Singapore,Various,Free,2024-03-30,Action,SmartTV,1
+1965,55+,Male,Dubai,Various,Premium,2022-06-12,Sci-Fi,MobileApp,1
+1966,55+,Male,Toronto,Various,Basic,2023-07-08,Action,WebBrowser,0
+1967,18-24,Female,Chennai,India,Premium,2023-02-04,Action,WebBrowser,0
+1968,35-44,Male,London,Various,Premium,2022-01-01,Sci-Fi,SmartTV,1
+1969,35-44,Male,Paris,Various,Free,2022-03-02,Thriller,MobileApp,1
+1970,25-34,Male,Toronto,Various,Family,2024-03-16,Drama,WebBrowser,1
+1971,25-34,Female,Hyderabad,India,Free,2022-08-20,Comedy,MobileApp,0
+1972,55+,Non-binary,Delhi,India,Basic,2022-07-30,Thriller,MobileApp,1
+1973,35-44,Male,Singapore,Various,Free,2023-06-18,Comedy,TabletApp,1
+1974,55+,Female,Paris,Various,Basic,2023-11-08,Thriller,SmartTV,1
+1975,55+,Female,Tokyo,Various,Basic,2022-03-14,Romance,SmartTV,0
+1976,45-54,Female,Mumbai,India,Free,2023-10-04,Thriller,WebBrowser,1
+1977,45-54,Female,Berlin,Various,Basic,2023-06-20,Sci-Fi,StreamMax,0
+1978,55+,Female,Sydney,Various,Basic,2024-05-20,Romance,WebBrowser,1
+1979,45-54,Male,Los Angeles,Various,Free,2024-02-28,Comedy,SmartTV,0
+1980,55+,Female,Paris,Various,Family,2023-11-14,Comedy,SmartTV,1
+1981,45-54,Male,Delhi,India,Family,2022-08-15,Action,WebBrowser,1
+1982,45-54,Non-binary,Delhi,India,Family,2023-09-14,Action,WebBrowser,1
+1983,55+,Non-binary,Delhi,India,Free,2023-08-13,Sci-Fi,StreamMax,0
+1984,35-44,Non-binary,Hyderabad,India,Family,2024-04-14,Thriller,StreamMax,1
+1985,45-54,Female,Singapore,Various,Free,2023-02-13,Romance,WebBrowser,1
+1986,25-34,Non-binary,Mumbai,India,Basic,2022-01-25,Romance,SmartTV,1
+1987,45-54,Male,Berlin,Various,Family,2024-05-19,Comedy,SmartTV,1
+1988,35-44,Male,New York,Various,Premium,2023-04-02,Sci-Fi,SmartTV,1
+1989,35-44,Male,Paris,Various,Basic,2023-07-26,Action,SmartTV,1
+1990,35-44,Male,Singapore,Various,Family,2024-05-27,Sci-Fi,SmartTV,1
+1991,25-34,Female,Tokyo,Various,Premium,2022-04-14,Romance,StreamMax,1
+1992,55+,Female,New York,Various,Basic,2024-02-14,Thriller,MobileApp,1
+1993,45-54,Female,Dubai,Various,Premium,2024-04-05,Thriller,SmartTV,1
+1994,35-44,Male,Bangalore,India,Free,2022-07-14,Action,SmartTV,0
+1995,55+,Female,Dubai,Various,Basic,2023-02-12,Action,StreamMax,1
+1996,55+,Non-binary,Delhi,India,Family,2024-05-22,Comedy,MobileApp,1
+1997,35-44,Female,Tokyo,Various,Basic,2023-01-30,Sci-Fi,SmartTV,1
+1998,35-44,Male,Delhi,India,Family,2024-04-25,Sci-Fi,MobileApp,1
+1999,35-44,Male,Paris,Various,Family,2022-08-18,Romance,MobileApp,1
+2000,45-54,Non-binary,Hyderabad,India,Basic,2022-05-29,Sci-Fi,SmartTV,1

@@ -1,0 +1,41 @@
+services:
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: streamvault-backend
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      - DATA_DIR=/app/data
+      - SQLITE_DB_PATH=/app/data/sqlite/streamvault.db
+      - CHROMA_DB_PATH=/app/data/chroma
+    volumes:
+      - ./backend/data:/app/data
+      - backend_logs:/app/logs
+      - chroma_cache:/root/.cache/chroma
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 15s
+      timeout: 10s
+      retries: 5
+      start_period: 120s
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: streamvault-frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+volumes:
+  backend_logs:
+  chroma_cache:

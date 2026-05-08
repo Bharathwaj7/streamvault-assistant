@@ -1,0 +1,16 @@
+movie_id,title,genre,release_date,budget_usd,runtime_min,language,rating,director,cast_lead,status
+1,Stellar Run,Sci-Fi,2024-11-15,45000000,102,English,8.4,Philip Proctor,Dennis Sparks,Released
+2,Dark Orbit,Sci-Fi,2024-08-20,60000000,123,English,5.6,Kyle Black,Carmen Nolan,Released
+3,Last Kingdom,Drama,2024-06-10,30000000,105,English,6.3,Donald Henry,Anthony Williams,Released
+4,Laugh Factory,Comedy,2024-09-05,18000000,157,English,7.9,Alicia Reyes,Alexis Bailey,Released
+5,The Silent Code,Thriller,2024-10-22,25000000,142,English,5.8,Shannon Clark,Carly Cole,Released
+6,Neon Dynasty,Action,2025-01-18,55000000,99,English,5.6,Joshua Espinoza,Michael Montgomery,Released
+7,Heartstrings,Romance,2025-02-14,15000000,152,English,6.2,Brian Smith,David Ramos,Released
+8,Iron Protocol,Action,2025-03-07,70000000,113,English,7.5,Debbie King,Tracy Davis,Released
+9,Comic Relief,Comedy,2025-01-25,12000000,157,English,7.9,Kevin Miller,Sandra Perkins,Released
+10,Echoes of Tomorrow,Sci-Fi,2025-04-03,50000000,145,English,6.9,Tiffany Cooley,Colleen Hart,Released
+11,Crimson Tide Rise,Thriller,2025-02-28,35000000,88,English,7.4,Andrew Howard,Alexis Wheeler,Released
+12,Wanderlust,Romance,2024-07-04,20000000,108,English,8.0,Daniel Peters,Rachel Morales,Released
+13,The Hollow Men,Drama,2025-03-21,28000000,131,English,7.8,Susan Grant,Ryan Vincent,Released
+14,Velocity,Action,2024-12-01,65000000,115,English,6.4,Daniel Greene,Melissa Sullivan,Released
+15,Punchline,Comedy,2025-04-18,10000000,131,English,8.7,William Potts,Cory Weber,Released
