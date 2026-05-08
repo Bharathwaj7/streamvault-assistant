@@ -12,56 +12,41 @@
 
 ## Architecture Overview
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                          FRONTEND (React + Vite)                         │
-│                                                                          │
-│  ┌─────────────────┐  ┌──────────────────┐  ┌────────────────────────┐ │
-│  │   Chat UI        │  │  Insights Panel  │  │   Live Tool Trace      │ │
-│  │  + SSE Stream    │  │  + 4 Charts      │  │   (SSE Timeline)       │ │
-│  │  + History       │  │  + Filters       │  │   (collapsible)        │ │
-│  └────────┬─────────┘  └──────────────────┘  └────────────────────────┘ │
-└───────────┼─────────────────────────────────────────────────────────────┘
-            │  JWT Bearer · SSE (text/event-stream) · POST /api/chat
-┌───────────▼─────────────────────────────────────────────────────────────┐
-│                         BACKEND (FastAPI + Python)                       │
-│                                                                          │
-│  ┌───────────────────────────────────────────────────────────────────┐  │
-│  │                  AI Orchestrator (orchestrator.py)                 │  │
-│  │                                                                    │  │
-│  │  ┌─────────────┐  ┌──────────────┐  ┌──────────────────────────┐ │  │
-│  │  │  Ambiguity   │  │   Question   │  │   Prompt Injection       │ │  │
-│  │  │  Detection   │  │  Normalizer  │  │   Guard (15 patterns)    │ │  │
-│  │  └─────────────┘  └──────────────┘  └──────────────────────────┘ │  │
-│  │                                                                    │  │
-│  │  ┌─────────────┐  ┌──────────────┐  ┌──────────────────────────┐ │  │
-│  │  │   Query      │  │  Agentic     │  │   Hallucination          │ │  │
-│  │  │ Decomposer   │  │  Loop        │  │   Guard                  │ │  │
-│  │  │ (LLM-based)  │  │  (5 iters)   │  │   + Confidence Scoring   │ │  │
-│  │  └─────────────┘  └──────────────┘  └──────────────────────────┘ │  │
-│  │                                                                    │  │
-│  │  ┌─────────────┐  ┌──────────────┐  ┌──────────────────────────┐ │  │
-│  │  │ Tool         │  │  RAG         │  │   Audit Logger           │ │  │
-│  │  │ Deduplication│  │  Escalation  │  │   (every query)          │ │  │
-│  │  │ (MD5 cache)  │  │  low→med→high│  │                          │ │  │
-│  │  └─────────────┘  └──────────────┘  └──────────────────────────┘ │  │
-│  └──────────┬──────────────────┬───────────────────┬─────────────────┘  │
-│             │                  │                   │                     │
-│  ┌──────────▼──────┐  ┌────────▼────────┐  ┌──────▼──────────────────┐ │
-│  │   SQL Tool       │  │   PDF Tool      │  │   CSV Tool              │ │
-│  │   (aiosqlite)    │  │   (ChromaDB)    │  │   (pandas)              │ │
-│  │   SELECT only    │  │   sensitivity   │  │   10 operations         │ │
-│  │   security views │  │   tagging       │  │   in-memory cache       │ │
-│  └──────────┬──────┘  └────────┬────────┘  └──────┬──────────────────┘ │
-│             │                  │                   │                     │
-│  ┌──────────▼──────┐  ┌────────▼────────┐  ┌──────▼──────────────────┐ │
-│  │   SQLite DB      │  │  Chroma Vector  │  │  Pandas DataFrames      │ │
-│  │   6 tables       │  │  Store          │  │  6 CSV files            │ │
-│  │   6 sec. views   │  │  5 PDFs chunked │  │  loaded at startup      │ │
-│  └─────────────────┘  └─────────────────┘  └─────────────────────────┘ │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+```mermaid
+flowchart TD
+    subgraph FE["Frontend — React + Vite"]
+        CHAT["Chat UI\nSSE stream · live tool trace"]
+        DASH["Insights Panel\n4 charts · period/genre filters"]
+        AUTH["Auth + State\nJWT · Zustand · localStorage"]
+    end
 
+    subgraph BE["Backend — FastAPI + Python"]
+        GUARD["Injection Guard\n15 regex patterns"]
+        AMB["Ambiguity Check\nclarifying prompts"]
+        NORM["Query Normalizer\n7 rewrite patterns"]
+        ORCH["AI Orchestrator — Groq llama-3.3-70b\ndecomposition · agentic loop · SSE emitter\nhallucination guard · confidence scoring · audit log"]
+        SQL["SQL Tool\nSELECT-only · views"]
+        PDF["PDF Tool\nChromaDB · low→med→high"]
+        CSV["CSV Tool\npandas · 10 ops"]
+    end
+
+    subgraph DATA["Data Layer"]
+        DB["SQLite\n6 tables · 6 security views"]
+        CHROMA["ChromaDB\n5 PDFs · sensitivity tags"]
+        PANDAS["Pandas Cache\n6 CSVs in memory"]
+    end
+
+    FE -->|"JWT Bearer · SSE stream"| BE
+    GUARD --> ORCH
+    AMB --> ORCH
+    NORM --> ORCH
+    ORCH --> SQL
+    ORCH --> PDF
+    ORCH --> CSV
+    SQL --> DB
+    PDF --> CHROMA
+    CSV --> PANDAS
+```
 ---
 
 ## Key Features
