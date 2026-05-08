@@ -12,7 +12,7 @@
 
 ## Architecture Overview
 
-![StreamVault Architecture](docs/architecture.png)
+![StreamVault Architecture](docs/streamvault_architecture@1x.png)
 ---
 
 ## Key Features
