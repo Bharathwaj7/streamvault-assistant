@@ -34,9 +34,9 @@ def _trend_group_format(period: Optional[str]) -> str:
         # Group by ~15-day periods using day of month
         return """
             SUBSTR(wa.watch_date, 1, 7) ||
-            CASE WHEN CAST(SUBSTR(wa.watch_date, 9, 2) AS INTEGER) <= 15
+            CASE WHEN CAST(SUBSTR(wa.watch_date, 9, 2) AS INTEGER) <= 10
                  THEN '-01'
-                 ELSE '-16'
+                 ELSE '-11'
             END
         """
     else:

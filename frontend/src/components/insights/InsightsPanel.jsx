@@ -66,30 +66,30 @@ function ChartCard({ title, children }) {
 
 // ── Filter options ────────────────────────────────────────────────────────────
 const PERIOD_OPTIONS = [
-  { label: 'All Time',     value: 'all'     },
-  { label: 'Last 30 Days', value: 'last30'  },
-  { label: 'Q1 2025',      value: 'q1_2025' },
-  { label: 'Q2 2025',      value: 'q2_2025' },
-  { label: 'Q3 2025',      value: 'q3_2025' },
-  { label: 'Q4 2025',      value: 'q4_2025' },
+  { label: 'All Time', value: 'all' },
+  { label: 'Last 30 Days', value: 'last30' },
+  { label: 'Q1 2025', value: 'q1_2025' },
+  { label: 'Q2 2025', value: 'q2_2025' },
+  { label: 'Q3 2025', value: 'q3_2025' },
+  { label: 'Q4 2025', value: 'q4_2025' },
 ]
 
 const GENRE_OPTIONS = [
-  { label: 'All Genres', value: 'all'      },
-  { label: 'Sci-Fi',     value: 'Sci-Fi'   },
-  { label: 'Action',     value: 'Action'   },
-  { label: 'Drama',      value: 'Drama'    },
-  { label: 'Comedy',     value: 'Comedy'   },
-  { label: 'Thriller',   value: 'Thriller' },
-  { label: 'Romance',    value: 'Romance'  },
+  { label: 'All Genres', value: 'all' },
+  { label: 'Sci-Fi', value: 'Sci-Fi' },
+  { label: 'Action', value: 'Action' },
+  { label: 'Drama', value: 'Drama' },
+  { label: 'Comedy', value: 'Comedy' },
+  { label: 'Thriller', value: 'Thriller' },
+  { label: 'Romance', value: 'Romance' },
 ]
 
 export default function InsightsPanel() {
-  const [data,    setData]    = useState(null)
+  const [data, setData] = useState(null)
   const [loading, setLoading] = useState(true)
-  const [error,   setError]   = useState(null)
-  const [period,  setPeriod]  = useState('all')
-  const [genre,   setGenre]   = useState('all')
+  const [error, setError] = useState(null)
+  const [period, setPeriod] = useState('all')
+  const [genre, setGenre] = useState('all')
 
   const fetchData = useCallback(async (selectedPeriod, selectedGenre) => {
     setLoading(true)
@@ -97,7 +97,7 @@ export default function InsightsPanel() {
     try {
       const params = {}
       if (selectedPeriod && selectedPeriod !== 'all') params.period = selectedPeriod
-      if (selectedGenre  && selectedGenre  !== 'all') params.genre  = selectedGenre
+      if (selectedGenre && selectedGenre !== 'all') params.genre = selectedGenre
       const res = await analyticsAPI.getInsights(params)
       setData(res.data)
     } catch (e) {
