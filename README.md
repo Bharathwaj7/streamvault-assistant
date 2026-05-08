@@ -12,41 +12,7 @@
 
 ## Architecture Overview
 
-```mermaid
-flowchart TD
-    subgraph FE["Frontend — React + Vite"]
-        CHAT["Chat UI\nSSE stream · live tool trace"]
-        DASH["Insights Panel\n4 charts · period/genre filters"]
-        AUTH["Auth + State\nJWT · Zustand · localStorage"]
-    end
-
-    subgraph BE["Backend — FastAPI + Python"]
-        GUARD["Injection Guard\n15 regex patterns"]
-        AMB["Ambiguity Check\nclarifying prompts"]
-        NORM["Query Normalizer\n7 rewrite patterns"]
-        ORCH["AI Orchestrator — Groq llama-3.3-70b\ndecomposition · agentic loop · SSE emitter\nhallucination guard · confidence scoring · audit log"]
-        SQL["SQL Tool\nSELECT-only · views"]
-        PDF["PDF Tool\nChromaDB · low→med→high"]
-        CSV["CSV Tool\npandas · 10 ops"]
-    end
-
-    subgraph DATA["Data Layer"]
-        DB["SQLite\n6 tables · 6 security views"]
-        CHROMA["ChromaDB\n5 PDFs · sensitivity tags"]
-        PANDAS["Pandas Cache\n6 CSVs in memory"]
-    end
-
-    FE -->|"JWT Bearer · SSE stream"| BE
-    GUARD --> ORCH
-    AMB --> ORCH
-    NORM --> ORCH
-    ORCH --> SQL
-    ORCH --> PDF
-    ORCH --> CSV
-    SQL --> DB
-    PDF --> CHROMA
-    CSV --> PANDAS
-```
+![StreamVault Architecture](docs/architecture.png)
 ---
 
 ## Key Features
